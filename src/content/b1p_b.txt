@@ -1,0 +1,347 @@
+# B1+-13 | Requesting missing survey data | طلب بيانات مساحية ناقصة
+ENG Peter, consultant surveyor, bm_lewis
+SCENE: مساح الاستشاري مابعتش بيانات الرفع المشترك، وإنت محتاجها للمستخلص.
+QS: Peter, I'm still waiting for the joint survey data from last Tuesday. || بيتر، أنا لسه مستني بيانات الرفع المشترك من التلات اللي فات.
+ENG: Sorry, Hassan. We've been very busy with the other packages. || آسف يا حسن. كنا مشغولين جدًا مع الحزم التانية.
+QS: I understand, but I need it to close the monthly measurement. || فاهم، بس محتاجها عشان أقفل القياس الشهري.
+ENG: When is your deadline? || آخر ميعاد عندك إمتى؟
+QS: The payment application must be submitted on the twenty-fifth. || المستخلص لازم يتقدم يوم خمسة وعشرين.
+ENG: I can send the raw points today, but the report will take longer. || أقدر أبعت النقط الخام النهاردة، بس التقرير هياخد وقت أطول.
+QS: The raw points are enough for now, as long as they are signed later. || النقط الخام كفاية دلوقتي، طالما هتتوقع بعدين.
+ENG: Fine. I'll send the file and the signed copy next week. || تمام. هبعت الملف والنسخة الموقعة الأسبوع الجاي.
+QS: Perfect. Please copy Nadia on the email. || ممتاز. حط نادية نسخة في الإيميل لو سمحت.
+ENG: Will do. || حاضر.
+P: I'm still waiting for = أنا لسه مستني
+P: to close the monthly measurement = عشان أقفل القياس الشهري
+P: When is your deadline? = آخر ميعاد عندك إمتى؟
+P: as long as = طالما
+P: Please copy Nadia on the email = حط نادية نسخة في الإيميل
+H: deadline = DED-lyne — دِدْلايْن
+H: raw = RAW — رُو
+H: enough = i-NUF — إِنَف
+R: I am still waiting for the joint survey data.
+R: I need it to close the monthly measurement.
+R: The payment application must be submitted on the twenty-fifth.
+R: The raw points are enough, as long as they are signed later.
+R: Please copy Nadia on the email.
+T: Politely chase a colleague for missing data and explain your deadline. | تابع زميل بأدب على بيانات ناقصة ووضح آخر ميعاد. | I'm still waiting for the joint survey data from last Tuesday. I need it to close the monthly measurement, because the payment application must be submitted on the twenty-fifth. | still waiting; monthly measurement; submitted
+T: Accept a partial solution with a condition. | اقبل حل جزئي بشرط. | The raw points are enough for now, as long as you send the signed copy later. Please copy Nadia on the email, so the consultant has the same data. | enough for now; as long as; signed copy
+
+# B1+-14 | Drawing versus bill of quantities | تعارض الرسمة مع جدول الكميات
+ENG David, consultant engineer, bm_george
+SCENE: لقيت تعارض بين الرسمة وجدول الكميات في سُمك الطبقة، وبتطلب توضيح.
+QS: David, I found a conflict between the drawing and the bill of quantities. || ديفيد، لقيت تعارض بين الرسمة وجدول الكميات.
+ENG: What kind of conflict? || تعارض من أي نوع؟
+QS: The drawing shows a sub-base layer under the road, but there's no item for it in the bill. || الرسمة فيها طبقة أساس مساعد تحت الطريق، بس مفيش بند ليها في الجدول.
+ENG: Maybe it's included in another item. || يمكن داخلة في بند تاني.
+QS: I checked the item descriptions. None of them mentions the sub-base. || راجعت وصف البنود. ولا واحد فيهم بيذكر الأساس المساعد.
+ENG: Then we need a clarification from the designer. || يبقى محتاجين توضيح من المصمم.
+QS: Yes. Should we wait, or build it as shown on the drawing? || أيوه. نستنى، ولا ننفذها زي ما هي في الرسمة؟
+ENG: Build it as shown, but don't start before you get my written confirmation. || نفذوها زي ما هي، بس ماتبدأوش قبل ما يوصلكم تأكيدي المكتوب.
+QS: Understood. I'll send a formal request for information today. || مفهوم. هبعت طلب معلومات رسمي النهاردة.
+ENG: Good. Reference the drawing number and the bill section. || كويس. اذكر رقم الرسمة وقسم الجدول.
+P: I found a conflict between = لقيت تعارض بين
+P: there's no item for it = مفيش بند ليه
+P: None of them mentions = ولا واحد فيهم بيذكر
+P: as shown on the drawing = زي ما هو في الرسمة
+P: a request for information = طلب معلومات (RFI)
+H: conflict = KON-flikt — كُونْفْلِكْت (اسم)
+H: clarification = klar-i-fi-KAY-shun — كْلارِفِيكِيشَن
+H: descriptions = di-SKRIP-shunz — دِسْكْرِپْشَنز
+R: I found a conflict between the drawing and the bill of quantities.
+R: There is no item for the sub-base in the bill.
+R: None of the item descriptions mentions it.
+R: Should we wait, or build it as shown on the drawing?
+R: I will send a formal request for information today.
+T: Report a conflict between two contract documents. | بلّغ عن تعارض بين مستندين في العقد. | I found a conflict between the drawing and the bill of quantities. The drawing shows a sub-base layer, but there is no item for it in the bill, and none of the descriptions mentions it. | conflict; drawing; bill of quantities
+T: Ask how to proceed and say you will put it in writing. | اسأل تتصرفوا إزاي وقول هتكتبها رسمي. | Should we wait or build it as shown on the drawing? Either way, I will send a formal request for information today with the drawing number and the bill section. | as shown on the drawing; request for information; formal
+
+# B1+-15 | Asking approval for night work | طلب الموافقة على شغل ليلي
+ENG David, consultant engineer, bm_george
+SCENE: بتطلب من الاستشاري يوافق على شغل بالليل عشان تعوضوا تأخير الحر.
+QS: David, we'd like to start night shifts in Zone C next week. || ديفيد، حابين نبدأ ورديات ليلية في منطقة C الأسبوع الجاي.
+ENG: Why at night? || ليه بالليل؟
+QS: It's too hot at midday, so production drops. At night we can work safely and faster. || الجو حر جدًا الضهر، فالإنتاج بيقل. بالليل نقدر نشتغل بأمان وأسرع.
+ENG: What about lighting and supervision? || والإنارة والإشراف؟
+QS: We'll have six lighting towers and a full night team, including a surveyor. || هيبقى عندنا ست أبراج إنارة وفريق ليلي كامل، بما فيهم مساح.
+ENG: My inspectors work only during the day. || المفتشين بتوعي بيشتغلوا بالنهار بس.
+QS: We'll test the layers in the morning before you inspect them. || هنختبر الطبقات الصبح قبل ما تعاينوها.
+ENG: Send me a method statement for the night work. || ابعتلي طريقة تنفيذ للشغل الليلي.
+QS: I'll send it tomorrow, with the safety plan. || هبعتها بكرة، ومعاها خطة السلامة.
+ENG: OK. I'll review it and reply within two days. || تمام. هراجعها وأرد خلال يومين.
+P: we'd like to start = حابين نبدأ
+P: production drops = الإنتاج بيقل
+P: including a surveyor = بما فيهم مساح
+P: a method statement = طريقة تنفيذ (ميثود ستيتمنت)
+P: reply within two days = أرد خلال يومين
+H: midday = mid-DAY — مِدْدِي
+H: supervision = soo-per-VIZH-un — سُوپَرْفِيجِن
+H: statement = STAYT-ment — سْتِيتْمِنْت
+R: We would like to start night shifts next week.
+R: It is too hot at midday, so production drops.
+R: We will have six lighting towers and a full night team.
+R: We will test the layers in the morning before you inspect them.
+R: I will send the method statement with the safety plan.
+T: Ask the consultant to approve night work and give reasons. | اطلب من الاستشاري يوافق على شغل ليلي ووضح الأسباب. | We would like to start night shifts next week. It's too hot at midday, so production drops. At night we can work safely and faster. | night shifts; too hot; production drops
+T: Answer concerns about lighting, supervision and inspection. | رد على المخاوف بخصوص الإنارة والإشراف والمعاينة. | We will have six lighting towers and a full night team, including a surveyor. We will test the layers in the morning before your inspectors check them, and I'll send a method statement. | lighting towers; inspect; method statement
+
+# B1+-16 | Coordinating with the utilities team | التنسيق مع فريق المرافق
+ENG Hamid, utilities engineer, am_adam
+SCENE: فريق المرافق عايز يحفر خندق في منطقة إنتو خلصتوا ردمها، وإنت بتنسق.
+ENG: Hassan, we need to dig a trench across Zone C for the water line. || حسن، محتاجين نحفر خندق بعرض منطقة C لخط المياه.
+QS: Zone C is already filled and approved. When do you plan to dig? || منطقة C اتردمت واتعتمدت خلاص. ناويين تحفروا إمتى؟
+ENG: Next week, if possible. || الأسبوع الجاي لو ينفع.
+QS: OK, but we need to agree on who reinstates the fill after you finish. || تمام، بس لازم نتفق مين هيرجّع الردم بعد ما تخلصوا.
+ENG: Normally we backfill the trench ourselves. || عادةً إحنا اللي بنردم الخندق.
+QS: Then it must meet the same compaction standard as our layers. || يبقى لازم يحقق نفس معيار الدمك بتاع طبقاتنا.
+ENG: Of course. We'll test every layer. || طبعًا. هنختبر كل طبقة.
+QS: And please share your trench route, so we survey the area before you start. || وابعتلي مسار الخندق لو سمحت، عشان نرفع المنطقة قبل ما تبدأوا.
+ENG: Why do you need a survey? || محتاج رفع ليه؟
+QS: To record the condition before your work. It protects both teams. || عشان نسجّل الحالة قبل شغلكم. ده بيحمي الفريقين.
+P: across Zone C = بعرض منطقة C
+P: When do you plan to...? = ناويين ... إمتى؟
+P: who reinstates the fill = مين هيرجّع الردم
+P: meet the same standard = يحقق نفس المعيار
+P: It protects both teams = بيحمي الفريقين
+H: reinstates = ree-in-STAYTS — رِي-إنْسْتِيتْس
+H: standard = STAN-derd — سْتانْدَرْد
+H: route = ROOT — رُوت
+R: Zone C is already filled and approved.
+R: We need to agree on who reinstates the fill.
+R: It must meet the same compaction standard as our layers.
+R: Please share your trench route before you start.
+R: The survey records the condition before your work.
+T: Agree with another team on responsibility for reinstatement. | اتفق مع فريق تاني على مسؤولية إعادة الردم. | Zone C is already filled and approved. Before you dig, we need to agree on who reinstates the fill. If you backfill it, it must meet the same compaction standard as our layers. | already filled; reinstates; compaction standard
+T: Explain why you want a survey before their work. | اشرح ليه عايز رفع قبل شغلهم. | Please share your trench route, so we can survey the area before you start. The survey records the condition before your work, and it protects both teams if there is a problem later. | survey; condition; protects both teams
+
+# B1+-17 | Haul road maintenance | صيانة طريق النقل
+ENG Faisal, subcontractor supervisor, am_liam
+SCENE: طريق النقل اتبهدل والعربيات بتتعطل، وبتتفق مع مقاول الباطن على الصيانة.
+ENG: Hassan, the haul road is full of holes. Two of my trucks have broken springs. || حسن، طريق النقل مليان حفر. عربيتين عندي السوست بتاعتهم اتكسرت.
+QS: I saw it. The grader didn't work on the road this week. || شفته. الجريدر مااشتغلش على الطريق الأسبوع ده.
+ENG: Who is responsible for maintaining it? || مين المسؤول عن صيانته؟
+QS: According to your subcontract, we maintain the main haul road, and you maintain the access ramps. || حسب عقد الباطن بتاعك، إحنا بنصون طريق النقل الرئيسي، وإنتو بتصونوا المطالع.
+ENG: OK, so the main road is your job. || تمام، يعني الطريق الرئيسي شغلتكم.
+QS: Yes. I'll make sure the grader works on it every morning. || أيوه. هتأكد إن الجريدر يشتغل عليه كل يوم الصبح.
+ENG: And the water truck? There's a lot of dust too. || وعربية المياه؟ فيه تراب كتير كمان.
+QS: The water truck will spray it twice a day. || عربية المياه هترشه مرتين في اليوم.
+ENG: What about my broken springs? || وسوستي اللي اتكسرت؟
+QS: Send me photos and a report. I'll discuss it with the project manager, but I can't promise anything. || ابعتلي صور وتقرير. هتكلم مع مدير المشروع، بس مقدرش أوعدك بحاجة.
+P: full of holes = مليان حفر
+P: Who is responsible for...? = مين المسؤول عن...؟
+P: According to your subcontract = حسب عقد الباطن بتاعك
+P: I'll make sure = هتأكد إن
+P: I can't promise anything = مقدرش أوعدك بحاجة
+H: maintaining = mayn-TAY-ning — مِينْتِينِنْج
+H: according = a-KOR-ding — أَكُورْدِنْج
+H: promise = PROM-is — پْرُومِس
+R: The haul road is full of holes.
+R: Who is responsible for maintaining the road?
+R: According to your subcontract, we maintain the main haul road.
+R: The water truck will spray it twice a day.
+R: I will discuss it, but I cannot promise anything.
+T: Explain who is responsible for what, based on the contract. | وضّح مين مسؤول عن إيه حسب العقد. | According to your subcontract, we maintain the main haul road and you maintain the access ramps. So I will make sure the grader works on the main road every morning. | according to; responsible; maintain
+T: Respond to a claim for damage without making a promise. | رد على طلب تعويض عن ضرر من غير ما توعد. | Please send me photos and a short report about the broken springs. I will discuss it with the project manager, but I can't promise anything now. | photos; report; can't promise
+
+# B1+-18 | Discussing the compaction method | مناقشة طريقة الدمك
+ENG Peter, lab technician, bm_lewis
+SCENE: نتايج الاختبارات متذبذبة، وبتناقش مع فني المعمل طريقة الدمك.
+QS: Peter, the test results in Zone C go up and down a lot. Why? || بيتر، نتايج الاختبارات في منطقة C بتطلع وتنزل كتير. ليه؟
+ENG: I think the layers are too thick in some places. || أعتقد الطبقات تخينة زيادة في بعض الأماكن.
+QS: The method statement says a maximum of thirty centimetres. || طريقة التنفيذ بتقول ماكس تلاتين سنتي.
+ENG: Yes, but I measured more in some spots. || أيوه، بس أنا قست أكتر في بعض الأماكن.
+QS: Then the roller can't compact the bottom of the layer properly. || يبقى الهراس مش هيقدر يدمك قاع الطبقة كويس.
+ENG: Exactly. Also, the number of passes isn't always the same. || بالظبط. كمان عدد المرات مش دايمًا ثابت.
+QS: OK. I'll ask the foreman to use level pegs for the layer thickness. || تمام. هطلب من المراقب يستخدم أوتاد منسوب لسُمك الطبقة.
+ENG: And a simple pass counter for the roller operator. || وعداد مرات بسيط لسواق الهراس.
+QS: Good idea. Let's do a trial area tomorrow and test it. || فكرة كويسة. خلينا نعمل منطقة تجربة بكرة ونختبرها.
+ENG: I'll be there at eight. || هكون هناك الساعة تمانية.
+P: go up and down a lot = بتطلع وتنزل كتير
+P: too thick in some places = تخينة زيادة في بعض الأماكن
+P: a maximum of = بحد أقصى
+P: the number of passes = عدد المرات (للهراس)
+P: a trial area = منطقة تجربة
+H: thickness = THIK-nis — ثِكْنِس
+H: properly = PROP-er-lee — پْرُوپَرْلِي
+H: trial = TRY-al — تْرايَل
+R: The test results in Zone C go up and down a lot.
+R: The layers are too thick in some places.
+R: The roller cannot compact the bottom of the layer properly.
+R: Use level pegs to control the layer thickness.
+R: Let's do a trial area tomorrow and test it.
+T: Discuss the reasons for inconsistent test results. | ناقش أسباب نتايج الاختبارات المتذبذبة. | The test results go up and down a lot. I think the layers are too thick in some places, so the roller can't compact the bottom properly. Also, the number of passes is not always the same. | too thick; compact; number of passes
+T: Propose practical actions to fix the problem. | اقترح إجراءات عملية لحل المشكلة. | The foreman will use level pegs to control the layer thickness, and the roller operator will count the passes. Let's do a trial area tomorrow and test it. | level pegs; thickness; trial area
+
+# B1+-19 | Defending a rejected item | الدفاع عن بند مرفوض
+ENG Nadia, consultant's QS, bf_isabella
+SCENE: الاستشارية رفضت بند نقل المخلفات في المستخلص، وإنت بتدافع عنه بأدلة.
+ENG: We rejected the item for removing unsuitable material. || رفضنا بند إزالة المواد غير الصالحة.
+QS: Can you tell me the reason, please? || ممكن تقوليلي السبب لو سمحتي؟
+ENG: We don't see any approval for the quantity. || مش شايفين أي اعتماد للكمية.
+QS: The engineer inspected the area and agreed the material was unsuitable. || المهندس عاين المنطقة ووافق إن المادة غير صالحة.
+ENG: Do you have that in writing? || عندك ده مكتوب؟
+QS: Yes. Here's the inspection request, signed on the twelfth, with his comment. || أيوه. ده طلب المعاينة، موقّع يوم اتناشر، وعليه تعليقه.
+ENG: OK, that confirms the material. What about the quantity? || تمام، ده بيأكد المادة. والكمية؟
+QS: It's based on a joint survey before and after the removal. Both surveys are attached. || مبنية على رفع مشترك قبل وبعد الإزالة. الرفعين مرفقين.
+ENG: I missed those attachments. I'll review the item again. || فاتتني المرفقات دي. هراجع البند تاني.
+QS: Thank you. Could we close it before the end of the week? || شكرًا. ممكن نقفله قبل آخر الأسبوع؟
+P: Can you tell me the reason? = ممكن تقولي السبب؟
+P: Do you have that in writing? = عندك ده مكتوب؟
+P: that confirms = ده بيأكد
+P: It's based on = مبنية على
+P: Both surveys are attached = الرفعين مرفقين
+H: unsuitable = un-SOO-ta-bul — أَنْسُوتَبُل
+H: attached = a-TACHT — أتاتْشْت
+H: removal = ri-MOO-val — رِيمُوفَال
+R: Can you tell me the reason, please?
+R: The engineer inspected the area and agreed the material was unsuitable.
+R: Here is the inspection request with his comment.
+R: The quantity is based on a joint survey before and after.
+R: Could we close it before the end of the week?
+T: Ask for the reason an item was rejected, and give your evidence. | اسأل عن سبب رفض بند، وقدّم دليلك. | Can you tell me the reason, please? The engineer inspected the area and agreed the material was unsuitable. Here is the signed inspection request with his comment. | reason; inspected; signed
+T: Explain how the quantity was measured and ask to close the item. | اشرح الكمية اتقاست إزاي واطلب قفل البند. | The quantity is based on a joint survey before and after the removal, and both surveys are attached. Could we close this item before the end of the week? | based on; joint survey; close it
+
+# B1+-20 | Planning the testing schedule | تخطيط جدول الاختبارات
+ENG Peter, lab technician, bm_lewis
+SCENE: بتنسق مع المعمل جدول الاختبارات للأسبوع الجاي عشان ماحدش يستنى.
+QS: Peter, let's plan next week's tests, so the teams don't wait. || بيتر، خلينا نخطط اختبارات الأسبوع الجاي عشان الفرق ماتستناش.
+ENG: Good idea. How many layers do you expect? || فكرة كويسة. متوقع كام طبقة؟
+QS: About two layers a day in Zone C, and one in Zone F. || حوالي طبقتين في اليوم في منطقة C، وواحدة في منطقة F.
+ENG: That's a lot for one technician. || ده كتير على فني واحد.
+QS: Can you bring a second technician for the week? || تقدر تجيب فني تاني للأسبوع ده؟
+ENG: Maybe, but I need a request from your manager. || ممكن، بس محتاج طلب من مديرك.
+QS: I'll ask him today. Also, can we fix test times? Nine and two o'clock? || هطلب منه النهاردة. وكمان، نثبّت مواعيد الاختبار؟ تسعة واتنين؟
+ENG: Fixed times are better for me too. || المواعيد الثابتة أحسن ليا أنا كمان.
+QS: Great. I'll share the plan with the foreman and the consultant. || عظيم. هشارك الخطة مع المراقب والاستشاري.
+ENG: Please send me the list of locations every evening. || ابعتلي قايمة الأماكن كل يوم بالليل لو سمحت.
+P: so the teams don't wait = عشان الفرق ماتستناش
+P: How many ... do you expect? = متوقع كام ...؟
+P: That's a lot for one = ده كتير على واحد
+P: can we fix test times? = نثبّت مواعيد الاختبار؟
+P: share the plan with = أشارك الخطة مع
+H: technician = tek-NISH-un — تِكْنِشَن
+H: expect = ik-SPEKT — إكْسْپِكْت
+H: locations = loh-KAY-shunz — لُوكِيشَنز
+R: Let's plan next week's tests, so the teams don't wait.
+R: We expect about two layers a day in Zone C.
+R: Can you bring a second technician for the week?
+R: Fixed test times are better for everyone.
+R: Please send me the list of locations every evening.
+T: Plan the testing schedule with the lab. | خطط جدول الاختبارات مع المعمل. | Let's plan next week's tests, so the teams don't wait. We expect about two layers a day in Zone C and one in Zone F. Can we fix the test times at nine and two o'clock? | plan; layers a day; fixed times
+T: Ask for extra resources and explain why. | اطلب موارد زيادة ووضح ليه. | That's a lot of tests for one technician. Can you bring a second technician for next week? I will ask my manager to send you a formal request today. | second technician; request; next week
+
+# B1+-21 | Requesting a meeting with the client | طلب اجتماع مع ممثل المالك
+ENG Laura, employer's representative assistant, af_sarah
+SCENE: بتكلّم مساعدة ممثل المالك عشان تحدد اجتماع عن المناطق المتأخر تسليمها.
+QS: Good morning, Laura. I'd like to arrange a meeting with Mr. Grant. || صباح الخير يا لورا. حابب أرتب اجتماع مع مستر جرانت.
+ENG: Good morning. What is it about? || صباح النور. الموضوع عن إيه؟
+QS: It's about the zones we haven't received yet. They are affecting our programme. || عن المناطق اللي لسه مااستلمناهاش. بتأثر على برنامجنا.
+ENG: I see. How long do you need? || فهمت. محتاج قد إيه؟
+QS: About thirty minutes. Our project manager will join. || حوالي نص ساعة. مدير مشروعنا هيحضر.
+ENG: He's available on Sunday at ten or Monday at one. || هو فاضي الأحد الساعة عشرة أو الاتنين الساعة واحدة.
+QS: Sunday at ten works for us. || الأحد الساعة عشرة مناسب لينا.
+ENG: Fine. Can you send an agenda before the meeting? || تمام. تقدر تبعت جدول أعمال قبل الاجتماع؟
+QS: Of course. I'll send it tomorrow with a short status of each zone. || طبعًا. هبعته بكرة ومعاه حالة مختصرة لكل منطقة.
+ENG: Thank you. I'll send you a calendar invitation. || شكرًا. هبعتلك دعوة على التقويم.
+P: I'd like to arrange a meeting = حابب أرتب اجتماع
+P: What is it about? = الموضوع عن إيه؟
+P: They are affecting our programme = بيأثروا على برنامجنا
+P: works for us = مناسب لينا
+P: an agenda = جدول أعمال
+H: arrange = a-RAYNJ — أَرِينْدْج
+H: agenda = a-JEN-da — أَجِنْدَا
+H: programme = PROH-gram — پْرُوجْرام
+R: I would like to arrange a meeting with Mr. Grant.
+R: It is about the zones we have not received yet.
+R: They are affecting our programme.
+R: Sunday at ten works for us.
+R: I will send the agenda tomorrow with a short status.
+T: Request a meeting and explain the topic. | اطلب اجتماع ووضح الموضوع. | Good morning. I'd like to arrange a meeting with the employer's representative. It's about the zones we haven't received yet, because they are affecting our programme. We need about thirty minutes. | arrange a meeting; haven't received; programme
+T: Confirm a time and offer to send an agenda. | أكّد ميعاد واعرض تبعت جدول أعمال. | Sunday at ten works for us. I will send the agenda tomorrow, with a short status of each zone, so the meeting is focused. | works for us; agenda; status
+
+# B1+-22 | Cost impact of a design change | أثر تغيير التصميم على التكلفة
+ENG Khaled, project manager, bm_daniel
+SCENE: مدير المشروع عايز يعرف التغيير في منطقة F هيكلّف قد إيه وليه.
+ENG: Hassan, what's the cost impact of the new levels in Zone F? || حسن، إيه أثر المناسيب الجديدة في منطقة F على التكلفة؟
+QS: There are three parts: extra fill, longer haulage and more testing. || فيه تلات أجزاء: ردم زيادة، ونقل لمسافة أطول، واختبارات أكتر.
+ENG: Which one is the biggest? || أنهي واحد الأكبر؟
+QS: The extra fill. We don't have enough suitable material on site. || الردم الزيادة. مش عندنا مادة صالحة كفاية في الموقع.
+ENG: So we need to import material? || يعني محتاجين نجيب مادة من بره؟
+QS: Yes, from a borrow pit. That adds haulage cost as well. || أيوه، من محجر. ده بيزوّد تكلفة النقل كمان.
+ENG: Can we use the bill rates? || ينفع نستخدم أسعار الجدول؟
+QS: For the fill, yes. For imported material, there's no rate, so we'll propose a new one. || للردم أيوه. للمادة المستوردة مفيش سعر، فهنقترح سعر جديد.
+ENG: Prepare the build-up carefully. The consultant will check every line. || جهّز تحليل السعر بعناية. الاستشاري هيراجع كل سطر.
+QS: I will, with supplier quotations and our actual costs. || أكيد، بعروض أسعار الموردين وتكاليفنا الفعلية.
+P: the cost impact = أثر التكلفة
+P: There are three parts = فيه تلات أجزاء
+P: import material = نجيب مادة من بره
+P: as well = كمان
+P: propose a new rate = نقترح سعر جديد
+H: impact = IM-pakt — إمْپاكْت
+H: borrow pit = BOR-oh pit — بُورُو پِت
+H: quotations = kwoh-TAY-shunz — كْوُوتِيشَنز
+R: There are three parts: extra fill, longer haulage and more testing.
+R: We do not have enough suitable material on site.
+R: We need to import material from a borrow pit.
+R: For imported material there is no rate, so we will propose one.
+R: I will prepare it with supplier quotations and actual costs.
+T: Explain the parts of a cost impact. | اشرح أجزاء الأثر على التكلفة. | The cost impact has three parts: extra fill, longer haulage and more testing. The biggest is the extra fill, because we don't have enough suitable material on site and must import it. | cost impact; three parts; import
+T: Explain how you will price an item that has no rate. | اشرح هتسعّر بند مالوش سعر إزاي. | The bill rate covers the fill, but there is no rate for imported material. We will propose a new rate with a build-up, supported by supplier quotations and our actual costs. | no rate; propose; quotations
+
+# B1+-23 | Correcting the daily report | تصحيح التقرير اليومي
+ENG Khaled, project manager, bm_daniel
+SCENE: المدير لقى أخطاء في التقرير اليومي، وإنت بتعترف وبتصحح.
+ENG: Hassan, there are some mistakes in yesterday's daily report. || حسن، فيه شوية أخطاء في التقرير اليومي بتاع امبارح.
+QS: Really? Which parts? || بجد؟ أنهي أجزاء؟
+ENG: The number of trucks is different from the gate records. || عدد العربيات مختلف عن سجلات البوابة.
+QS: You're right, I used the morning count only. That's my mistake. || عندك حق، استخدمت عدّ الصبح بس. دي غلطتي.
+ENG: And the equipment list shows the excavator as working. || وقايمة المعدات كاتبة إن الحفار شغال.
+QS: It was broken for half the day. I'll correct both and resend it. || كان عطلان نص اليوم. هصحح الاتنين وأبعته تاني.
+ENG: These reports go to the consultant. They must be accurate. || التقارير دي بتروح للاستشاري. لازم تبقى دقيقة.
+QS: I understand. From now on, I'll check the gate sheet before I send it. || فاهم. من هنا ورايح، هراجع كشف البوابة قبل ما أبعته.
+ENG: Good. Mistakes happen, but we can't repeat them. || كويس. الأخطاء بتحصل، بس مانقدرش نكررها.
+QS: Agreed. You'll have the corrected version in an hour. || متفقين. هتوصلك النسخة المصححة خلال ساعة.
+P: That's my mistake = دي غلطتي
+P: I'll correct both and resend it = هصحح الاتنين وأبعته تاني
+P: They must be accurate = لازم تبقى دقيقة
+P: From now on = من هنا ورايح
+P: the corrected version = النسخة المصححة
+H: equipment = i-KWIP-ment — إِكْوِپْمِنْت
+H: resend = ree-SEND — رِي-سِنْد
+H: version = VUR-zhun — فِيرْجِن
+R: The number of trucks is different from the gate records.
+R: You are right, that is my mistake.
+R: I will correct both and resend the report.
+R: From now on, I will check the gate sheet first.
+R: You will have the corrected version in an hour.
+T: Accept a mistake professionally and fix it. | اعترف بغلطة باحتراف وصلّحها. | You're right, that's my mistake. I used the morning count only. I will correct the truck numbers and the equipment status, and resend the report within an hour. | my mistake; correct; resend
+T: Explain how you will prevent the same mistake. | اشرح هتمنع نفس الغلطة إزاي. | From now on, I will check the gate sheet and the equipment log before I send the daily report, so the numbers are always accurate. | from now on; check; accurate
+
+# B1+-24 | Original ground dispute with the surveyor | خلاف على الأرض الطبيعية مع المساح
+ENG Ali, survey team leader, am_adam
+SCENE: المساح بتاعك شايف إن بيانات الأرض الطبيعية القديمة فيها غلط، وبتناقشوا هتعملوا إيه.
+ENG: Hassan, I think the original ground data in Zone H is wrong. || حسن، أعتقد بيانات الأرض الطبيعية في منطقة H غلط.
+QS: What makes you think that? || إيه اللي خلاك تفتكر كده؟
+ENG: Some points are half a metre lower than the area around them. || بعض النقط أوطى بنص متر من المنطقة اللي حواليها.
+QS: Could it be a real hole or a pit? || ممكن تكون حفرة حقيقية؟
+ENG: I visited the area. It's flat. No holes. || زرت المنطقة. مستوية. مفيش حفر.
+QS: Then we must raise it now, before any work starts there. || يبقى لازم نثيرها دلوقتي، قبل أي شغل يبدأ هناك.
+ENG: Should we re-survey the whole zone? || نعيد رفع المنطقة كلها؟
+QS: Yes, jointly with the consultant's surveyor, and we'll compare both sets. || أيوه، بالاشتراك مع مساح الاستشاري، وهنقارن المجموعتين.
+ENG: The consultant may ask why we didn't see it before. || الاستشاري ممكن يسأل ليه ماشفناهوش قبل كده.
+QS: That's fine. It's better to correct it now than to argue about it in the final account. || مفيش مشكلة. أحسن نصححها دلوقتي بدل ما نتخانق عليها في الحساب الختامي.
+P: What makes you think that? = إيه اللي خلاك تفتكر كده؟
+P: Could it be...? = ممكن تكون...؟
+P: raise it now = نثيرها دلوقتي
+P: jointly with = بالاشتراك مع
+P: It's better to ... than to ... = أحسن ... بدل ما ...
+H: re-survey = ree-sur-VAY — رِي-سِرْفِي
+H: jointly = JOYNT-lee — جُويْنْتْلِي
+H: argue = AR-gyoo — أرْجْيُو
+R: I think the original ground data in Zone H is wrong.
+R: Some points are half a metre lower than the area around them.
+R: We must raise it now, before any work starts.
+R: We will re-survey jointly with the consultant's surveyor.
+R: It is better to correct it now than to argue later.
+T: Discuss suspected errors in survey data. | ناقش أخطاء مشكوك فيها في بيانات المساحة. | What makes you think the data is wrong? If some points are half a metre lower and the area is flat, it's probably an error. We must raise it now, before any work starts. | what makes you think; error; raise it now
+T: Propose how to correct the data properly. | اقترح إزاي تصحح البيانات صح. | Let's re-survey the whole zone jointly with the consultant's surveyor and compare both sets. It's better to correct it now than to argue about it in the final account. | re-survey; jointly; final account

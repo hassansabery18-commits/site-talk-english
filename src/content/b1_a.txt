@@ -1,0 +1,334 @@
+# B1-01 | Meeting the new consultant | التعارف مع الاستشاري الجديد
+ENG David, consultant engineer, bm_george
+SCENE: أول يوم للاستشاري الجديد في الموقع، وإنت بتعرّفه بنفسك وبشغلك.
+QS: Good morning. I'm Hassan, the site quantity surveyor.
+ENG: Good morning, Hassan. I'm David from the consultant's office.
+QS: Nice to meet you, David. Welcome to the site.
+ENG: Thank you. What do you do here exactly?
+QS: I measure the work and prepare the payment applications.
+ENG: Great. So you work closely with the surveyors.
+QS: Yes, every day. We check the levels together.
+ENG: Good. I'd like to see the earthworks area first.
+QS: Of course. Let me show you around.
+P: Nice to meet you = اتشرفت بمعرفتك
+P: I measure the work = بقيس الشغل
+P: payment applications = طلبات الدفع (المستخلصات)
+P: We check the levels together = بنراجع المناسيب مع بعض
+P: Let me show you around = خليني أفرّجك على المكان
+H: surveyor = sur-VAY-er — سِرْ-فِيـ-يَر
+H: measure = MEZH-er — مِيـجَر (الـ ژ زي الجيم الخفيفة)
+H: applications = ap-li-KAY-shuns — أبليكيشنز
+R: I'm Hassan, the site quantity surveyor.
+R: I measure the work and prepare the payment applications.
+R: We check the levels together every day.
+R: Welcome to the site, nice to meet you.
+R: Let me show you around the earthworks area.
+T: Introduce yourself to a new engineer and explain your job. | عرّف نفسك لمهندس جديد واشرح شغلك. | Good morning, I'm Hassan, the site quantity surveyor. I measure the work on site and I prepare the payment applications. I work closely with the surveyors. | quantity surveyor; measure; payment applications
+T: Offer to show a visitor the site. | اعرض على زائر إنك تفرّجه على الموقع. | Welcome to the site. Let me show you around. We can start with the earthworks area and then visit the stockpiles. | show you around; earthworks; welcome
+
+# B1-02 | Where do we work today? | فين شغلنا النهاردة؟
+ENG Mark, site engineer, bm_lewis
+SCENE: الصبح بدري، بتسأل مهندس الموقع عن أماكن شغل المعدات النهاردة.
+QS: Morning, Mark. Where are we working today?
+ENG: Morning. The excavators are in Zone B today.
+QS: Are we cutting or filling there?
+ENG: We're cutting in Zone B and filling in Zone C.
+QS: How many trucks do we have?
+ENG: Eight trucks are working from seven o'clock.
+QS: OK. I'll go to Zone B and count the trips.
+ENG: Good. Please send me the numbers at lunchtime.
+QS: No problem. I'll send them before one o'clock.
+P: Where are we working today? = إحنا شغالين فين النهاردة؟
+P: Are we cutting or filling? = إحنا بنقطع ولا بنردم؟
+P: count the trips = أعدّ النقلات (الردود)
+P: Please send me the numbers = ابعتلي الأرقام لو سمحت
+P: No problem = مفيش مشكلة
+H: excavators = EX-ka-vay-terz — إكْسـ-كَا-فِيتَرز
+H: trucks = TRUKS — تْرَكس (من غير ألف في الأول)
+H: zone = ZOHN — زُون
+R: Where are we working today?
+R: We are cutting in Zone B and filling in Zone C.
+R: Eight trucks are working from seven o'clock.
+R: I will go to Zone B and count the trips.
+R: Please send me the numbers at lunchtime.
+T: Ask the site engineer where the equipment is working today. | اسأل مهندس الموقع المعدات شغالة فين النهاردة. | Good morning. Where are we working today? Are the excavators cutting or filling? How many trucks do we have? | where are we working; cutting or filling; trucks
+T: Tell your manager what you will do this morning. | قول لمديرك هتعمل إيه الصبح. | This morning I will go to Zone B and count the truck trips. I will send you the numbers at lunchtime. | count the trips; send; numbers
+
+# B1-03 | Counting trips at the gate | عدّ النقلات عند البوابة
+ENG Tom, gate checker, bm_daniel
+SCENE: عند بوابة الموقع، بتراجع مع مسؤول البوابة عدد النقلات وتذاكر الشحن.
+QS: Hi Tom. How is the counting going?
+ENG: Fine. The trucks are coming every ten minutes.
+QS: Are you writing the truck numbers on the sheet?
+ENG: Yes, every truck, every trip.
+QS: Good. Please check the tickets too.
+ENG: Some drivers forget their tickets.
+QS: Then write a note next to the truck number.
+ENG: OK. When do you need the sheet?
+QS: At the end of the shift, please. Thank you.
+P: How is it going? = الشغل ماشي إزاي؟
+P: every trip = كل نقلة
+P: Please check the tickets = راجع التذاكر لو سمحت
+P: write a note = اكتب ملاحظة
+P: at the end of the shift = في آخر الوردية
+H: tickets = TIK-its — تِيكِتس
+H: shift = SHIFT — شِفت (الـ i قصيرة)
+H: drivers = DRY-verz — دْرَايـ-ـفَرز (فاء بأسنان فوق الشفة: v)
+R: How is the counting going this morning?
+R: Please write the truck numbers on the sheet.
+R: Some drivers forget their tickets.
+R: Write a note next to the truck number.
+R: I need the sheet at the end of the shift.
+T: Ask the gate checker how the counting is going and remind him about the tickets. | اسأل مسؤول البوابة العدّ ماشي إزاي وفكّره بالتذاكر. | Hi Tom, how is the counting going? Please write every truck number on the sheet, and please check the tickets too. | counting; truck numbers; tickets
+T: Explain what to do when a driver has no ticket. | اشرح يعمل إيه لو السواق مامعهوش تذكرة. | If a driver has no ticket, write the truck number and add a note next to it. Then tell me at the end of the shift. | ticket; write a note; end of the shift
+
+# B1-04 | Booking a survey | حجز رفع مساحي
+ENG Ali, survey team leader, am_adam
+SCENE: بتطلب من رئيس فريق المساحة رفع للأرض الطبيعية قبل بداية الحفر.
+QS: Ali, can your team survey Zone D tomorrow?
+ENG: Tomorrow morning is possible. What do you need?
+QS: I need the original ground levels before we start cutting.
+ENG: OK. Do you want a grid survey?
+QS: Yes, a grid survey, please. The consultant will join us.
+ENG: Fine. We'll start at seven.
+QS: Please send me the data the same day.
+ENG: I'll send the points file in the evening.
+QS: Perfect. Thanks, Ali.
+P: Can your team survey Zone D? = فريقك يقدر يعمل رفع لمنطقة D؟
+P: original ground levels = مناسيب الأرض الطبيعية
+P: before we start cutting = قبل ما نبدأ الحفر
+P: The consultant will join us = الاستشاري هييجي معانا
+P: the same day = في نفس اليوم
+H: survey = SUR-vay — سِرْ-فِي (الاسم)، والفعل sur-VAY
+H: original = o-RIJ-i-nal — أُورِيجِنَال (الضغط على RIJ)
+H: data = DAY-ta — دِيتا
+R: Can your team survey Zone D tomorrow?
+R: I need the original ground levels before we start cutting.
+R: Yes, a grid survey, please.
+R: The consultant will join us in the morning.
+R: Please send me the data the same day.
+T: Ask the survey team to measure the original ground. | اطلب من فريق المساحة يرفع الأرض الطبيعية. | Ali, can your team survey Zone D tomorrow morning? I need the original ground levels before we start cutting. The consultant will join us. | survey; original ground levels; before we start
+T: Ask when you will receive the survey data. | اسأل البيانات هتوصلك إمتى. | When can you send me the survey data? I need it the same day, please, because I must prepare the quantities. | send; data; same day
+
+# B1-05 | Asking the foreman about progress | سؤال المراقب عن التقدم
+ENG Ravi, earthworks foreman, bm_george
+SCENE: بتعدي على مراقب الحفريات تسأله وصلوا لفين النهاردة.
+QS: Hello Ravi. How is the work today?
+ENG: Good. We finished the first layer in Zone C.
+QS: Great. Is the second layer ready to start?
+ENG: Not yet. We are waiting for the water truck.
+QS: Why? Is the soil too dry?
+ENG: Yes, it is very dry today. We need more water.
+QS: I understand. I will call the water supplier.
+ENG: Thank you. We can start after lunch.
+QS: Good. I'll come back in the afternoon.
+P: How is the work today? = الشغل عامل إيه النهاردة؟
+P: We finished the first layer = خلّصنا الطبقة الأولى
+P: Not yet = لسه
+P: We are waiting for = إحنا مستنيين
+P: I'll come back in the afternoon = هرجع بعد الضهر
+H: layer = LAY-er — لِيـ-يَر
+H: water = WAW-ter — وُوتَر
+H: afternoon = af-ter-NOON — آفْتَر-نُون (الضغط في الآخر)
+R: We finished the first layer in Zone C.
+R: Is the second layer ready to start?
+R: We are waiting for the water truck.
+R: The soil is very dry today.
+R: I will come back in the afternoon.
+T: Ask the foreman about today's progress. | اسأل المراقب عن تقدم الشغل النهاردة. | Hello Ravi, how is the work today? Did you finish the first layer? Is the second layer ready to start? | how is the work; layer; ready
+T: Explain why the work stopped and what you will do. | اشرح الشغل وقف ليه وهتعمل إيه. | The work stopped because the soil is too dry. We are waiting for the water truck. I will call the water supplier now. | waiting for; water truck; I will call
+
+# B1-06 | Missing drawings | رسومات ناقصة
+ENG Sarah, document controller, bf_isabella
+SCENE: مكالمة تليفون مع مسؤولة الوثائق عشان رسومات المناسيب الجديدة مش عندك.
+QS: Hello Sarah, this is Hassan from the site.
+ENG: Hi Hassan. How can I help you?
+QS: I don't have the latest grading drawings for Zone E.
+ENG: Really? They were issued last week.
+QS: I only have the old revision.
+ENG: Sorry about that. I'll email the new revision now.
+QS: Thank you. Can you also send a printed copy?
+ENG: Yes, I'll send it with the driver this afternoon.
+QS: That's great. Thanks for your help.
+P: This is Hassan from the site = معاك حسن من الموقع
+P: How can I help you? = أقدر أساعدك إزاي؟
+P: the latest drawings = آخر رسومات
+P: the old revision = المراجعة القديمة (الإصدار القديم)
+P: Thanks for your help = شكرًا على مساعدتك
+H: drawings = DRAW-ingz — دْرُوِنْجز
+H: revision = ri-VIZH-un — رِفِيـجِن (v مش ف)
+H: issued = ISH-ood — إِشُود
+R: Hello Sarah, this is Hassan from the site.
+R: I don't have the latest grading drawings.
+R: I only have the old revision.
+R: Can you also send a printed copy?
+R: Thanks for your help this afternoon.
+T: Call the office and ask for the latest drawings. | كلّم المكتب واطلب آخر رسومات. | Hello, this is Hassan from the site. I don't have the latest grading drawings for Zone E. I only have the old revision. Can you email the new one, please? | this is Hassan; latest drawings; old revision
+T: Ask for a printed copy politely. | اطلب نسخة مطبوعة بأدب. | Thank you. Could you also send a printed copy to the site, please? The foreman needs it this afternoon. | printed copy; please; could you
+// (lesson 7)
+# B1-07 | A failed compaction test | اختبار دمك فشل
+ENG Peter, lab technician, bm_lewis
+SCENE: فني المعمل بيبلغك إن اختبار الدمك للطبقة فشل.
+ENG: Hassan, the density test in Zone C failed.
+QS: Oh no. Which layer?
+ENG: The third layer, near the east side.
+QS: What was the problem?
+ENG: The moisture was too low.
+QS: So we need to add water and compact again.
+ENG: Yes. Then we can test it again.
+QS: OK. I'll tell the foreman now.
+ENG: Please call me when the layer is ready.
+P: the density test failed = اختبار الكثافة فشل
+P: Which layer? = أنهي طبقة؟
+P: The moisture was too low = الرطوبة كانت قليلة
+P: compact again = ندمك تاني
+P: test it again = نختبرها تاني
+H: density = DEN-si-tee — دِنْسِتي
+H: moisture = MOYS-cher — مُويْسـ-تشَر
+H: compact = kom-PAKT — كُمْـبَاكت (فعل: الضغط في الآخر)
+R: The density test in Zone C failed.
+R: The moisture was too low.
+R: We need to add water and compact again.
+R: Then we can test the layer again.
+R: Please call me when the layer is ready.
+T: Tell the foreman that the test failed and what to do. | قول للمراقب إن الاختبار فشل والمطلوب إيه. | Ravi, the density test for the third layer failed because the moisture was too low. Please add water and compact the layer again. Then we will test it again. | density test; moisture; compact again
+T: Ask the lab technician about the failed test. | اسأل فني المعمل عن الاختبار اللي فشل. | Which layer failed the test? What was the problem? When can you test it again? | which layer; problem; test it again
+
+# B1-08 | Safety first | السلامة أولًا
+ENG Sam, safety officer, am_eric
+SCENE: مسؤول السلامة بيلاحظ عامل من غير خوذة، وإنت بتساعد.
+ENG: Hassan, that worker has no helmet.
+QS: You're right. I'll talk to him.
+ENG: And his vest is not on either.
+QS: Excuse me, please wear your helmet and vest.
+ENG: Thank you. Everyone must wear PPE on site.
+QS: I'll remind the team at the morning meeting.
+ENG: Good idea. Safety comes first.
+QS: Agreed. No PPE, no work.
+P: You're right = عندك حق
+P: please wear your helmet = البس الخوذة لو سمحت
+P: Everyone must wear PPE = لازم الكل يلبس معدات الوقاية
+P: I'll remind the team = هفكّر الفريق
+P: Safety comes first = السلامة أولًا
+H: helmet = HEL-mit — هِلْمِت
+H: vest = VEST — فِست (v: أسنانك على شفتك)
+H: everyone = EV-ree-wun — إِفْرِي-وَن
+R: That worker has no helmet.
+R: Please wear your helmet and vest.
+R: Everyone must wear PPE on site.
+R: I will remind the team at the morning meeting.
+R: Safety comes first, no PPE, no work.
+T: Politely ask a worker to wear his safety equipment. | اطلب من عامل بأدب يلبس معدات السلامة. | Excuse me, please wear your helmet and your vest. Everyone must wear PPE on site. Safety comes first. | please wear; helmet; PPE
+T: Tell the team about safety at the morning meeting. | كلّم الفريق عن السلامة في اجتماع الصبح. | Good morning everyone. Please remember, safety comes first. Wear your helmet and vest all the time. No PPE, no work. | safety comes first; wear; no PPE
+
+# B1-09 | The excavator stopped | الحفار وقف
+ENG Joe, equipment mechanic, am_liam
+SCENE: الحفار وقف فجأة، وإنت بتسأل الميكانيكي عن المشكلة والمدة.
+QS: Joe, what's wrong with the excavator?
+ENG: The hydraulic hose is broken.
+QS: Can you fix it today?
+ENG: Yes, but I need a new hose from the store.
+QS: How long will it take?
+ENG: About two hours.
+QS: OK. Meanwhile we'll move the trucks to the other excavator.
+ENG: Good idea. I'll call you when it's ready.
+QS: Thanks. I'll write it in the daily report.
+P: What's wrong with it? = فيه إيه؟ (إيه المشكلة؟)
+P: Can you fix it today? = تقدر تصلحه النهاردة؟
+P: How long will it take? = هياخد قد إيه؟
+P: Meanwhile = في الوقت ده
+P: the daily report = التقرير اليومي
+H: hydraulic = hy-DRAW-lik — هَايْـدْرُولِك
+H: hose = HOHZ — هُوز
+H: meanwhile = MEEN-wyle — مِين-وايل
+R: What is wrong with the excavator?
+R: The hydraulic hose is broken.
+R: How long will it take to fix it?
+R: Meanwhile we will move the trucks.
+R: I will write it in the daily report.
+T: Ask the mechanic about the breakdown and the repair time. | اسأل الميكانيكي عن العطل ومدة التصليح. | Joe, what's wrong with the excavator? Can you fix it today? How long will it take? | what's wrong; fix it; how long
+T: Explain to your manager how you will keep working. | اشرح لمديرك هتكملوا الشغل إزاي. | The excavator has a broken hose. It will take about two hours. Meanwhile we moved the trucks to the other excavator, so the work continues. | meanwhile; broken; trucks
+
+# B1-10 | Today's daily report | التقرير اليومي
+ENG Khaled, project manager, bm_daniel
+SCENE: آخر اليوم، مدير المشروع بيسألك إيه اللي اتعمل النهاردة.
+ENG: Hassan, what did we do today?
+QS: We cut in Zone B and filled in Zone C.
+ENG: Any problems?
+QS: Yes, one excavator stopped for two hours.
+ENG: Is it working now?
+QS: Yes, the mechanic fixed it after lunch.
+ENG: Good. What about the tests?
+QS: Two tests passed and one failed. We'll retest tomorrow.
+ENG: OK. Please send the report before six.
+P: What did we do today? = عملنا إيه النهاردة؟
+P: Any problems? = فيه أي مشاكل؟
+P: Is it working now? = شغال دلوقتي؟
+P: What about the tests? = والاختبارات عاملة إيه؟
+P: We'll retest tomorrow = هنعيد الاختبار بكرة
+H: report = ri-PORT — رِيـ-پُورت (P مش B)
+H: problems = PROB-lemz — پْرُبْلِمز (P)
+H: passed = PAST — پاسْت (الـ ed صوتها t)
+R: We cut in Zone B and filled in Zone C.
+R: One excavator stopped for two hours.
+R: The mechanic fixed it after lunch.
+R: Two tests passed and one failed.
+R: Please send the report before six.
+T: Give your manager a short daily report. | ادي مديرك تقرير يومي قصير. | Today we cut in Zone B and filled in Zone C. One excavator stopped for two hours, but the mechanic fixed it. Two tests passed and one failed. | today we; stopped; tests passed
+T: Explain what will happen tomorrow. | اشرح إيه اللي هيحصل بكرة. | Tomorrow we will retest the failed layer in the morning. Then we will continue filling in Zone C. | tomorrow; retest; continue
+
+# B1-11 | Arranging a joint measurement | ترتيب قياس مشترك
+ENG David, consultant engineer, bm_george
+SCENE: بتتفق مع الاستشاري على ميعاد للقياس المشترك قبل المستخلص.
+QS: David, can we do a joint measurement this week?
+ENG: For which area?
+QS: For the cut in Zone B. It's finished.
+ENG: OK. Is Thursday morning good for you?
+QS: Thursday is fine. What time?
+ENG: Let's say nine o'clock.
+QS: Great. I'll bring the survey data and the drawings.
+ENG: And please bring the previous measurement too.
+QS: Sure. See you on Thursday at nine.
+P: a joint measurement = قياس مشترك
+P: For which area? = لأنهي منطقة؟
+P: Is Thursday good for you? = الخميس مناسب ليك؟
+P: Let's say nine o'clock = خليها الساعة تسعة
+P: See you on Thursday = نشوفك الخميس
+H: joint = JOYNT — جُويْنْت
+H: Thursday = THURZ-day — ثِرْزْدِي (ث بلسانك بين أسنانك)
+H: previous = PREE-vee-us — پْرِيـ-فِي-يَس
+R: Can we do a joint measurement this week?
+R: The cut in Zone B is finished.
+R: Thursday morning is fine for me.
+R: I will bring the survey data and the drawings.
+R: See you on Thursday at nine.
+T: Ask the consultant for a joint measurement appointment. | اطلب من الاستشاري ميعاد لقياس مشترك. | David, the cut in Zone B is finished. Can we do a joint measurement this week? Is Thursday morning good for you? | joint measurement; finished; Thursday
+T: Confirm the meeting and say what you will bring. | أكّد الميعاد وقول هتجيب معاك إيه. | Thursday at nine is fine. I will bring the survey data, the drawings and the previous measurement. See you on Thursday. | bring; survey data; see you
+
+# B1-12 | Lunch break small talk | دردشة في استراحة الغدا
+ENG Chris, planning engineer, am_eric
+SCENE: وقت الغدا مع زميل جديد، كلام خفيف عن الشغل والحياة.
+ENG: Hi Hassan. Is this seat free?
+QS: Yes, please sit down. How are you?
+ENG: Fine, thanks. It's very hot today.
+QS: Yes, summer is hard on site.
+ENG: How long have you worked here?
+QS: About six months. Before that I worked in Riyadh on another project.
+ENG: Do you like it here?
+QS: Yes, the team is good and I learn a lot.
+ENG: That's nice. Enjoy your lunch.
+P: Is this seat free? = الكرسي ده فاضي؟
+P: please sit down = اتفضل اقعد
+P: It's very hot today = الجو حر جدًا النهاردة
+P: How long have you worked here? = بقالك قد إيه شغال هنا؟
+P: I learn a lot = بتعلم كتير
+H: seat = SEET — سِيت (e طويلة)
+H: summer = SUM-er — سَمَر
+H: learn = LURN — لِيرْن (من غير ألف)
+R: Yes, please sit down here.
+R: It is very hot today.
+R: How long have you worked here?
+R: Before that I worked on another project.
+R: The team is good and I learn a lot.
+T: Start a friendly chat with a new colleague at lunch. | ابدأ كلام ودود مع زميل جديد في الغدا. | Hi, please sit down. How are you? It's very hot today, isn't it? How long have you worked here? | please sit down; how are you; how long
+T: Talk about your work experience in two or three sentences. | اتكلم عن خبرتك في جملتين أو تلاتة. | I have worked here for about six months. Before that I worked in Riyadh on other projects. I like the team and I learn a lot. | worked; before that; learn a lot

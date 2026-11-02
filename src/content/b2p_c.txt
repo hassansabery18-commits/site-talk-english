@@ -1,0 +1,372 @@
+# B2+-25 | Handing over the project | تسليم المشروع
+ENG Mr. Grant, employer's representative, bm_daniel
+SCENE: آخر المرحلة، بتسلّم المناطق رسميًا للمالك وبتراجع اللي لسه مفتوح.
+ENG: Hassan, are we ready to take over Zones A to E? || حسن، جاهزين نستلم المناطق من A لـ E؟
+QS: Yes, with one exception. Zone C still has a short list of minor items, which won't affect your use of the area. || أيوه، باستثناء واحد. منطقة C لسه فيها قايمة قصيرة لبنود بسيطة، مش هتأثر على استخدامكم للمنطقة.
+ENG: What kind of items? || بنود من أي نوع؟
+QS: Some edge trimming and two drainage outlets to clean. We'll complete them within fourteen days. || شوية تشذيب أطراف وتنضيف مخرجين تصريف. هنخلصهم خلال أربعتاشر يوم.
+ENG: And the documentation? || والمستندات؟
+QS: The handover file includes the as-built surveys, test records, and the settlement monitoring baseline. || ملف التسليم فيه رفوعات الحالة النهائية، وسجلات الاختبارات، وقراءات البداية لمراقبة الهبوط.
+ENG: Very thorough. Who do we contact during the defects period? || شامل جدًا. نتواصل مع مين في فترة الضمان؟
+QS: Me, as the single point of contact. Any defect report goes to one email address, and we respond within two working days. || أنا، كنقطة تواصل واحدة. أي بلاغ عن عيب يروح لإيميل واحد، وبنرد خلال يومين عمل.
+ENG: That's reassuring. || ده مطمّن.
+QS: We'd also like to agree a date for the final joint inspection, so the minor items are formally closed. || حابين كمان نتفق على ميعاد للمعاينة المشتركة النهائية، عشان البنود البسيطة تتقفل رسمي.
+ENG: Let's put it in the diary for three weeks' time. || خلينا نحطها في الأجندة بعد تلات أسابيع.
+QS: Perfect. Thank you for your support throughout the project. || ممتاز. شكرًا على دعمكم طول المشروع.
+P: with one exception = باستثناء واحد
+P: won't affect your use = مش هتأثر على استخدامكم
+P: as-built surveys = رفوعات الحالة النهائية (كما نُفّذ)
+P: a single point of contact = نقطة تواصل واحدة
+P: put it in the diary = نحطها في الأجندة
+H: exception = ik-SEP-shun — إكْسِپْشَن
+H: thorough = THUR-oh — ثَرُو
+H: reassuring = ree-a-SHOOR-ing — رِيَشُورِنْج
+R: Yes, we are ready, with one exception.
+R: We will complete the minor items within fourteen days.
+R: The handover file includes the as-built surveys and test records.
+R: I will be the single point of contact during the defects period.
+R: Thank you for your support throughout the project.
+T: Confirm a handover while being transparent about open items. | أكد التسليم وكن شفاف في البنود المفتوحة. | Yes, we're ready, with one exception. Zone C still has a short list of minor items, like edge trimming and two drainage outlets, which won't affect your use. We'll complete them within fourteen days. | one exception; minor items; within fourteen days
+T: Explain the handover file and the defects-period support. | اشرح ملف التسليم ودعم فترة الضمان. | The handover file includes the as-built surveys, the test records and the settlement monitoring baseline. During the defects period, I'm the single point of contact, and we respond within two working days. | handover file; single point of contact; respond
+
+# B2+-26 | Arguing for a fair extension | المطالبة بتمديد عادل
+ENG David, consultant engineer, bm_george
+SCENE: المهندس أعطاكم تمديد أقل من المطلوب، وإنت بتطلب إعادة النظر بحجة قوية.
+ENG: We've granted twenty days for the rock, not the thirty-five you claimed. || منحناكم عشرين يوم للصخر، مش التلاتة وتلاتين اللي طالبتوا بيهم.
+QS: Thank you for the determination. We'd like to understand how you reached twenty. || شكرًا على القرار. حابين نفهم وصلتوا لعشرين إزاي.
+ENG: We assumed you could have used two breakers instead of one. || افترضنا إنكم كان ممكن تستخدموا كسارتين بدل واحدة.
+QS: I see the logic. But at that time, only one breaker was available in the region, and we have the hire companies' letters confirming it. || فاهم المنطق. بس في الوقت ده، كان فيه كسارة واحدة بس متاحة في المنطقة، ومعانا خطابات شركات الإيجار اللي بتأكد ده.
+ENG: Were those letters in your submission? || الخطابات دي كانت في تقديمكم؟
+QS: They were in appendix seven, but I accept they were easy to miss. I'll highlight them. || كانت في الملحق سبعة، بس أنا معترف إنها كانت سهلة تتفوّت. هبرزها.
+ENG: If only one was available, the assumption changes. || لو واحدة بس كانت متاحة، الافتراض بيتغير.
+QS: Exactly. And once a second breaker became available, we mobilised it within two days. Our records show that. || بالظبط. وأول ما كسارة تانية بقت متاحة، جبناها خلال يومين. سجلاتنا بتوضح ده.
+ENG: So you're saying the delay before that was unavoidable. || يعني إنت بتقول إن التأخير قبل كده ماكانش ممكن تجنبه.
+QS: Yes. We're not asking for more than the facts support. Thirty-five is what the records show. || أيوه. إحنا مش بنطلب أكتر من اللي الحقايق بتدعمه. تلاتة وتلاتين هو اللي السجلات بتقوله.
+ENG: Send me a short note with the letters and the mobilisation dates. I'll reconsider. || ابعتلي ملاحظة قصيرة بالخطابات وتواريخ الحشد. هعيد النظر.
+QS: Thank you. You'll have it tomorrow. || شكرًا. هتوصلك بكرة.
+P: how you reached twenty = وصلتوا لعشرين إزاي
+P: I see the logic = فاهم المنطق
+P: easy to miss = سهلة تتفوّت
+P: the assumption changes = الافتراض بيتغير
+P: more than the facts support = أكتر من اللي الحقايق بتدعمه
+H: determination = di-tur-mi-NAY-shun — دِتِيرْمِنِيشَن
+H: unavoidable = un-a-VOY-da-bul — أَنَفُويْدَبُل
+H: reconsider = ree-kon-SID-er — رِي-كُنْسِدَر
+R: We would like to understand how you reached twenty days.
+R: Only one breaker was available in the region at that time.
+R: I accept they were easy to miss, so I will highlight them.
+R: Once a second breaker was available, we mobilised it within two days.
+R: We are not asking for more than the facts support.
+T: Challenge a determination respectfully by asking for its basis. | اعترض على قرار باحترام بإنك تسأل عن أساسه. | Thank you for the determination. We'd like to understand how you reached twenty days. I see the logic of two breakers, but at that time only one was available in the region, and we have letters confirming it. | understand how you reached; I see the logic; available
+T: Show the delay was unavoidable and keep the claim credible. | وضّح إن التأخير ماكانش ممكن تجنبه وخلي المطالبة موثوقة. | Once a second breaker became available, we mobilised it within two days, as our records show. We're not asking for more than the facts support: thirty-five days is what the records show. | mobilised; records show; facts support
+
+# B2+-27 | Introducing yourself at a networking event | التعريف بنفسك في فعالية تعارف
+ENG Sarah, project director at another company, bf_isabella
+SCENE: في فعالية مهنية في الرياض، بتتعرف على مديرة مشاريع وبتعمل علاقة مهنية.
+ENG: Hi, I don't think we've met. I'm Sarah, I run projects for a developer here in Riyadh. || أهلًا، ماأعتقدش إننا اتقابلنا. أنا سارة، بدير مشاريع لشركة تطوير هنا في الرياض.
+QS: Nice to meet you, Sarah. I'm Hassan, a quantity surveyor on a large earthworks package. || اتشرفت يا سارة. أنا حسن، مهندس كميات في حزمة حفريات كبيرة.
+ENG: Earthworks! That's where budgets usually go wrong. || حفريات! دي المنطقة اللي الميزانيات بتبوظ فيها عادةً.
+QS: You're not wrong. Usually because the original ground isn't surveyed properly before work starts. || عندك حق. غالبًا لأن الأرض الطبيعية ماتترفعش صح قبل ما الشغل يبدأ.
+ENG: Is that your specialty? || ده تخصصك؟
+QS: Partly. I'm also a trained surveyor, so I check the data behind the quantities, not just the totals. || جزئيًا. أنا كمان مساح متدرب، فبراجع البيانات اللي ورا الكميات، مش بس الإجماليات.
+ENG: That's an unusual combination. Very useful at the cost-planning stage. || دي توليفة نادرة. مفيدة جدًا في مرحلة تخطيط التكلفة.
+QS: That's exactly where I'd like to grow: getting involved earlier, before the design is fixed. || ده بالظبط المكان اللي عايز أتطور فيه: إني أشارك بدري، قبل ما التصميم يتثبت.
+ENG: We might have something in the new year. Do you have a card? || ممكن يكون عندنا حاجة السنة الجديدة. معاك كارت؟
+QS: Here you go. Could I connect with you on LinkedIn as well? || اتفضلي. ممكن أضيفك على لينكدإن كمان؟
+ENG: Sure. Send me a short note so I remember where we met. || أكيد. ابعتلي رسالة قصيرة عشان أفتكر اتقابلنا فين.
+QS: I will. It was a pleasure talking to you. || حاضر. كان من دواعي سروري الكلام معاكي.
+P: I don't think we've met = ماأعتقدش إننا اتقابلنا
+P: You're not wrong = عندك حق
+P: That's an unusual combination = دي توليفة نادرة
+P: where I'd like to grow = المكان اللي عايز أتطور فيه
+P: It was a pleasure talking to you = كان من دواعي سروري الكلام معاك
+H: specialty = SPESH-al-tee — سْپِشَلْتِي
+H: combination = kom-bi-NAY-shun — كُمْبِنِيشَن
+H: pleasure = PLEZH-er — پْلِيجَر
+R: Nice to meet you, I am a quantity surveyor on a large earthworks package.
+R: I check the data behind the quantities, not just the totals.
+R: That is exactly where I would like to grow.
+R: Could I connect with you on LinkedIn as well?
+R: It was a pleasure talking to you.
+T: Introduce yourself memorably in one or two sentences. | عرّف بنفسك بطريقة تتفتكر في جملة أو اتنين. | I'm Hassan, a quantity surveyor on a large earthworks package. I'm also a trained surveyor, so I check the data behind the quantities, not just the totals. | quantity surveyor; trained surveyor; data behind the quantities
+T: Turn a conversation into a professional connection. | حوّل الكلام لعلاقة مهنية. | I'd like to get involved earlier, at the cost-planning stage. Could I connect with you on LinkedIn? I'll send a short note so you remember where we met. | cost-planning; connect; short note
+
+# B2+-28 | Giving a site induction to visitors | تعريف زوار بالموقع والسلامة
+ENG Visitor group leader, university lecturer, bm_lewis
+SCENE: مجموعة طلبة هندسة بيزوروا الموقع، وإنت بتعمل لهم تعريف سلامة وشرح سريع.
+QS: Welcome, everyone. Before we go anywhere, three safety rules, and they're not optional. || أهلًا بالجميع. قبل ما نروح أي حتة، تلات قواعد سلامة، ومش اختيارية.
+ENG: Go ahead, they're listening. || اتفضل، هم سامعين.
+QS: One: stay with me at all times. Two: never walk behind a reversing machine. Three: if you hear three long horn blasts, walk calmly to the assembly point by the gate. || واحد: خليكم معايا طول الوقت. اتنين: ماتمشوش أبدًا ورا معدة بترجع لورا. تلاتة: لو سمعتوا تلات كلاكسات طويلة، امشوا بهدوء لنقطة التجمع جنب البوابة.
+ENG: Can they take photos? || ينفع ياخدوا صور؟
+QS: Yes, but stop walking while you do it. Most accidents happen when people look at their phones. || أيوه، بس وقّفوا وإنتو بتصوروا. معظم الحوادث بتحصل والناس باصة في موبايلاتها.
+ENG: What will they see today? || هيشوفوا إيه النهاردة؟
+QS: The full earthworks cycle: cutting, hauling, placing fill in layers, compacting, and testing. || دورة الحفريات كاملة: القطع، والنقل، وفرد الردم طبقات، والدمك، والاختبار.
+ENG: Will they see a density test? || هيشوفوا اختبار كثافة؟
+QS: Yes, our technician will run one at eleven and explain what the numbers mean. || أيوه، الفني بتاعنا هيعمل واحد الساعة حداشر ويشرح الأرقام معناها إيه.
+ENG: Excellent. They've only seen this in textbooks. || ممتاز. هم شافوا ده في الكتب بس.
+QS: Then today will be a good change. Any questions before we start? || يبقى النهاردة هيبقى تغيير حلو. فيه أسئلة قبل ما نبدأ؟
+ENG: No, I think you've covered everything. || لأ، أعتقد إنك غطيت كل حاجة.
+P: they're not optional = مش اختيارية
+P: stay with me at all times = خليكم معايا طول الوقت
+P: walk calmly to the assembly point = امشوا بهدوء لنقطة التجمع
+P: the full earthworks cycle = دورة الحفريات كاملة
+P: you've covered everything = غطيت كل حاجة
+H: optional = OP-shun-al — أُوپْشَنَل
+H: assembly = a-SEM-blee — أسِمْبْلِي
+H: textbooks = TEKST-books — تِكْسْتْبُوكْس
+R: Before we go anywhere, there are three safety rules.
+R: Never walk behind a reversing machine.
+R: Walk calmly to the assembly point by the gate.
+R: Most accidents happen when people look at their phones.
+R: You will see the full earthworks cycle today.
+T: Give a short safety induction to visitors. | ادي تعريف سلامة قصير للزوار. | Before we go anywhere, three safety rules, and they're not optional. Stay with me at all times, never walk behind a reversing machine, and if you hear three long horn blasts, walk calmly to the assembly point. | not optional; reversing machine; assembly point
+T: Explain what visitors will see on the tour. | اشرح الزوار هيشوفوا إيه في الجولة. | Today you'll see the full earthworks cycle: cutting, hauling, placing fill in layers, compacting and testing. At eleven, our technician will run a density test and explain the numbers. | full earthworks cycle; layers; density test
+
+# B2+-29 | Resolving a dispute without escalation | حل نزاع من غير تصعيد
+ENG David, consultant engineer, bm_george
+SCENE: خلاف قديم على بند بقاله شهور، وإنت بتقترح حل قبل ما يتحول لنزاع رسمي.
+QS: David, item twenty-two has been open for five months. I'd like to find a way to close it without escalating. || ديفيد، البند اتنين وعشرين مفتوح بقاله خمس شهور. حابب نلاقي طريقة نقفله من غير تصعيد.
+ENG: I'd prefer that too. Escalation costs both sides time and goodwill. || أنا كمان أفضّل كده. التصعيد بيكلّف الطرفين وقت وعلاقة طيبة.
+QS: Let's start from where we agree. We both accept the work was done and is acceptable. || خلينا نبدأ من اللي متفقين عليه. إحنا الاتنين موافقين إن الشغل اتعمل وإنه مقبول.
+ENG: Correct. The issue is whether it's a variation or part of the original scope. || مظبوط. المشكلة إنه أمر تغيير ولا جزء من النطاق الأصلي.
+QS: Right. Our view is that the specification didn't mention it. Yours is that it's implied. || صح. رأينا إن المواصفات ماذكرتهوش. ورأيكم إنه ضمني.
+ENG: That's a fair summary. || ده ملخص عادل.
+QS: What if we ask a neutral senior engineer from each organisation to review just that clause? || إيه رأيك نطلب من مهندس كبير محايد من كل جهة يراجع البند ده بس؟
+ENG: And we both accept their view? || وإحنا الاتنين نقبل رأيهم؟
+QS: As a recommendation, not a binding decision. If they agree with each other, we'd both find it hard to argue. || كتوصية، مش قرار ملزم. لو اتفقوا مع بعض، هيبقى صعب على أي حد فينا يجادل.
+ENG: I like that. It keeps it informal and fast. || عاجبني ده. بيخليه غير رسمي وسريع.
+QS: Shall we set a deadline? Say three weeks? || نحط مهلة؟ نقول تلات أسابيع؟
+ENG: Three weeks. I'll nominate someone by Thursday. || تلات أسابيع. هرشّح حد قبل الخميس.
+P: without escalating = من غير تصعيد
+P: costs both sides time and goodwill = بيكلّف الطرفين وقت وعلاقة طيبة
+P: Let's start from where we agree = خلينا نبدأ من اللي متفقين عليه
+P: That's a fair summary = ده ملخص عادل
+P: not a binding decision = مش قرار ملزم
+H: escalation = es-ka-LAY-shun — إسْكَلِيشَن
+H: neutral = NYOO-tral — نْيُوتْرَل
+H: binding = BYN-ding — بايْنْدِنْج
+R: I would like to find a way to close it without escalating.
+R: Let's start from where we agree.
+R: Our view is that the specification did not mention it.
+R: What if we ask a neutral senior engineer to review that clause?
+R: It would be a recommendation, not a binding decision.
+T: Propose resolving a long dispute informally. | اقترح حل نزاع طويل بشكل غير رسمي. | Item twenty-two has been open for five months, and I'd like to close it without escalating. Let's start from where we agree: the work was done and it's acceptable. The only issue is whether it's a variation. | without escalating; where we agree; variation
+T: Suggest a neutral review process. | اقترح طريقة مراجعة محايدة. | What if we each ask a neutral senior engineer to review just that clause? Their view would be a recommendation, not binding, but if they agree, it would be hard to argue. Shall we set three weeks? | neutral; recommendation; three weeks
+
+# B2+-30 | A tough interview question | سؤال صعب في مقابلة
+ENG Mr. Hadi, interview panel chair, am_adam
+SCENE: مقابلة لوظيفة كبيرة، ورئيس اللجنة بيسأل سؤال صعب عن موقف أخلاقي.
+ENG: Tell us about a time you were under pressure to do something you disagreed with. || احكيلنا عن موقف كنت تحت ضغط تعمل حاجة مش موافق عليها.
+QS: On a previous project, I was asked to include a quantity in an application before it was surveyed. || في مشروع سابق، اتطلب مني أحط كمية في مستخلص قبل ما تترفع.
+ENG: What did you do? || عملت إيه؟
+QS: I explained that without a survey, the number was a guess, and if the consultant found it, we'd lose credibility on every item. || شرحت إن من غير رفع، الرقم ده تخمين، ولو الاستشاري اكتشفه، هنخسر مصداقيتنا في كل البنود.
+ENG: Was your manager happy with that? || مديرك كان مبسوط من ده؟
+QS: Not at first. So I offered an alternative: we surveyed it urgently the next morning and included it the same month. || مش في الأول. فعرضت بديل: رفعناها بشكل عاجل تاني يوم الصبح وحطيناها في نفس الشهر.
+ENG: So you found a way to meet the goal without cutting corners. || يعني لقيت طريقة تحقق الهدف من غير ما تستسهل.
+QS: Exactly. The real goal was cash flow, not that particular number. || بالظبط. الهدف الحقيقي كان التدفق النقدي، مش الرقم ده بالذات.
+ENG: What did you learn? || اتعلمت إيه؟
+QS: That saying no is easier when you bring a better yes. || إن قول لأ بيبقى أسهل لما تجيب معاه أيوه أحسن.
+ENG: That's a very good answer. || دي إجابة كويسة جدًا.
+QS: Thank you. Integrity matters most in a role that handles money. || شكرًا. النزاهة هي الأهم في دور بيتعامل مع فلوس.
+P: Tell us about a time = احكيلنا عن موقف
+P: we'd lose credibility = هنخسر مصداقيتنا
+P: Not at first = مش في الأول
+P: without cutting corners = من غير ما تستسهل
+P: saying no is easier when you bring a better yes = قول لأ أسهل لما تجيب معاه أيوه أحسن
+H: previous = PREE-vee-us — پْرِيفِيَس
+H: particular = par-TIK-yu-ler — پارْتِكْيُولَر
+H: integrity = in-TEG-ri-tee — إنْتِجْرِتِي
+R: I was asked to include a quantity before it was surveyed.
+R: Without a survey, the number was a guess.
+R: I offered an alternative and we surveyed it the next morning.
+R: Saying no is easier when you bring a better yes.
+R: Integrity matters most in a role that handles money.
+T: Answer a "tell us about a time" question with a clear story. | جاوب على سؤال "احكيلنا عن موقف" بقصة واضحة. | On a previous project, I was asked to include a quantity before it was surveyed. I explained that without a survey it was a guess, and we could lose credibility. I offered an alternative: we surveyed it urgently the next morning. | previous project; credibility; alternative
+T: State the lesson and your values in one or two sentences. | قول الدرس وقيمك في جملة أو اتنين. | I learned that saying no is easier when you bring a better yes. Integrity matters most in a role that handles money, so I always look for a way to reach the goal without cutting corners. | better yes; integrity; cutting corners
+
+# B2+-31 | Leading a lessons-learned debate | إدارة نقاش الدروس المستفادة
+ENG Chris, planning engineer, am_eric
+SCENE: نقاش مع زميل مختلف معاك في سبب مشكلة، وإنت بتوصل لاستنتاج متوازن.
+ENG: Honestly, I think our biggest problem was the subcontractors. They were simply too slow. || بصراحة، أعتقد إن أكبر مشكلة عندنا كانت مقاولي الباطن. كانوا بطيئين وخلاص.
+QS: They were slow at times, but I'm not sure that's the root cause. || كانوا بطيئين أحيانًا، بس مش متأكد إن ده السبب الجذري.
+ENG: What else could it be? || هيكون إيه غيره؟
+QS: Look at when they were slow: mostly when access was late or the water supply failed. || بص كانوا بطيئين إمتى: أغلبه لما التسليم اتأخر أو المياه وقفت.
+ENG: Fair point. But even with access, their output was below the plan. || نقطة منطقية. بس حتى مع التسليم، إنتاجهم كان أقل من الخطة.
+QS: Agreed. So maybe it's both: our planning assumptions were optimistic, and their resources were thin. || متفقين. يبقى يمكن الاتنين: افتراضات التخطيط عندنا كانت متفائلة، ومواردهم كانت ضعيفة.
+ENG: Optimistic how? || متفائلة إزاي؟
+QS: We assumed peak productivity every day. Real sites have breakdowns, weather and queues. || افترضنا أعلى إنتاجية كل يوم. المواقع الحقيقية فيها أعطال وجو وطوابير.
+ENG: So for Phase Two, a realistic productivity factor in the plan? || يبقى في المرحلة التانية، معامل إنتاجية واقعي في الخطة؟
+QS: Yes, based on our actual data, plus resource commitments written into the subcontracts. || أيوه، على أساس بياناتنا الفعلية، وزائد التزامات موارد مكتوبة في عقود الباطن.
+ENG: That's a better conclusion than blaming one side. || ده استنتاج أحسن من لوم طرف واحد.
+QS: It usually is. Problems rarely have just one cause. || غالبًا بيبقى كده. المشاكل نادرًا ما يكون ليها سبب واحد.
+P: I'm not sure that's the root cause = مش متأكد إن ده السبب الجذري
+P: Look at when = بص إمتى
+P: maybe it's both = يمكن الاتنين
+P: their resources were thin = مواردهم كانت ضعيفة
+P: Problems rarely have just one cause = المشاكل نادرًا ما يكون ليها سبب واحد
+H: optimistic = op-ti-MIS-tik — أُوپْتِمِسْتِك
+H: assumptions = a-SUMP-shunz — أسَمْپْشَنز
+H: commitments = ko-MIT-ments — كُمِتْمِنْتْس
+R: They were slow at times, but I am not sure that is the root cause.
+R: Look at when they were slow.
+R: Maybe it is both, our assumptions were optimistic.
+R: We assumed peak productivity every day.
+R: Problems rarely have just one cause.
+T: Challenge a simple explanation and look for the root cause. | اعترض على تفسير بسيط ودوّر على السبب الجذري. | They were slow at times, but I'm not sure that's the root cause. Look at when they were slow: mostly when access was late or the water supply failed. | not sure; root cause; look at when
+T: Reach a balanced conclusion with actions. | اوصل لاستنتاج متوازن بإجراءات. | Maybe it's both: our planning assumptions were optimistic and their resources were thin. For Phase Two, we'll use a realistic productivity factor and write resource commitments into the subcontracts. | maybe it's both; realistic productivity; commitments
+
+# B2+-32 | Calling a client with bad news | الاتصال بالمالك بخبر سيئ
+ENG Mr. Grant, employer's representative, bm_daniel
+SCENE: مكالمة لازم تقول فيها للمالك إن الإنجاز هيتأخر أسبوعين بسبب مشكلة جديدة.
+QS: Mr. Grant, I'm calling with some news you won't like, and I wanted you to hear it from me first. || مستر جرانت، بكلمك بخبر مش هيعجبك، وحبيت تسمعه مني الأول.
+ENG: Go on. || كمّل.
+QS: The settlement plates in Zone F show more movement than expected. The designer has asked us to hold the final layer. || ألواح الهبوط في منطقة F بتوضح حركة أكتر من المتوقع. والمصمم طلب مننا نأجل الطبقة الأخيرة.
+ENG: How long a hold? || تأجيل قد إيه؟
+QS: At least two weeks, until the readings stabilise. That will push completion of Zone F by about two weeks. || أسبوعين على الأقل، لحد ما القراءات تستقر. ده هيأخر إنجاز منطقة F حوالي أسبوعين.
+ENG: That's not good timing. The road contractor is waiting. || ده توقيت مش كويس. مقاول الطرق مستني.
+QS: I know. We've already talked to them, and they can start in Zone E first, so they won't stand idle. || عارف. اتكلمنا معاهم خلاص، ويقدروا يبدأوا في منطقة E الأول، فمش هيقعدوا من غير شغل.
+ENG: Is the movement dangerous? || الحركة دي خطيرة؟
+QS: No. It's within the range the designer allowed for, but it's slower to settle than predicted. Waiting is the safe choice. || لأ. هي في الحدود اللي المصمم حسبها، بس بطيئة في الاستقرار أكتر من المتوقع. الانتظار هو الاختيار الآمن.
+ENG: All right. Send me the readings and the designer's note. || تمام. ابعتلي القراءات وملاحظة المصمم.
+QS: They'll be in your inbox within the hour, and I'll update you every week until we resume. || هتكون في الإيميل عندك خلال ساعة، وهبلّغك كل أسبوع لحد ما نرجع نشتغل.
+ENG: Thanks for the early warning, Hassan. || شكرًا على التنبيه المبكر يا حسن.
+P: news you won't like = خبر مش هيعجبك
+P: hear it from me first = تسمعه مني الأول
+P: until the readings stabilise = لحد ما القراءات تستقر
+P: they won't stand idle = مش هيقعدوا من غير شغل
+P: Waiting is the safe choice = الانتظار هو الاختيار الآمن
+H: stabilise = STAY-bi-lyze — سْتِيبِلايْز
+H: predicted = pri-DIK-tid — پْرِدِكْتِد
+H: resume = ri-ZYOOM — رِيزْيُوم
+R: I am calling with some news you will not like.
+R: I wanted you to hear it from me first.
+R: The designer has asked us to hold the final layer.
+R: The road contractor can start in Zone E first, so they will not stand idle.
+R: It is within the allowed range, so waiting is the safe choice.
+T: Deliver bad news to a client directly and early. | بلّغ المالك بخبر سيئ بشكل مباشر وبدري. | I'm calling with some news you won't like, and I wanted you to hear it from me first. The settlement plates show more movement than expected, so we must hold the final layer for at least two weeks. | news you won't like; hear it from me first; hold
+T: Reduce the impact and reassure about safety. | قلل الأثر وطمّن بخصوص السلامة. | We've already arranged for the road contractor to start in Zone E first, so they won't stand idle. The movement is within the allowed range; waiting is simply the safe choice. | won't stand idle; within the range; safe choice
+
+# B2+-33 | Mentoring a future QS manager | توجيه مدير كميات مستقبلي
+ENG Karim, QS engineer, am_liam
+SCENE: كريم بقى مهندس كميات، وبيسألك إزاي يكبر لمستوى مدير.
+ENG: Hassan, what's the difference between a good QS and a QS manager? || حسن، إيه الفرق بين مهندس كميات كويس ومدير كميات؟
+QS: A good QS gets the numbers right. A manager makes sure the whole team gets them right, even when he's not there. || مهندس الكميات الكويس بيطلّع الأرقام صح. المدير بيتأكد إن الفريق كله بيطلّعها صح، حتى وهو مش موجود.
+ENG: So it's about systems? || يعني الموضوع أنظمة؟
+QS: Systems and people. Clear registers, clear checks, and people who feel safe to raise mistakes early. || أنظمة وناس. سجلات واضحة، ومراجعات واضحة، وناس حاسة بالأمان إنها تبلّغ عن الأخطاء بدري.
+ENG: What about commercial thinking? || والتفكير التجاري؟
+QS: That's the other big shift. You start asking not just "how much," but "what's our position, and what's the risk?" || ده التحول الكبير التاني. بتبدأ تسأل مش بس "قد إيه"، لكن "موقفنا إيه، وإيه المخاطرة؟"
+ENG: How do I practise that now? || أتمرن على ده إزاي دلوقتي؟
+QS: For every variation you price, write one line on our entitlement and one line on the risk. I'll review them with you. || لكل أمر تغيير بتسعّره، اكتب سطر عن استحقاقنا وسطر عن المخاطرة. وأنا هراجعهم معاك.
+ENG: And communication? I still get nervous in big meetings. || والتواصل؟ لسه بتوتر في الاجتماعات الكبيرة.
+QS: Everyone does at first. Prepare three key points, speak slower than feels natural, and stop when you've made them. || الكل كده في الأول. جهّز تلات نقط أساسية، اتكلم أبطأ من الطبيعي اللي إنت حاسه، واسكت لما تقولهم.
+ENG: Stop when I've made them? || أسكت لما أقولهم؟
+QS: Yes. Most people weaken a good point by talking after it. Silence shows confidence. || أيوه. معظم الناس بتضعّف نقطة كويسة بالكلام بعدها. السكوت بيوضح الثقة.
+P: gets the numbers right = بيطلّع الأرقام صح
+P: feel safe to raise mistakes early = حاسين بالأمان يبلّغوا عن الأخطاء بدري
+P: the other big shift = التحول الكبير التاني
+P: speak slower than feels natural = اتكلم أبطأ من الطبيعي اللي إنت حاسه
+P: Silence shows confidence = السكوت بيوضح الثقة
+H: commercial = ko-MUR-shal — كُمِيرْشَل
+H: practise = PRAK-tis — پْراكْتِس
+H: confidence = KON-fi-dens — كُونْفِدِنْس
+R: A good QS gets the numbers right.
+R: A manager makes sure the whole team gets them right.
+R: People should feel safe to raise mistakes early.
+R: Prepare three key points and speak slower than feels natural.
+R: Most people weaken a good point by talking after it.
+T: Explain the difference between a good QS and a QS manager. | اشرح الفرق بين مهندس كميات كويس ومدير كميات. | A good QS gets the numbers right. A manager makes sure the whole team gets them right, even when he's not there, through clear registers, clear checks, and people who feel safe to raise mistakes early. | gets the numbers right; whole team; raise mistakes
+T: Give practical advice for speaking in big meetings. | ادي نصيحة عملية للكلام في الاجتماعات الكبيرة. | Prepare three key points, speak slower than feels natural, and stop when you've made them. Most people weaken a good point by talking after it; silence shows confidence. | three key points; slower; silence
+
+# B2+-34 | Proposing a digital system to management | اقتراح نظام رقمي للإدارة
+ENG Mr. Hadi, company director, am_adam
+SCENE: بتعرض على المدير العام فكرة نظام يربط المساحة والكميات، ولازم تقنعه بالعائد.
+QS: Mr. Hadi, I'd like ten minutes to propose a small investment with a quick return. || أستاذ هادي، حابب عشر دقايق أقترح استثمار صغير بعائد سريع.
+ENG: Ten minutes. Go. || عشر دقايق. اتفضل.
+QS: Today, survey data and quantities live in separate files. Every month we spend about four days reconciling them. || النهاردة، بيانات المساحة والكميات في ملفات منفصلة. وكل شهر بنصرف حوالي أربع أيام نطابقهم.
+ENG: Four days of whose time? || أربع أيام من وقت مين؟
+QS: Two engineers. And errors still slip through, like the stockpile we claimed twice last year. || مهندسين اتنين. والأخطاء لسه بتعدّي، زي الكومة اللي طالبنا بيها مرتين السنة اللي فاتت.
+ENG: What's the proposal? || إيه الاقتراح؟
+QS: A shared database that links each survey to the quantities it produces. I've built a pilot with Civil 3D and a simple dashboard. || قاعدة بيانات مشتركة بتربط كل رفع بالكميات اللي بتطلع منه. عملت نموذج تجريبي بسيفيل ثري دي ولوحة متابعة بسيطة.
+ENG: What does it cost? || بيكلّف قد إيه؟
+QS: Mainly my time and some licences. The saved engineering days pay for it within a few months. || أساسًا وقتي وشوية تراخيص. أيام الهندسة اللي بنوفرها بتغطي تكلفته خلال كام شهر.
+ENG: And the risk? || والمخاطرة؟
+QS: Low. We'd run it alongside the current method for one project before switching. || قليلة. هنشغله جنب الطريقة الحالية لمشروع واحد قبل ما نحوّل.
+ENG: Run the pilot on Phase Two. Report back in three months with real numbers. || شغّل التجربة في المرحلة التانية. ورجّعلي بعد تلات شهور بأرقام حقيقية.
+P: a small investment with a quick return = استثمار صغير بعائد سريع
+P: live in separate files = في ملفات منفصلة
+P: errors still slip through = الأخطاء لسه بتعدّي
+P: pay for it within a few months = بتغطي تكلفته خلال كام شهر
+P: alongside the current method = جنب الطريقة الحالية
+H: investment = in-VEST-ment — إنْفِسْتْمِنْت
+H: licences = LY-sen-siz — لايْسِنْسِز
+H: pilot = PY-lot — پايْلُت
+R: I would like ten minutes to propose a small investment.
+R: Every month we spend about four days reconciling them.
+R: Errors still slip through, like the stockpile claimed twice.
+R: The saved engineering days pay for it within a few months.
+R: We would run it alongside the current method before switching.
+T: Present the problem in terms of time and money. | اعرض المشكلة بلغة الوقت والفلوس. | Today, survey data and quantities live in separate files. Every month two engineers spend about four days reconciling them, and errors still slip through, like the stockpile we claimed twice. | separate files; reconciling; slip through
+T: Present the solution, cost and risk briefly. | اعرض الحل والتكلفة والمخاطرة باختصار. | I propose a shared database that links each survey to its quantities. The cost is mainly my time and some licences, and the saved days pay for it within a few months. The risk is low, because we'd run it alongside the current method first. | shared database; pay for it; alongside
+
+# B2+-35 | A fast-paced site meeting | اجتماع موقع سريع
+ENG Ravi, earthworks foreman, bm_george
+SCENE: اجتماع صباحي سريع جدًا وكلام طبيعي متداخل؛ لازم تمسك المعلومات وتاخد قرارات.
+ENG: Morning. Quick one, we've got a lot on. Roller three's down again, so Zone F's gonna be slow. || صباح الخير. بسرعة، عندنا شغل كتير. الهراس تلاتة عطلان تاني، فمنطقة F هتبقى بطيئة.
+QS: Down again? That's the third time this month. Get the mechanic's report, and let's swap it with the spare from Zone E. || عطلان تاني؟ دي تالت مرة الشهر ده. هات تقرير الميكانيكي، وخلينا نبدّله بالاحتياطي من منطقة E.
+ENG: Zone E needs it this afternoon for the top layer. || منطقة E محتاجاه بعد الضهر للطبقة العليا.
+QS: Then Zone F gets it this morning, and it goes back to E at one. Can the operator move it in time? || يبقى منطقة F تاخده الصبح، ويرجع لـ E الساعة واحدة. السواق يقدر ينقله في الوقت؟
+ENG: Yeah, it's only ten minutes. Also, the lab says they're short of a technician today. || أيوه، دي عشر دقايق بس. وكمان المعمل بيقول عندهم نقص فني النهاردة.
+QS: Then we prioritise tests for the top layer in E. Everything else can wait till tomorrow morning. || يبقى نعطي أولوية لاختبارات الطبقة العليا في E. أي حاجة تانية تستنى لبكرة الصبح.
+ENG: Got it. And the consultant wants to walk Zone B at ten. || فهمت. والاستشاري عايز يلف في منطقة B الساعة عشرة.
+QS: I'll go myself. Make sure the edges are trimmed before he gets there. || أنا هروح بنفسي. اتأكد إن الأطراف متشذبة قبل ما يوصل.
+ENG: Will do. Anything else from your side? || حاضر. فيه حاجة تانية من ناحيتك؟
+QS: Just one: if roller three fails again, I want it off site. We can't keep losing hours. || حاجة واحدة بس: لو الهراس تلاتة عطل تاني، عايزه برّه الموقع. مانقدرش نفضل نخسر ساعات.
+ENG: Fair enough. I'll tell the hire company. || منطقي. هقول لشركة الإيجار.
+QS: Thanks, Ravi. Let's go. || شكرًا يا رافي. يلا بينا.
+P: we've got a lot on = عندنا شغل كتير
+P: swap it with the spare = نبدّله بالاحتياطي
+P: we prioritise = نعطي أولوية
+P: Everything else can wait = أي حاجة تانية تستنى
+P: I want it off site = عايزه برّه الموقع
+H: prioritise = pry-OR-i-tyze — پْرايُورِتايْز
+H: technician = tek-NISH-un — تِكْنِشَن
+H: trimmed = TRIMD — تْرِمْد
+R: That is the third time this month, get the mechanic's report.
+R: Zone F gets it this morning, and it goes back to E at one.
+R: We prioritise tests for the top layer in Zone E.
+R: Make sure the edges are trimmed before he gets there.
+R: If it fails again, I want it off site.
+T: Make quick decisions when resources are short. | خد قرارات سريعة لما الموارد قليلة. | Zone F gets the spare roller this morning, and it goes back to Zone E at one. With only one technician, we prioritise tests for the top layer in E; everything else can wait till tomorrow. | gets it this morning; prioritise; can wait
+T: Set a clear limit for an unreliable resource. | حط حد واضح لمورد مش موثوق. | Roller three has failed three times this month. If it fails again, I want it off site and replaced, because we can't keep losing hours. | three times; off site; losing hours
+
+# B2+-36 | Final review: a full day as QS manager | المراجعة النهائية: يوم كامل كمدير كميات
+ENG Mr. Hadi, company director, am_adam
+SCENE: المراجعة النهائية للبرنامج: المدير العام بيقيّم يومك كمدير كميات من أوله لآخره.
+ENG: Hassan, you've been in the QS manager role for a month now. Walk me through a typical day. || حسن، بقالك شهر في دور مدير الكميات. احكيلي يوم عادي عندك.
+QS: I start at six thirty with a fifteen-minute call with the site QSs: issues, risks, and anything that needs a decision. || ببدأ ستة ونص بمكالمة ربع ساعة مع مهندسي الكميات في المواقع: المشاكل، والمخاطر، وأي حاجة محتاجة قرار.
+ENG: Why so early? || ليه بدري كده؟
+QS: Because problems are cheapest to fix before the trucks start moving. || لأن المشاكل بتبقى أرخص في الحل قبل ما العربيات تبدأ تتحرك.
+ENG: Fair. Then what? || منطقي. وبعدين؟
+QS: Mid-morning, I review one thing in depth: a variation, a claim or a register. I rotate so nothing is ignored for long. || نص الصبح، براجع حاجة واحدة بعمق: أمر تغيير، أو مطالبة، أو سجل. وبلّف بينهم عشان مفيش حاجة تتساب كتير.
+ENG: And the afternoon? || وبعد الضهر؟
+QS: Client and consultant meetings. I keep them short and always end with agreed actions and owners. || اجتماعات المالك والاستشاري. بخليها قصيرة وبختمها دايمًا بإجراءات متفق عليها ومسؤولين.
+ENG: What's been the hardest part? || إيه أصعب جزء؟
+QS: Letting go. I used to check every number myself. Now I check the system, and spot-check the numbers. || إني أسيب. كنت براجع كل رقم بنفسي. دلوقتي براجع النظام، وبعمل مراجعة عشوائية للأرقام.
+ENG: And your English? You were working hard on it last year. || وإنجليزيتك؟ كنت شغال عليها جامد السنة اللي فاتت.
+QS: It changed everything. I used to prepare every sentence; now I can think on my feet in a tough negotiation. || غيّرت كل حاجة. كنت بجهّز كل جملة؛ دلوقتي أقدر أفكر وأرد على طول في تفاوض صعب.
+ENG: It shows. Keep it up. || ده باين. كمّل كده.
+P: Walk me through a typical day = احكيلي يوم عادي عندك
+P: problems are cheapest to fix = المشاكل بتبقى أرخص في الحل
+P: so nothing is ignored for long = عشان مفيش حاجة تتساب كتير
+P: Letting go = إني أسيب (أفوّض)
+P: think on my feet = أفكر وأرد على طول
+H: typical = TIP-i-kal — تِپِكَال
+H: rotate = roh-TAYT — رُوتِيت
+H: negotiation = ni-goh-shee-AY-shun — نِجُوشِيِيشَن
+R: I start at six thirty with a short call with the site QSs.
+R: Problems are cheapest to fix before the trucks start moving.
+R: I review one thing in depth every morning.
+R: Now I check the system and spot-check the numbers.
+R: Now I can think on my feet in a tough negotiation.
+T: Walk someone through your typical working day as a manager. | احكي لحد يوم شغلك العادي كمدير. | I start at six thirty with a short call with the site QSs about issues, risks and decisions, because problems are cheapest to fix before the trucks start moving. Mid-morning I review one thing in depth, and in the afternoon I hold short meetings that end with agreed actions. | start at; cheapest to fix; in depth
+T: Reflect on how you have grown professionally. | اتكلم عن إزاي اتطورت مهنيًا. | The hardest part was letting go. I used to check every number myself; now I check the system and spot-check the numbers. My English also changed everything: now I can think on my feet in a tough negotiation. | letting go; check the system; think on my feet

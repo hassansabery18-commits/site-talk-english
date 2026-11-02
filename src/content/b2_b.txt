@@ -1,0 +1,371 @@
+# B2-13 | Unforeseen rock | صخر غير متوقع
+ENG David, consultant engineer, bm_george
+SCENE: لقيتوا صخر في منطقة H مكانش ظاهر في تقرير التربة، وبتناقش الاستشاري.
+QS: David, we've hit hard rock in Zone H at about one metre below ground. || ديفيد، قابلنا صخر صلب في منطقة H على عمق حوالي متر تحت الأرض.
+ENG: Is it widespread or just a few boulders? || منتشر ولا شوية صخور كبيرة بس؟
+QS: It looks continuous across most of the zone. Our excavators can't break it without a hydraulic breaker. || شكله متصل في معظم المنطقة. الحفارات بتاعتنا ماتقدرش تكسره من غير كسارة هيدروليك.
+ENG: The ground investigation report didn't show rock there. || تقرير فحص التربة ماكانش فيه صخر هناك.
+QS: Exactly. The nearest borehole is more than two hundred metres away, and it showed only sand. || بالظبط. أقرب جسة على بعد أكتر من مية متر، وماكانش فيها غير رمل.
+ENG: So you consider it an unforeseeable condition. || يعني إنتو شايفينها ظروف ماكانش ممكن توقعها.
+QS: Yes. An experienced contractor couldn't have expected it from the information we had at tender. || أيوه. مقاول خبير ماكانش هيتوقعها من المعلومات اللي كانت عندنا في المناقصة.
+ENG: What do you need from me now? || محتاج مني إيه دلوقتي؟
+QS: First, a joint inspection today to record the extent. Then we'll submit our notice. || الأول، معاينة مشتركة النهاردة نسجل فيها امتداد الصخر. وبعدين هنقدم الإخطار.
+ENG: I can come at two. Should you stop work there? || أقدر آجي الساعة اتنين. توقفوا الشغل هناك؟
+QS: We've moved the excavators to Zone G, so there's no idle equipment while we wait. || نقلنا الحفارات لمنطقة G، فمفيش معدات واقفة وإحنا مستنيين.
+ENG: Good. That keeps the cost down for everyone. || كويس. ده بيقلل التكلفة على الكل.
+P: we've hit hard rock = قابلنا صخر صلب
+P: widespread or just a few boulders = منتشر ولا شوية صخور بس
+P: an unforeseeable condition = ظرف ماكانش ممكن توقعه
+P: record the extent = نسجل الامتداد
+P: no idle equipment = مفيش معدات واقفة
+H: boulders = BOHL-derz — بُولْدَرْز
+H: unforeseeable = un-for-SEE-a-bul — أَنْفُورْسِيَبُل
+H: borehole = BOR-hohl — بُورْهُول
+R: We have hit hard rock at about one metre below ground.
+R: The ground investigation report did not show rock there.
+R: An experienced contractor could not have expected it.
+R: First, we need a joint inspection to record the extent.
+R: We moved the excavators, so there is no idle equipment.
+T: Report unforeseen ground conditions and why they were unforeseeable. | بلّغ عن ظروف أرض غير متوقعة وليه ماكانش ممكن توقعها. | We've hit hard rock in Zone H about one metre below ground. The ground investigation report didn't show rock there, and the nearest borehole showed only sand, so an experienced contractor couldn't have expected it. | hard rock; ground investigation; couldn't have expected
+T: Explain your immediate actions to protect the project and your rights. | اشرح إجراءاتك الفورية لحماية المشروع وحقوقكم. | We'd like a joint inspection today to record the extent, and then we'll submit our notice. Meanwhile we moved the excavators to Zone G, so there's no idle equipment. | joint inspection; notice; idle equipment
+
+# B2-14 | Teaching a junior to check claims | تعليم مبتدئ مراجعة المطالبات
+ENG Karim, assistant QS, am_liam
+SCENE: المساعد بيراجع فاتورة مقاول باطن، وإنت بتعلمه يراجع إزاي بدل ما يقبل الأرقام.
+ENG: Hassan, the subcontractor's invoice looks fine. Shall I approve it? || حسن، فاتورة مقاول الباطن شكلها كويس. أعتمدها؟
+QS: Before you approve anything, tell me what you checked. || قبل ما تعتمد أي حاجة، قولي راجعت إيه.
+ENG: The totals add up, and the rates match the subcontract. || الإجماليات مظبوطة، والأسعار مطابقة لعقد الباطن.
+QS: Good start. Did you check the quantities against our own records? || بداية كويسة. راجعت الكميات على سجلاتنا إحنا؟
+ENG: Not yet. I assumed their numbers were right. || لسه. افترضت إن أرقامهم صح.
+QS: That's the key lesson: never assume. Compare their trip count with the gate sheets. || دي أهم نقطة: ماتفترضش أبدًا. قارن عدد النقلات بتاعهم بكشوف البوابة.
+ENG: OK. What else? || تمام. وإيه كمان؟
+QS: Check that every item has an instruction or a contract basis, and look for anything claimed twice. || اتأكد إن كل بند ليه تعليمات أو أساس في العقد، ودوّر على أي حاجة متطالب بيها مرتين.
+ENG: Claimed twice? Does that happen? || متطالب بيها مرتين؟ بيحصل؟
+QS: More often than you think, usually by mistake. Standby hours are a common one. || أكتر مما تتخيل، غالبًا بالغلط. ساعات الانتظار من أشهر الحاجات.
+ENG: I'll go through it again and bring you the differences. || هراجعها تاني وأجيبلك الفروق.
+QS: Great. Write down each difference with its evidence, and we'll discuss it with them. || عظيم. اكتب كل فرق بالدليل بتاعه، وهنناقشه معاهم.
+P: Before you approve anything = قبل ما تعتمد أي حاجة
+P: The totals add up = الإجماليات مظبوطة
+P: never assume = ماتفترضش أبدًا
+P: claimed twice = متطالب بيها مرتين
+P: More often than you think = أكتر مما تتخيل
+H: invoice = IN-voys — إنْفُويْس
+H: assumed = a-SYOOMD — أسْيُومْد
+H: standby = STAND-by — سْتانْدْباي
+R: Before you approve anything, tell me what you checked.
+R: Did you check the quantities against our own records?
+R: That is the key lesson: never assume.
+R: Look for anything claimed twice.
+R: Write down each difference with its evidence.
+T: Teach a junior how to check an invoice. | علّم مبتدئ يراجع فاتورة إزاي. | Before you approve anything, check the quantities against our own records, like the gate sheets. Make sure every item has an instruction or a contract basis, and look for anything claimed twice. | before you approve; against our own records; claimed twice
+T: Explain the key lesson you want them to remember. | اشرح أهم درس عايزه يفتكره. | The key lesson is never assume. Even if the totals add up and the rates match, the quantities can still be wrong. Write down each difference with its evidence. | never assume; quantities; evidence
+
+# B2-15 | Defending a rate build-up | الدفاع عن تحليل سعر
+ENG Nadia, consultant's QS, bf_isabella
+SCENE: الاستشارية بتراجع تحليل سعر بند الكسارة الهيدروليك، وبتسأل عن كل جزء.
+ENG: Let's go through your build-up for rock breaking line by line. || خلينا نمشي على تحليل سعر تكسير الصخر سطر سطر.
+QS: Sure. The main cost is the excavator with a hydraulic breaker, at the hire company's rate. || أكيد. التكلفة الأساسية هي الحفار بالكسارة الهيدروليك، بسعر شركة الإيجار.
+ENG: Do you have a quotation for that? || عندك عرض سعر لده؟
+QS: Yes, three quotations. We used the lowest one. || أيوه، تلات عروض. استخدمنا أقلهم.
+ENG: Good. Where does your output figure come from? || كويس. رقم الإنتاجية جاي منين؟
+QS: From a two-day trial in Zone H, measured jointly with your surveyor. || من تجربة يومين في منطقة H، اتقاست بالاشتراك مع المساح بتاعكم.
+ENG: Two days is a short trial. || يومين تجربة قصيرة.
+QS: Agreed. We're happy to adjust the rate after two more weeks of actual production. || متفقين. مستعدين نعدّل السعر بعد أسبوعين كمان من الإنتاج الفعلي.
+ENG: That's sensible. What about the wear on the breaker tools? || ده منطقي. وتآكل أدوات الكسارة؟
+QS: It's included as a separate line, based on the supplier's replacement interval. || موجود كسطر لوحده، على أساس فترة الاستبدال من المورد.
+ENG: I'll accept it as an interim rate, subject to review. || هقبله كسعر مؤقت، قابل للمراجعة.
+QS: That works for us. Let's agree the review date now. || ده مناسب لينا. خلينا نتفق على ميعاد المراجعة دلوقتي.
+P: line by line = سطر سطر
+P: We used the lowest one = استخدمنا أقلهم
+P: Where does ... come from? = ... جاي منين؟
+P: That's sensible = ده منطقي
+P: an interim rate, subject to review = سعر مؤقت قابل للمراجعة
+H: hydraulic = hy-DRAW-lik — هَايْدْرُولِك
+H: interval = IN-ter-val — إنْتَرْفَال
+H: interim = IN-ter-im — إنْتَرِم
+R: The main cost is the excavator with a hydraulic breaker.
+R: We have three quotations and we used the lowest one.
+R: The output comes from a trial measured jointly with your surveyor.
+R: We are happy to adjust the rate after two more weeks.
+R: Let's agree the review date now.
+T: Explain where the numbers in your rate come from. | اشرح الأرقام في سعرك جاية منين. | The main cost is the excavator with a breaker, priced from the lowest of three quotations. The output comes from a two-day trial measured jointly with your surveyor. | quotations; lowest; trial
+T: Accept a fair condition and fix a next step. | اقبل شرط عادل وثبّت خطوة جاية. | We're happy for it to be an interim rate, subject to review after two more weeks of actual production. Let's agree the review date now. | interim rate; review; actual production
+
+# B2-16 | Whose design error? | خطأ التصميم مسؤولية مين؟
+ENG Brian, design consultant, am_eric
+SCENE: فيه خطأ في رسومات الميول اكتُشف بعد التنفيذ، والمصمم بيحاول يحمّلكم جزء منه.
+ENG: Hassan, the slopes in Zone E are steeper than they should be. || حسن، الميول في منطقة E أشد من المفروض.
+QS: We built them exactly as shown on revision C of your drawing. || إحنا نفذناها بالظبط زي المراجعة C من رسمتكم.
+ENG: Revision C had an error. We fixed it in revision D. || المراجعة C كان فيها غلط. صلحناه في المراجعة D.
+QS: When was revision D issued? || المراجعة D اتصدرت إمتى؟
+ENG: About three weeks ago. || من حوالي تلات أسابيع.
+QS: We finished those slopes a month ago, and we never received revision D. || إحنا خلّصنا الميول دي من شهر، وعمرنا مااستلمنا المراجعة D.
+ENG: Really? It should have gone through document control. || بجد؟ المفروض كانت عدّت على إدارة الوثائق.
+QS: I've checked our transmittal register. The last drawing we received for Zone E was revision C. || راجعت سجل الاستلام عندنا. آخر رسمة استلمناها لمنطقة E كانت المراجعة C.
+ENG: Then the reworking is not your responsibility. || يبقى إعادة الشغل مش مسؤوليتكم.
+QS: Correct. We can regrade the slopes, but it will be additional work with its own instruction. || مظبوط. نقدر نعيد تسوية الميول، بس هتبقى شغل إضافي بتعليمات خاصة بيه.
+ENG: Understood. I'll inform the engineer today. || مفهوم. هبلّغ المهندس النهاردة.
+QS: Thank you. Please also make sure revision D reaches us formally. || شكرًا. واتأكد إن المراجعة D توصلنا رسمي كمان لو سمحت.
+P: steeper than they should be = أشد من المفروض
+P: exactly as shown on = بالظبط زي ما هو في
+P: It should have gone through = المفروض كانت عدّت على
+P: our transmittal register = سجل الاستلام عندنا
+P: not your responsibility = مش مسؤوليتكم
+H: steeper = STEE-per — سْتِيپَر
+H: transmittal = tranz-MIT-al — تْرانْزْمِتَل
+H: responsibility = ri-spon-si-BIL-i-tee — رِسْپُونْسِبِلِتِي
+R: We built them exactly as shown on revision C.
+R: We never received revision D.
+R: The last drawing we received was revision C.
+R: The reworking is not our responsibility.
+R: Please make sure revision D reaches us formally.
+T: Defend your work when the design was wrong. | دافع عن شغلك لما التصميم كان غلط. | We built the slopes exactly as shown on revision C of your drawing. We finished them a month ago, and according to our transmittal register we never received revision D. | exactly as shown; revision; transmittal register
+T: Agree to fix it under the right conditions. | وافق تصلح بالشروط الصح. | We can regrade the slopes, but it will be additional work with its own instruction, because the error was in the design, not in our construction. | additional work; instruction; design
+
+# B2-17 | Presenting a productivity analysis | عرض تحليل الإنتاجية
+ENG Khaled, project manager, bm_daniel
+SCENE: بتعرض على المدير تحليل لوقت المعدات الضايع وإزاي تحسّنوه.
+QS: Khaled, I analysed the equipment logs for the last four weeks. || خالد، حللت سجلات المعدات لآخر أربع أسابيع.
+ENG: What did you find? || لقيت إيه؟
+QS: Our excavators are productive only about sixty percent of their working hours. || الحفارات بتاعتنا بتنتج حوالي ستين في المية بس من ساعات الشغل.
+ENG: Where does the rest go? || والباقي بيروح فين؟
+QS: The biggest loss is waiting for trucks. That's almost a quarter of the time. || أكبر خسارة الانتظار للعربيات. ده تقريبًا ربع الوقت.
+ENG: So we need more trucks? || يعني محتاجين عربيات أكتر؟
+QS: Not necessarily. The real problem is the queue at the weighbridge at peak times. || مش بالضرورة. المشكلة الحقيقية الطابور عند الميزان في وقت الذروة.
+ENG: Interesting. What do you propose? || مثير للاهتمام. تقترح إيه؟
+QS: Stagger the shift start times by thirty minutes, and add a second weighbridge lane. || نوزّع مواعيد بداية الورديات بفرق نص ساعة، ونضيف حارة تانية للميزان.
+ENG: What's the expected gain? || المكسب المتوقع قد إيه؟
+QS: If we cut the waiting time by half, our output should increase noticeably without new equipment. || لو قللنا وقت الانتظار للنص، الإنتاج هيزيد بشكل ملحوظ من غير معدات جديدة.
+ENG: Let's try it next week and measure the result. || خلينا نجربها الأسبوع الجاي ونقيس النتيجة.
+P: I analysed = حللت
+P: Where does the rest go? = والباقي بيروح فين؟
+P: Not necessarily = مش بالضرورة
+P: Stagger the start times = نوزّع مواعيد البداية بفروق
+P: without new equipment = من غير معدات جديدة
+H: analysed = AN-a-lyzd — أنَلايْزْد
+H: weighbridge = WAY-brij — وِي-بْرِدْج
+H: noticeably = NOH-ti-sa-blee — نُوتِسَبْلِي
+R: Our excavators are productive only about sixty percent of the time.
+R: The biggest loss is waiting for trucks.
+R: The real problem is the queue at the weighbridge.
+R: We could stagger the shift start times by thirty minutes.
+R: Output should increase without new equipment.
+T: Present a finding from data and its real cause. | اعرض نتيجة من البيانات وسببها الحقيقي. | I analysed the equipment logs for four weeks. Our excavators are productive only about sixty percent of the time. The biggest loss is waiting for trucks, but the real problem is the queue at the weighbridge. | analysed; productive; real problem
+T: Propose a low-cost improvement and how to measure it. | اقترح تحسين قليل التكلفة وإزاي نقيسه. | Let's stagger the shift start times by thirty minutes and add a second weighbridge lane. If we cut the waiting time by half, output will increase without new equipment. We can measure it next week. | stagger; waiting time; measure
+
+# B2-18 | Asked to accelerate | طلب التسريع
+ENG Mr. Grant, employer's representative, bm_daniel
+SCENE: ممثل المالك عايزكم تسرّعوا عشان تعوضوا التأخير، وإنت بتوضح مين يتحمل التكلفة.
+ENG: Hassan, we need Zone D finished three weeks earlier than your current forecast. || حسن، محتاجين منطقة D تخلص قبل توقعكم الحالي بتلات أسابيع.
+QS: We can do that, but it means acceleration: more equipment and a second shift. || نقدر، بس ده معناه تسريع: معدات أكتر وردية تانية.
+ENG: Can't you do it with your current resources? || ماينفعش بالموارد الحالية؟
+QS: Not realistically. Our current forecast already reflects full use of what we have. || مش بشكل واقعي. توقعنا الحالي أصلًا مبني على الاستخدام الكامل للي عندنا.
+ENG: Who pays for the extra resources? || مين يدفع الموارد الإضافية؟
+QS: Most of the current delay comes from the late access, which wasn't our risk. || معظم التأخير الحالي من تأخير التسليم، وده ماكانش من مخاطرنا.
+ENG: So you'd expect us to pay. || يعني متوقعين إننا ندفع.
+QS: For the part that recovers the employer's delay, yes. That's why we need a formal instruction to accelerate. || للجزء اللي بيعوّض تأخير المالك، أيوه. وعشان كده محتاجين تعليمات رسمية بالتسريع.
+ENG: How much would it cost? || هيكلّف قد إيه؟
+QS: I'll prepare a costed proposal by Sunday, with the resources and the new dates. || هجهز عرض بالتكلفة قبل الأحد، بالموارد والتواريخ الجديدة.
+ENG: OK. Don't start until we've agreed the cost. || تمام. ماتبدأش لحد ما نتفق على التكلفة.
+QS: Agreed. We'll be ready to mobilise within a week of the instruction. || متفقين. هنكون جاهزين نحشد الموارد خلال أسبوع من التعليمات.
+P: it means acceleration = ده معناه تسريع
+P: Not realistically = مش بشكل واقعي
+P: wasn't our risk = ماكانش من مخاطرنا
+P: a formal instruction to accelerate = تعليمات رسمية بالتسريع
+P: mobilise within a week = نحشد الموارد خلال أسبوع
+H: acceleration = ak-sel-er-AY-shun — أكْسِلَرِيشَن
+H: forecast = FOR-kast — فُورْكاسْت
+H: mobilise = MOH-bi-lyze — مُوبِلايْز
+R: It means acceleration, more equipment and a second shift.
+R: Our forecast already reflects full use of our resources.
+R: Most of the delay comes from the late access.
+R: That is why we need a formal instruction to accelerate.
+R: We will be ready to mobilise within a week.
+T: Explain what acceleration requires. | اشرح التسريع محتاج إيه. | We can finish three weeks earlier, but it means acceleration: more equipment and a second shift. Our current forecast already reflects full use of the resources we have. | acceleration; second shift; forecast
+T: Explain who should pay and what you need before starting. | اشرح مين المفروض يدفع ومحتاجين إيه قبل البداية. | Most of the delay comes from the late access, which wasn't our risk. So we need a formal instruction to accelerate, and I'll prepare a costed proposal before we start. | wasn't our risk; formal instruction; costed proposal
+
+# B2-19 | Settling a subcontractor's final account | تسوية الحساب الختامي لمقاول باطن
+ENG Faisal, subcontractor manager, am_liam
+SCENE: مقاول النقل خلّص شغله، وبتتفاوضوا على الحساب الختامي.
+ENG: Hassan, our final account is ready. We're claiming a bit more than you've certified. || حسن، حسابنا الختامي جاهز. إحنا بنطالب بشوية أكتر من اللي اعتمدتوه.
+QS: Thanks, Faisal. Let's separate the agreed items from the disputed ones. || شكرًا يا فيصل. خلينا نفصل البنود المتفق عليها عن المختلف عليها.
+ENG: Most of the haulage is agreed. The dispute is about standby time. || معظم النقل متفق عليه. الخلاف على وقت الانتظار.
+QS: We accept standby when it was caused by us and recorded on the day. || بنقبل وقت الانتظار لما يكون السبب من عندنا ومتسجل في نفس اليوم.
+ENG: Some days weren't signed by your supervisor. || بعض الأيام ماتوقعتش من المشرف بتاعكم.
+QS: Then we need another way to verify them. Do you have the GPS logs from your trucks? || يبقى محتاجين طريقة تانية نتحقق بيها. عندك سجلات الجي بي إس من عربياتك؟
+ENG: Yes, for all of them. || أيوه، لكلهم.
+QS: Good. If the GPS shows the trucks waiting at our loading area, we'll accept those hours. || كويس. لو الجي بي إس بيوضح إن العربيات كانت مستنية في منطقة التحميل عندنا، هنقبل الساعات دي.
+ENG: And the rest? || والباقي؟
+QS: For days with no evidence at all, I'm afraid we can't pay. But I'm open to a fair compromise on the borderline cases. || للأيام اللي مفيهاش أي دليل، للأسف مانقدرش ندفع. بس أنا مستعد لحل وسط عادل في الحالات اللي على الحدود.
+ENG: That sounds fair. I'll send the GPS data this week. || ده باين عادل. هبعت بيانات الجي بي إس الأسبوع ده.
+QS: Great. Let's aim to sign the final account by the end of the month. || عظيم. خلينا نستهدف نوقع الحساب الختامي قبل آخر الشهر.
+P: separate the agreed items from the disputed ones = نفصل البنود المتفق عليها عن المختلف عليها
+P: recorded on the day = متسجل في نفس اليوم
+P: another way to verify = طريقة تانية نتحقق بيها
+P: open to a fair compromise = مستعد لحل وسط عادل
+P: Let's aim to = خلينا نستهدف
+H: disputed = dis-PYOO-tid — دِسْپْيُوتِد
+H: verify = VER-i-fy — فِيرِفاي
+H: compromise = KOM-pro-myze — كُومْپْرُومايْز
+R: Let's separate the agreed items from the disputed ones.
+R: We accept standby when it was recorded on the day.
+R: Do you have the GPS logs from your trucks?
+R: I am open to a fair compromise on the borderline cases.
+R: Let's aim to sign the final account by the end of the month.
+T: Structure a final account negotiation. | نظّم تفاوض على حساب ختامي. | Let's separate the agreed items from the disputed ones. We accept standby time when it was caused by us and recorded on the day. For unsigned days, we need another way to verify them, like GPS logs. | agreed items; disputed; verify
+T: Say no to unsupported claims but stay open to compromise. | ارفض المطالبات من غير دليل بس خليك منفتح لحل وسط. | For days with no evidence at all, I'm afraid we can't pay. But I'm open to a fair compromise on the borderline cases, and let's aim to sign by the end of the month. | no evidence; fair compromise; sign
+
+# B2-20 | Explaining the volume method to an auditor | شرح طريقة حساب الحجم لمدقق
+ENG Ms. Clarke, employer's auditor, bf_isabella
+SCENE: المدققة بتسألك عن طريقة حساب الكميات وإزاي تتأكد إنها صح.
+ENG: Mr. Sabery, could you explain how you calculate the earthworks volumes? || أستاذ صبري، ممكن تشرح بتحسب كميات الحفر والردم إزاي؟
+QS: Certainly. We use a surface-to-surface method in Civil 3D. || طبعًا. بنستخدم طريقة سطح لسطح على سيفيل ثري دي.
+ENG: What are the two surfaces? || إيه السطحين؟
+QS: For cut, the original ground and the excavated surface. Both come from joint surveys. || للقطع، الأرض الطبيعية والسطح بعد الحفر. الاتنين من رفوعات مشتركة.
+ENG: How do you know the software result is correct? || بتعرف إزاي إن نتيجة البرنامج صح؟
+QS: We cross-check with a second method: average end areas from cross sections every twenty metres. || بنراجع بطريقة تانية: متوسط المساحات من قطاعات عرضية كل عشرين متر.
+ENG: And how close are the two methods? || والطريقتين قريبين من بعض قد إيه؟
+QS: Usually within one percent. If the difference is bigger, we investigate before submitting. || عادةً في حدود واحد في المية. لو الفرق أكبر، بنحقق قبل ما نقدّم.
+ENG: Can I see an example? || ممكن أشوف مثال؟
+QS: Here's Zone B: the surface report, the section sheets and the comparison. || دي منطقة B: تقرير الأسطح، وشيتات القطاعات، والمقارنة.
+ENG: This is very transparent. Thank you. || ده شفاف جدًا. شكرًا.
+QS: You're welcome. Every file is linked to the signed survey it came from. || العفو. كل ملف مربوط بالرفع الموقّع اللي جاي منه.
+P: Certainly = طبعًا (رسمي)
+P: a surface-to-surface method = طريقة سطح لسطح
+P: We cross-check with a second method = بنراجع بطريقة تانية
+P: Usually within one percent = عادةً في حدود واحد في المية
+P: This is very transparent = ده شفاف جدًا
+H: certainly = SUR-ten-lee — سِيرْتِنْلِي
+H: investigate = in-VES-ti-gayt — إنْفِسْتِجِيت
+H: transparent = trans-PAR-ent — تْرانْسْپارِنْت
+R: We use a surface-to-surface method in Civil 3D.
+R: Both surfaces come from joint surveys.
+R: We cross-check with a second method using cross sections.
+R: If the difference is bigger, we investigate before submitting.
+R: Every file is linked to the signed survey it came from.
+T: Explain your volume calculation method to an auditor. | اشرح طريقة حساب الحجم لمدقق. | We use a surface-to-surface method. For cut, the two surfaces are the original ground and the excavated surface, and both come from joint surveys. | surface-to-surface; original ground; joint surveys
+T: Explain how you verify the result with a second method. | اشرح بتتحقق من النتيجة بطريقة تانية إزاي. | We cross-check with a second method, the average end areas from cross sections. The two methods are usually within one percent; if not, we investigate before submitting. | cross-check; second method; investigate
+
+# B2-21 | The client wants to omit work | المالك عايز يلغي جزء من الشغل
+ENG Mr. Grant, employer's representative, bm_daniel
+SCENE: ممثل المالك بيقول هيلغوا منطقة J من نطاقكم ويدّوها لمقاول تاني، وإنت حذر في ردك.
+ENG: Hassan, we're considering removing Zone J from your scope. || حسن، بنفكر نشيل منطقة J من نطاق شغلكم.
+QS: May I ask why? || ممكن أسأل ليه؟
+ENG: Another contractor can do it together with the utilities. || مقاول تاني يقدر يعملها مع المرافق.
+QS: I see. Before we respond formally, we'll need to check the contract carefully. || فاهم. قبل ما نرد رسمي، محتاجين نراجع العقد بعناية.
+ENG: What's your concern? || إيه قلقك؟
+QS: Omitting work to give it to others can have contractual consequences. We'd like our contracts team to review it. || إلغاء شغل عشان يتدّي لغيرنا ممكن يكون ليه تبعات تعاقدية. حابين فريق العقود عندنا يراجعه.
+ENG: We're not trying to cause problems. || إحنا مش بنحاول نعمل مشاكل.
+QS: I understand, and we want to support the project. We've also already mobilised resources for Zone J. || فاهم، وإحنا عايزين ندعم المشروع. وكمان إحنا حشدنا موارد لمنطقة J خلاص.
+ENG: What kind of resources? || موارد من أي نوع؟
+QS: Equipment bookings and a survey of the area. I'll list the costs we've already incurred. || حجوزات معدات ورفع مساحي للمنطقة. هعمل قايمة بالتكاليف اللي صرفناها.
+ENG: Please send that, along with your view. || ابعت ده لو سمحت، مع رأيكم.
+QS: We'll reply in writing within the week, after our contracts team has reviewed it. || هنرد كتابة خلال الأسبوع، بعد ما فريق العقود يراجعه.
+P: May I ask why? = ممكن أسأل ليه؟
+P: Before we respond formally = قبل ما نرد رسمي
+P: can have contractual consequences = ممكن يكون ليه تبعات تعاقدية
+P: costs we've already incurred = التكاليف اللي صرفناها
+P: along with your view = مع رأيكم
+H: omitting = oh-MIT-ing — أُومِتِنْج
+H: consequences = KON-si-kwen-siz — كُونْسِكْوِنْسِز
+H: incurred = in-KURD — إنْكِيرْد
+R: Before we respond formally, we need to check the contract.
+R: Omitting work can have contractual consequences.
+R: We would like our contracts team to review it.
+R: I will list the costs we have already incurred.
+R: We will reply in writing within the week.
+T: Respond carefully when the client wants to remove work. | رد بحذر لما المالك عايز يشيل شغل. | May I ask why? Before we respond formally, we'll need to check the contract carefully, because omitting work to give it to others can have contractual consequences. | may I ask why; respond formally; contractual consequences
+T: Protect your position without being negative. | احمي موقفكم من غير ما تبقى سلبي. | We want to support the project. We've already mobilised some resources for Zone J, so I'll list the costs we've incurred, and we'll reply in writing within the week. | support the project; incurred; reply in writing
+
+# B2-22 | Cash flow worries | قلق من التدفق النقدي
+ENG Khaled, project manager, bm_daniel
+SCENE: المدير قلقان من فلوس المشروع، وإنت بتشرح ليه التدفق ضعيف وإزاي تحسّنوه.
+ENG: Hassan, finance says our cash flow on this project is negative. Why? || حسن، المالية بتقول التدفق النقدي في المشروع ده بالسالب. ليه؟
+QS: Mainly timing. We pay suppliers in thirty days, but the client pays us much later. || أساسًا التوقيت. بندفع للموردين في تلاتين يوم، بس المالك بيدفعلنا بعدها بكتير.
+ENG: How much later? || بعدها بقد إيه؟
+QS: The certification and payment periods together are longer than our supplier terms. || مدد الاعتماد والدفع مع بعض أطول من شروط الموردين بتوعنا.
+ENG: Anything else? || حاجة تانية؟
+QS: Yes. Two variations worth a lot are still unpriced, so they're not in any certificate yet. || أيوه. أمرين تغيير قيمتهم كبيرة لسه ماتسعروش، فمش داخلين في أي شهادة.
+ENG: What can we do quickly? || نقدر نعمل إيه بسرعة؟
+QS: Submit the variation quotations this week and ask for interim payment on account. || نقدم عروض أسعار أوامر التغيير الأسبوع ده ونطلب دفعة مؤقتة تحت الحساب.
+ENG: And on our side? || ومن ناحيتنا؟
+QS: Negotiate longer terms with the two biggest suppliers, and make sure every payment application goes in on time. || نتفاوض على مدد أطول مع أكبر موردين، ونتأكد إن كل مستخلص بيتقدم في ميعاده.
+ENG: Put that in a one-page plan for the director. || حط ده في خطة صفحة واحدة للمدير العام.
+QS: You'll have it tomorrow morning. || هتكون عندك بكرة الصبح.
+P: cash flow is negative = التدفق النقدي بالسالب
+P: Mainly timing = أساسًا التوقيت
+P: still unpriced = لسه ماتسعروش
+P: payment on account = دفعة تحت الحساب
+P: a one-page plan = خطة صفحة واحدة
+H: certification = sur-ti-fi-KAY-shun — سِيرْتِفِكِيشَن
+H: suppliers = sa-PLY-erz — سَپْلايَرْز
+H: negotiate = ni-GOH-shee-ayt — نِجُوشِيِيت
+R: Our cash flow is negative mainly because of timing.
+R: We pay suppliers in thirty days, but the client pays us later.
+R: Two variations are still unpriced.
+R: We should ask for an interim payment on account.
+R: We should negotiate longer terms with our biggest suppliers.
+T: Explain the reasons for negative cash flow. | اشرح أسباب التدفق النقدي السالب. | It's mainly timing. We pay our suppliers in thirty days, but the client's certification and payment periods are longer. Also, two big variations are still unpriced, so they're not in any certificate. | timing; suppliers; unpriced
+T: Propose quick actions to improve it. | اقترح إجراءات سريعة تحسّنه. | We should submit the variation quotations this week and ask for an interim payment on account. On our side, we can negotiate longer terms with our two biggest suppliers. | submit; payment on account; negotiate
+
+# B2-23 | Leading a safety stand-down | إدارة وقفة سلامة
+ENG Sam, safety officer, am_eric
+SCENE: بعد حادثة بسيطة، إنت ومسؤول السلامة بتديروا وقفة سلامة للعمال.
+ENG: Hassan, can you open the stand-down? The men respect you. || حسن، ممكن تفتتح وقفة السلامة؟ الرجالة بيحترموك.
+QS: Sure. Good morning, everyone. We've stopped work for thirty minutes because of yesterday's incident. || أكيد. صباح الخير للجميع. وقفنا الشغل نص ساعة بسبب حادثة امبارح.
+ENG: Tell them what happened. || قولهم اللي حصل.
+QS: A worker's hand was injured while he was clearing a blocked bucket without isolating the machine. || إيد عامل اتصابت وهو بينضف جردل مسدود من غير ما يعزل المعدة.
+ENG: Thankfully, it wasn't serious. || الحمد لله ماكانتش خطيرة.
+QS: But it could have been. I want to be very clear: nobody puts their hands near a machine unless the engine is off. || بس كان ممكن تبقى. عايز أكون واضح جدًا: محدش يقرّب إيده من معدة إلا والموتور طافي.
+ENG: And the key is with the operator. || والمفتاح مع السواق.
+QS: Exactly. Engine off, key out, and the operator confirms. No exceptions, even if you're in a hurry. || بالظبط. الموتور طافي، المفتاح برّه، والسواق يأكد. مفيش استثناءات، حتى لو مستعجل.
+ENG: Does anyone have a question? || حد عنده سؤال؟
+QS: And remember, if you feel something is unsafe, you have the right to stop the work. Nobody will blame you. || وافتكروا، لو حسيت إن فيه حاجة مش آمنة، من حقك توقف الشغل. محدش هيلومك.
+ENG: Thank you, Hassan. Let's sign the attendance sheet before we restart. || شكرًا يا حسن. خلينا نوقع كشف الحضور قبل ما نرجع للشغل.
+QS: Stay safe, everyone. || خلوا بالكم من نفسكم يا جماعة.
+P: We've stopped work because of = وقفنا الشغل بسبب
+P: it could have been = كان ممكن تبقى
+P: I want to be very clear = عايز أكون واضح جدًا
+P: No exceptions = مفيش استثناءات
+P: you have the right to stop the work = من حقك توقف الشغل
+H: incident = IN-si-dent — إنْسِدِنْت
+H: isolating = Y-so-lay-ting — آيْسُولِيتِنْج
+H: exceptions = ik-SEP-shunz — إكْسِپْشَنز
+R: We have stopped work because of yesterday's incident.
+R: I want to be very clear about this rule.
+R: Engine off, key out, and the operator confirms.
+R: There are no exceptions, even if you are in a hurry.
+R: You have the right to stop the work if it is unsafe.
+T: Open a safety stand-down and explain the incident. | افتتح وقفة سلامة واشرح الحادثة. | Good morning, everyone. We've stopped work for thirty minutes because of yesterday's incident. A worker's hand was injured while he cleared a blocked bucket without isolating the machine. | stopped work; incident; isolating
+T: State the safety rule firmly and empower the workers. | قول قاعدة السلامة بحزم وادّي العمال الصلاحية. | I want to be very clear: engine off, key out, and the operator confirms, with no exceptions. And if you feel something is unsafe, you have the right to stop the work. | very clear; no exceptions; right to stop
+
+# B2-24 | Weather records for a claim | سجلات الجو لمطالبة
+ENG Nadia, consultant's QS, bf_isabella
+SCENE: الاستشارية بتسأل عن الأدلة على أيام المطر اللي بتطالبوا بيها.
+ENG: You're claiming nine days for exceptional rain. What's your evidence? || إنتو بتطالبوا بتسع أيام بسبب مطر استثنائي. إيه دليلكم؟
+QS: Three sources. Our site rain gauge, the national weather service data, and the daily reports. || تلات مصادر. مقياس المطر بتاعنا في الموقع، بيانات الأرصاد الوطنية، والتقارير اليومية.
+ENG: Rain alone isn't enough. It has to be exceptional. || المطر لوحده مش كفاية. لازم يكون استثنائي.
+QS: Agreed. We compared this year's rainfall with the ten-year average for the same months. || متفقين. قارنّا كمية المطر السنة دي بمتوسط عشر سنين لنفس الشهور.
+ENG: And? || وبعدين؟
+QS: It was more than three times the average, and the heavy days were consecutive. || كانت أكتر من تلات أضعاف المتوسط، والأيام الشديدة كانت ورا بعض.
+ENG: Did the rain actually stop your work, or just slow it down? || المطر فعلًا وقّف شغلكم، ولا بس بطّأه؟
+QS: It stopped all filling, because wet material can't be compacted to specification. || وقّف كل الردم، لأن المادة المبلولة مينفعش تتدمك حسب المواصفات.
+ENG: What about the days after the rain? || والأيام اللي بعد المطر؟
+QS: We included two drying days, supported by moisture test results. || حطينا يومين تنشيف، مدعومين بنتايج اختبارات الرطوبة.
+ENG: That's a well-supported claim. I'll recommend the time, at least. || دي مطالبة مدعومة كويس. هوصي بالوقت على الأقل.
+QS: Thank you. We'll provide anything else you need. || شكرًا. هنوفّر أي حاجة تانية تحتاجيها.
+P: What's your evidence? = إيه دليلكم؟
+P: Rain alone isn't enough = المطر لوحده مش كفاية
+P: the ten-year average = متوسط عشر سنين
+P: or just slow it down? = ولا بس بطّأه؟
+P: a well-supported claim = مطالبة مدعومة كويس
+H: exceptional = ik-SEP-shun-al — إكْسِپْشَنَل
+H: consecutive = kon-SEK-yoo-tiv — كُنْسِكْيُوتِف
+H: recommend = rek-o-MEND — رِكُومِنْد
+R: We have three sources of evidence for the rain.
+R: We compared the rainfall with the ten-year average.
+R: It was more than three times the average.
+R: Wet material cannot be compacted to specification.
+R: We included two drying days, supported by moisture tests.
+T: Present evidence for a weather claim. | قدّم أدلة لمطالبة بسبب الجو. | We have three sources: our site rain gauge, the national weather data, and the daily reports. We compared the rainfall with the ten-year average, and it was more than three times higher. | three sources; average; evidence
+T: Explain why the rain stopped the work, not just slowed it. | اشرح ليه المطر وقّف الشغل مش بس بطّأه. | The rain stopped all filling, because wet material can't be compacted to specification. We also included two drying days, supported by moisture test results. | stopped; compacted; moisture

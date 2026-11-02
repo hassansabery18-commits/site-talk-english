@@ -1,0 +1,371 @@
+# B2+-01 | Handling a hostile question | التعامل مع سؤال عدائي
+ENG Mr. Grant, employer's representative, bm_daniel
+SCENE: في اجتماع مع المالك، حد بيهاجم أرقامكم قدام الكل، وإنت بترد بهدوء وثقة.
+ENG: Frankly, Hassan, your quantities keep going up. It looks like you're inflating them. || بصراحة يا حسن، كمياتكم بتزيد على طول. باين إنكم بتنفخوها.
+QS: I understand why it might look that way, and I'm glad you raised it openly. || فاهم ليه ممكن تبان كده، وأنا مبسوط إنك فتحت الموضوع بصراحة.
+ENG: Well, can you explain it? || طب تقدر تفسرها؟
+QS: Certainly. Almost all of the increase comes from two instructed changes: the higher levels in Zone F and the rock in Zone H. || طبعًا. تقريبًا كل الزيادة جاية من تغييرين بتعليمات: المناسيب الأعلى في منطقة F والصخر في منطقة H.
+ENG: And the rest? || والباقي؟
+QS: The rest is within the normal re-measurement range, and every figure is backed by a joint survey. || الباقي في حدود إعادة القياس الطبيعية، وكل رقم وراه رفع مشترك.
+ENG: So you're saying none of it is padding. || يعني إنت بتقول مفيش منها حاجة متنفّخة.
+QS: I'm saying every cubic metre can be traced to a signed survey. I'd be happy to walk your team through it line by line. || أنا بقول إن كل متر مكعب ممكن نتتبعه لرفع موقّع. ويسعدني أمشي مع فريقك عليه سطر سطر.
+ENG: That would help. My board is asking hard questions. || ده هيساعد. مجلس الإدارة عندي بيسأل أسئلة صعبة.
+QS: Then let's give them a one-page reconciliation: original quantity, each change, and the current total. || يبقى نديهم ملخص مطابقة صفحة واحدة: الكمية الأصلية، وكل تغيير، والإجمالي الحالي.
+ENG: If you can get that to me by Thursday, it would make my life a lot easier. || لو تقدر توصلهولي قبل الخميس، هيسهّل حياتي كتير.
+QS: Consider it done. And thank you for asking me directly rather than assuming. || اعتبره حصل. وشكرًا إنك سألتني مباشرة بدل ما تفترض.
+P: I'm glad you raised it openly = مبسوط إنك فتحت الموضوع بصراحة
+P: backed by = وراه / مدعوم بـ
+P: can be traced to = ممكن نتتبعه لـ
+P: a one-page reconciliation = ملخص مطابقة صفحة واحدة
+P: Consider it done = اعتبره حصل
+H: inflating = in-FLAY-ting — إنْفْلِيتِنْج
+H: reconciliation = rek-on-sil-ee-AY-shun — رِكُنْسِلِيِيشَن
+H: re-measurement = ree-MEZH-er-ment — رِي-مِيجَرْمِنْت
+R: I understand why it might look that way, and I am glad you raised it.
+R: Almost all of the increase comes from two instructed changes.
+R: Every cubic metre can be traced to a signed survey.
+R: Let's give them a one-page reconciliation.
+R: Thank you for asking me directly rather than assuming.
+T: Respond calmly to an accusation that your quantities are inflated. | رد بهدوء على اتهام إن كمياتكم متنفخة. | I understand why it might look that way, and I'm glad you raised it openly. Almost all of the increase comes from two instructed changes, and every cubic metre can be traced to a signed survey. | I understand why; instructed changes; traced to
+T: Offer transparency to rebuild trust. | اعرض الشفافية عشان ترجع الثقة. | I'd be happy to walk your team through it line by line. Let's also prepare a one-page reconciliation for your board: original quantity, each change, and the current total. | walk your team through; reconciliation; board
+
+# B2+-02 | Persuading the board to approve treated fill | إقناع الإدارة باعتماد الردم المعالج
+ENG Mr. Grant, employer's representative, bm_daniel
+SCENE: بتعرض قدام لجنة المالك ليه لازم يعتمدوا المادة المعالجة، ولازم تقنعهم في دقيقتين.
+QS: Thank you for the time. I'll keep this short: approving treated site material saves time, money and risk. || شكرًا على الوقت. هختصر: اعتماد مادة الموقع المعالجة بيوفّر وقت وفلوس ومخاطر.
+ENG: The board's main concern is long-term performance. || قلق المجلس الأساسي هو الأداء على المدى الطويل.
+QS: That's the right concern. Our trial sections have met the specification consistently for six weeks. || ده القلق الصح. قطاعات التجربة بتاعتنا حققت المواصفات بثبات لمدة ست أسابيع.
+ENG: Six weeks isn't long-term, though. || بس ست أسابيع مش مدى طويل.
+QS: Agreed, which is why we're proposing settlement monitoring for twelve months, at our cost. || متفق، وعشان كده بنقترح مراقبة الهبوط لمدة اتناشر شهر، على حسابنا.
+ENG: At your cost? That's unusual. || على حسابكم؟ ده مش معتاد.
+QS: We're confident in the material, and we'd rather share the risk than ask you to take it alone. || إحنا واثقين في المادة، وبنفضّل نشارك المخاطرة بدل ما نطلب منكم تتحملوها لوحدكم.
+ENG: What happens if the monitoring shows a problem? || ولو المراقبة طلّعت مشكلة؟
+QS: Then we'd carry out the remedial work under the defects provisions, like any other defect. || ساعتها هننفذ الإصلاح تحت بنود العيوب، زي أي عيب تاني.
+ENG: And the benefit to the employer, in plain terms? || والفايدة للمالك، بكلام بسيط؟
+QS: Fewer trucks on public roads, roughly three weeks saved, and a share of the cost savings. || عربيات أقل على الطرق العامة، وحوالي تلات أسابيع توفير، ونصيب من التوفير في التكلفة.
+ENG: That's a compelling case. We'll vote on it on Sunday. || دي حجة مقنعة. هنصوّت عليها يوم الأحد.
+P: I'll keep this short = هختصر
+P: That's the right concern = ده القلق الصح
+P: we'd rather share the risk = بنفضّل نشارك المخاطرة
+P: in plain terms = بكلام بسيط
+P: That's a compelling case = دي حجة مقنعة
+H: consistently = kon-SIS-tent-lee — كُنْسِسْتِنْتْلِي
+H: remedial = ri-MEE-dee-al — رِيمِيدِيَال
+H: compelling = kom-PEL-ing — كُمْپِلِنْج
+R: I will keep this short: it saves time, money and risk.
+R: Our trial sections have met the specification consistently.
+R: We are proposing settlement monitoring for twelve months.
+R: We would rather share the risk than ask you to take it alone.
+R: Fewer trucks, three weeks saved, and a share of the savings.
+T: Make a short, persuasive case to decision makers. | اعرض حجة قصيرة ومقنعة لصناع القرار. | I'll keep this short: approving treated site material saves time, money and risk. Our trial sections have met the specification consistently, and the benefits are fewer trucks on public roads and about three weeks saved. | I'll keep this short; saves; benefits
+T: Answer the main objection by sharing the risk. | رد على الاعتراض الأساسي بمشاركة المخاطرة. | That's the right concern. We're proposing twelve months of settlement monitoring at our cost, and any problem would be repaired under the defects provisions. We'd rather share the risk than ask you to take it alone. | right concern; monitoring; share the risk
+
+# B2+-03 | A tough negotiation on standby costs | تفاوض صعب على تكاليف الانتظار
+ENG Nadia, consultant's QS, bf_isabella
+SCENE: تفاوض سريع ومباشر على مطالبة تكاليف معدات واقفة بسبب تأخير التسليم.
+ENG: Let's not beat around the bush. Your standby claim is too high and we won't pay it as submitted. || خلينا مانلفّش ونلّف. مطالبة الانتظار بتاعتكم عالية أوي ومش هندفعها زي ما هي.
+QS: I appreciate the honesty. Which part are you rejecting: the days, the rates, or the equipment list? || أقدّر الصراحة. إنتي رافضة أنهي جزء: الأيام، ولا الأسعار، ولا قايمة المعدات؟
+ENG: The rates. You've used full hire rates for idle equipment. || الأسعار. إنتو استخدمتوا أسعار الإيجار الكاملة لمعدات واقفة.
+QS: That's a fair challenge. Idle machines don't burn fuel or wear out the same way. || ده اعتراض منطقي. المكن الواقف مابيصرفش وقود ومابيستهلكش بنفس الطريقة.
+ENG: So you accept a reduced rate? || يعني موافق على سعر مخفض؟
+QS: In principle, yes. But the operators were still on site and still paid, so their cost stays in full. || من حيث المبدأ أيوه. بس السواقين كانوا لسه في الموقع وبياخدوا مرتباتهم، فتكلفتهم تفضل كاملة.
+ENG: That's reasonable. What reduction are you suggesting for the machines? || ده معقول. تقترح تخفيض قد إيه للمعدات؟
+QS: We'd remove fuel, maintenance and wear, and keep ownership and finance costs. || هنشيل الوقود والصيانة والاستهلاك، ونخلي تكاليف الملكية والتمويل.
+ENG: And the number of days? || وعدد الأيام؟
+QS: The days aren't negotiable. They're recorded in the daily reports your inspector signed. || الأيام مش قابلة للتفاوض. متسجلة في التقارير اليومية اللي المفتش بتاعكم وقّعها.
+ENG: Fine. Send me a revised calculation on that basis and we'll close it. || ماشي. ابعتلي حساب معدّل على الأساس ده وهنقفلها.
+QS: You'll have it tomorrow. I think that's a fair outcome for both sides. || هيوصلك بكرة. أعتقد دي نتيجة عادلة للطرفين.
+P: Let's not beat around the bush = خلينا مانلفّش ونلّف
+P: as submitted = زي ما هي متقدمة
+P: That's a fair challenge = ده اعتراض منطقي
+P: In principle, yes = من حيث المبدأ أيوه
+P: aren't negotiable = مش قابلة للتفاوض
+H: idle = Y-dul — آيْدُل
+H: ownership = OH-ner-ship — أُونَرْشِب
+H: negotiable = ni-GOH-sha-bul — نِجُوشَبُل
+R: Which part are you rejecting, the days, the rates or the list?
+R: Idle machines do not burn fuel or wear out the same way.
+R: The operators were still on site, so their cost stays in full.
+R: The days are not negotiable, they are in the signed reports.
+R: I think that is a fair outcome for both sides.
+T: In a tough negotiation, find out exactly what is disputed. | في تفاوض صعب، اعرف بالظبط إيه المختلف عليه. | I appreciate the honesty. Which part are you rejecting: the days, the rates, or the equipment list? If it's the rates, that's a fair challenge, because idle machines don't burn fuel. | which part; rates; fair challenge
+T: Give ground on one point while holding firm on another. | تنازل في نقطة واثبت في نقطة تانية. | In principle, we accept a reduced rate for the machines, without fuel and wear, but the operators were still paid, so their cost stays in full. The days aren't negotiable, because your inspector signed the daily reports. | in principle; stays in full; not negotiable
+
+# B2+-04 | Explaining the claim to the director | شرح المطالبة للمدير العام
+ENG Mr. Hadi, company director, am_adam
+SCENE: المدير العام عنده دقيقتين في الأسانسير، وعايز يفهم مطالبة الصخر بسرعة.
+ENG: Hassan, give me the rock claim in two minutes. Where are we? || حسن، اديني مطالبة الصخر في دقيقتين. إحنا فين؟
+QS: In a nutshell: we found continuous rock that the tender data didn't show. We notified on time and we're claiming time and cost. || باختصار: لقينا صخر متصل مكانش ظاهر في بيانات المناقصة. بلّغنا في الميعاد وبنطالب بوقت وتكلفة.
+ENG: How strong is our case? || قضيتنا قوية قد إيه؟
+QS: Strong on entitlement. The nearest borehole showed only sand, and the engineer jointly recorded the rock extent. || قوية في الاستحقاق. أقرب جسة كانت رمل بس، والمهندس سجّل امتداد الصخر بالاشتراك معانا.
+ENG: And the weak spot? || ونقطة الضعف؟
+QS: Quantum. Our first rock-breaking rate was based on a short trial, so they'll push back on the cost. || المبلغ. أول سعر لتكسير الصخر كان مبني على تجربة قصيرة، فهيعترضوا على التكلفة.
+ENG: What are you doing about it? || بتعمل إيه في ده؟
+QS: We're recording actual production every day, so in a month we'll have solid data instead of a trial. || بنسجل الإنتاج الفعلي كل يوم، فبعد شهر هيبقى عندنا بيانات قوية بدل التجربة.
+ENG: Any risk of a dispute? || فيه خطر نزاع؟
+QS: Low, if we keep the records clean. The relationship with the engineer is good. || قليل، لو حافظنا على السجلات نضيفة. العلاقة مع المهندس كويسة.
+ENG: Good. Keep me posted monthly. || كويس. بلّغني كل شهر.
+QS: Will do. I'll add a one-line status to your monthly dashboard. || حاضر. هضيف سطر حالة في لوحة المتابعة الشهرية بتاعتك.
+P: In a nutshell = باختصار
+P: strong on entitlement = قوية في الاستحقاق
+P: the weak spot = نقطة الضعف
+P: they'll push back on = هيعترضوا على
+P: Keep me posted = بلّغني بالجديد
+H: entitlement = in-TY-tul-ment — إنْتايْتِلْمِنْت
+H: quantum = KWON-tum — كْوانْتَم
+H: dashboard = DASH-bord — داشْبُورْد
+R: In a nutshell, we found rock that the tender data did not show.
+R: Our case is strong on entitlement.
+R: The weak spot is the quantum.
+R: We are recording actual production every day.
+R: I will add a one-line status to your monthly dashboard.
+T: Summarise a complex claim for a senior manager in a few sentences. | لخّص مطالبة معقدة لمدير كبير في كام جملة. | In a nutshell, we found continuous rock that the tender data didn't show. We notified on time and we're claiming time and cost. Our case is strong on entitlement. | in a nutshell; notified on time; entitlement
+T: Be honest about the weak point and your plan. | كن صريح في نقطة الضعف وخطتك. | The weak spot is the quantum, because our first rate was based on a short trial. We're recording actual production every day, so in a month we'll have solid data. | weak spot; quantum; actual production
+
+# B2+-05 | When the consultant is wrong | لما الاستشاري يكون غلطان
+ENG David, consultant engineer, bm_george
+SCENE: الاستشاري بيأكد معلومة غلط عن المواصفات قدام فريقه، وإنت لازم تصححه من غير ما تحرجه.
+ENG: The specification requires ninety-eight percent compaction for all fill layers. || المواصفات بتطلب دمك تمانية وتسعين في المية لكل طبقات الردم.
+QS: David, could I just check one thing on that? || ديفيد، ممكن أتأكد من حاجة صغيرة في ده؟
+ENG: Go ahead. || اتفضل.
+QS: My understanding is that ninety-eight applies to the top layer only, and ninety-five to the layers below. || فهمي إن تمانية وتسعين بتنطبق على الطبقة العليا بس، وخمسة وتسعين للطبقات اللي تحتها.
+ENG: I'm fairly sure it's ninety-eight throughout. || أنا متأكد تقريبًا إنها تمانية وتسعين في الكل.
+QS: I might be wrong. Shall we look at the clause together? I have it here. || ممكن أكون غلطان. نبص على البند مع بعض؟ هو معايا هنا.
+ENG: Let me see. Hmm, you're right. It's ninety-five below the top layer. || وريني. همم، عندك حق. خمسة وتسعين تحت الطبقة العليا.
+QS: Easy to mix up. The two tables are on the same page. || سهل تتلخبط. الجدولين في نفس الصفحة.
+ENG: Thanks for checking. That changes the test results for last week. || شكرًا إنك راجعت. ده بيغيّر نتايج اختبارات الأسبوع اللي فات.
+QS: Yes, three layers we reworked would actually have passed. || أيوه، تلات طبقات عِدناها كانت هتنجح أصلًا.
+ENG: Then please submit the details, and we'll consider the rework cost. || يبقى قدّم التفاصيل لو سمحت، وهننظر في تكلفة إعادة الشغل.
+QS: I'll do that today. Thanks for being open about it. || هعمل ده النهاردة. شكرًا إنك كنت متقبل.
+P: could I just check one thing? = ممكن أتأكد من حاجة صغيرة؟
+P: My understanding is that = فهمي إن
+P: I might be wrong = ممكن أكون غلطان
+P: Easy to mix up = سهل تتلخبط
+P: Thanks for being open about it = شكرًا إنك كنت متقبل
+H: throughout = throo-OWT — ثْرُو-آوْت
+H: understanding = un-der-STAN-ding — أَنْدَرْسْتانْدِنْج
+H: consider = kon-SID-er — كُنْسِدَر
+R: Could I just check one thing on that?
+R: My understanding is that it applies to the top layer only.
+R: I might be wrong, shall we look at the clause together?
+R: It is easy to mix up, the two tables are on the same page.
+R: Three layers we reworked would actually have passed.
+T: Correct a senior person politely without embarrassing them. | صحّح شخص أكبر منك بأدب من غير ما تحرجه. | Could I just check one thing? My understanding is that ninety-eight percent applies to the top layer only. I might be wrong, so shall we look at the clause together? | could I just check; my understanding; I might be wrong
+T: Turn the correction into a practical outcome. | حوّل التصحيح لنتيجة عملية. | It's easy to mix up, the tables are on the same page. It means three layers we reworked would actually have passed, so I'll submit the details for the rework cost today. | easy to mix up; would have passed; rework cost
+
+# B2+-06 | An informal chat that matters | دردشة غير رسمية مهمة
+ENG Tony, neighbouring contractor's manager, am_eric
+SCENE: كلام سريع وعامي مع مدير مقاول مجاور في الكافيتيريا، وفيه معلومة مهمة.
+ENG: Hey Hassan, how's it going? You guys look flat out. || أهلًا حسن، أخبارك؟ باين إنكم شغالين على الآخر.
+QS: Yeah, it's pretty hectic. We're trying to make up for lost time. || أيوه، الدنيا زحمة شوية. بنحاول نعوّض الوقت اللي ضاع.
+ENG: Tell me about it. Between you and me, I heard the employer's changing the road levels again. || ماتقوليش. بيني وبينك، سمعت إن المالك هيغيّر مناسيب الطرق تاني.
+QS: Seriously? Where did you hear that? || بجد؟ سمعتها منين؟
+ENG: From their design guys. Nothing official yet, though. || من ناس التصميم عندهم. بس لسه مفيش حاجة رسمية.
+QS: Thanks for the heads-up. That could hit our final grading in Zone J. || شكرًا على التنبيه. ده ممكن يضرب التسوية النهائية عندنا في منطقة J.
+ENG: That's why I mentioned it. No point finishing something twice. || عشان كده قلتلك. مالوش لازمة تخلّص حاجة مرتين.
+QS: Exactly. I won't act on a rumour, but I'll ask the engineer whether a revision is coming. || بالظبط. مش هتصرف على إشاعة، بس هسأل المهندس لو فيه تعديل جاي.
+ENG: Smart. Don't mention my name, though. || ذكي. بس ماتجيبش سيرة اسمي.
+QS: Of course not. I'll just ask if the road design is final. || طبعًا لأ. هسأل بس لو تصميم الطرق نهائي.
+ENG: Cool. Anyway, I've got to run. Catch you later. || تمام. على العموم لازم أمشي. أشوفك بعدين.
+QS: See you, Tony. And thanks again. || أشوفك يا توني. وشكرًا تاني.
+P: You look flat out = باين إنكم شغالين على الآخر
+P: Tell me about it = ماتقوليش (أنا كمان كده)
+P: Between you and me = بيني وبينك
+P: Thanks for the heads-up = شكرًا على التنبيه
+P: I won't act on a rumour = مش هتصرف على إشاعة
+H: hectic = HEK-tik — هِكْتِك
+H: rumour = ROO-mer — رُومَر
+H: anyway = EN-ee-way — إنِي-وِي
+R: It is pretty hectic, we are trying to make up for lost time.
+R: Thanks for the heads-up, that could hit our final grading.
+R: I will not act on a rumour.
+R: I will ask the engineer whether a revision is coming.
+R: I will just ask if the road design is final.
+T: React to informal information professionally. | اتصرف باحتراف مع معلومة غير رسمية. | Thanks for the heads-up. That could hit our final grading. I won't act on a rumour, but I'll ask the engineer whether a revision is coming. | heads-up; rumour; ask the engineer
+T: Keep small talk friendly and natural. | خلّي الكلام الخفيف ودود وطبيعي. | Yeah, it's pretty hectic. We're trying to make up for lost time after the late access. How about you, are you guys on track? | pretty hectic; make up for lost time; on track
+
+# B2+-07 | Presenting the claim to the engineer | عرض المطالبة على المهندس
+ENG David, consultant engineer, bm_george
+SCENE: اجتماع رسمي بتعرض فيه المطالبة التفصيلية للصخر وبترد على أسئلة صعبة.
+QS: Our detailed claim covers three elements: the event, the effect on time, and the cost. || المطالبة التفصيلية بتغطي تلات عناصر: الحدث، والأثر على الوقت، والتكلفة.
+ENG: Start with the event. Why was the rock unforeseeable? || ابدأ بالحدث. ليه الصخر ماكانش ممكن توقعه؟
+QS: The ground investigation showed sand in every borehole near Zone H, and nothing in the tender documents suggested rock. || فحص التربة كان رمل في كل الجسات جنب منطقة H، ومفيش حاجة في مستندات المناقصة كانت بتلمّح لصخر.
+ENG: A competent contractor might have done extra investigation. || مقاول كفء كان ممكن يعمل فحص إضافي.
+QS: Within the tender period, that wasn't practical, and the contract allocates ground risk based on the data provided. || في مدة المناقصة ماكانش عملي، والعقد بيوزّع مخاطرة الأرض على أساس البيانات المقدمة.
+ENG: Fair point. And the effect on time? || نقطة منطقية. والأثر على الوقت؟
+QS: Rock breaking reduced our output in Zone H by about two-thirds, and Zone H is on the critical path. || تكسير الصخر قلل إنتاجنا في منطقة H بحوالي التلتين، ومنطقة H على المسار الحرج.
+ENG: Could you have re-sequenced to work elsewhere? || ماكانش ممكن تعيدوا الترتيب وتشتغلوا في حتة تانية؟
+QS: We did, for the equipment. But the road works depend on Zone H, so the delay to completion remains. || عملنا كده بالنسبة للمعدات. بس أعمال الطرق معتمدة على منطقة H، فالتأخير على الإنجاز فضل موجود.
+ENG: And the cost? || والتكلفة؟
+QS: Based on actual records: breaker hire, extra fuel and the reduced output, all verified against the daily reports. || مبنية على سجلات فعلية: إيجار الكسارة، والوقود الزيادة، والإنتاج المنخفض، وكله متطابق مع التقارير اليومية.
+ENG: It's well structured. I'll issue my determination within the contract period. || منظمة كويس. هصدر قراري خلال المدة التعاقدية.
+P: covers three elements = بتغطي تلات عناصر
+P: nothing suggested = مفيش حاجة كانت بتلمّح
+P: that wasn't practical = ماكانش عملي
+P: the delay to completion remains = التأخير على الإنجاز فضل موجود
+P: verified against = متطابق مع / متراجع على
+H: competent = KOM-pi-tent — كُومْپِتِنْت
+H: allocates = AL-o-kayts — ألُوكِيتْس
+H: determination = di-tur-mi-NAY-shun — دِتِيرْمِنِيشَن
+R: Our detailed claim covers the event, the effect on time and the cost.
+R: Nothing in the tender documents suggested rock.
+R: The contract allocates ground risk based on the data provided.
+R: The road works depend on Zone H, so the delay remains.
+R: The cost is based on actual records verified against the daily reports.
+T: Present the structure of a detailed claim. | اعرض هيكل مطالبة تفصيلية. | Our detailed claim covers three elements: the event, the effect on time, and the cost. The ground investigation showed sand in every borehole, and nothing in the tender documents suggested rock. | three elements; event; suggested
+T: Answer a challenge about mitigating the delay. | رد على اعتراض بخصوص تخفيف التأخير. | We did re-sequence the equipment to other zones, but the road works depend on Zone H, which is on the critical path, so the delay to completion remains. | re-sequence; critical path; delay to completion
+
+# B2+-08 | Mentoring under pressure | التوجيه تحت الضغط
+ENG Karim, assistant QS, am_liam
+SCENE: المساعد متوتر قبل أول اجتماع ليه مع الاستشاري، وإنت بتجهزه نفسيًا وعمليًا.
+ENG: Hassan, I'm nervous about tomorrow's meeting. What if they ask something I don't know? || حسن، أنا متوتر من اجتماع بكرة. لو سألوني حاجة مش عارفها؟
+QS: Then you say, "Good question, let me check and come back to you today." That's a professional answer. || ساعتها تقول: "سؤال كويس، خليني أتأكد وأرجعلك النهاردة." دي إجابة احترافية.
+ENG: Won't that make me look weak? || مش هيبيّنني ضعيف؟
+QS: Not at all. Guessing and being wrong is what makes you look weak. || خالص. التخمين والغلط هو اللي بيبينك ضعيف.
+ENG: How should I prepare tonight? || أجهز إزاي النهاردة بالليل؟
+QS: Know your three main numbers by heart, and know where the evidence for each one is. || احفظ أهم تلات أرقام عندك، واعرف دليل كل واحد فين.
+ENG: What if they disagree with my quantity? || ولو اختلفوا مع الكمية بتاعتي؟
+QS: Ask them which part they disagree with. Don't defend the whole thing; focus on the specific point. || اسألهم مختلفين مع أنهي جزء. ماتدافعش عن الموضوع كله؛ ركّز على النقطة المحددة.
+ENG: And if it gets heated? || ولو الجو سخن؟
+QS: Lower your voice, slow down, and go back to the facts. Calm is contagious. || وطّي صوتك، اتكلم أبطأ، وارجع للحقايق. الهدوء بيعدي.
+ENG: That really helps. Will you be there? || ده بيساعد فعلًا. هتكون موجود؟
+QS: I'll be in the room, but you lead. I'll only step in if you ask me. || هكون في الأوضة، بس إنت اللي هتقود. مش هدخل غير لو طلبت مني.
+P: let me check and come back to you = خليني أتأكد وأرجعلك
+P: Not at all = خالص
+P: by heart = حفظ
+P: if it gets heated = لو الجو سخن
+P: Calm is contagious = الهدوء بيعدي
+H: nervous = NUR-vus — نِيرْفَس
+H: contagious = kon-TAY-jus — كُنْتِيجَس
+H: heated = HEE-tid — هِيتِد
+R: Good question, let me check and come back to you today.
+R: Guessing and being wrong is what makes you look weak.
+R: Know your three main numbers by heart.
+R: Do not defend the whole thing, focus on the specific point.
+R: Lower your voice, slow down, and go back to the facts.
+T: Coach a nervous colleague before an important meeting. | درّب زميل متوتر قبل اجتماع مهم. | If they ask something you don't know, say, "Good question, let me check and come back to you today." That's a professional answer. Guessing and being wrong is what makes you look weak. | let me check; come back to you; guessing
+T: Give advice for handling disagreement in the meeting. | ادي نصيحة للتعامل مع الخلاف في الاجتماع. | Ask them which part they disagree with and focus on that specific point. If it gets heated, lower your voice, slow down and go back to the facts. | which part; specific point; go back to the facts
+
+# B2+-09 | Negotiating the final account with the employer | التفاوض على الحساب الختامي مع المالك
+ENG Mr. Grant, employer's representative, bm_daniel
+SCENE: اجتماع الحساب الختامي للمرحلة، والمالك عايز يقفل بأي رقم، وإنت بتحمي حقوقكم.
+ENG: Hassan, I want to close this phase. Can we agree a single figure today? || حسن، عايز أقفل المرحلة دي. نقدر نتفق على رقم واحد النهاردة؟
+QS: I'd like that too. But a single figure needs to reflect what's actually owed. || أنا كمان عايز كده. بس الرقم الواحد لازم يعكس المستحق فعلًا.
+ENG: Our number is about eight percent below yours. || رقمنا أقل من رقمكم بحوالي تمانية في المية.
+QS: Could you share how you got there? Then we can see where the gap really is. || ممكن تقولي وصلتوا ليه إزاي؟ عشان نشوف الفجوة فعلًا فين.
+ENG: Mainly the rock claim and two variations we consider overpriced. || أساسًا مطالبة الصخر وأمرين تغيير شايفين إن سعرهم مبالغ فيه.
+QS: On the variations, we can move a little, since some rates were estimated. || في أوامر التغيير، نقدر نتحرك شوية، لأن بعض الأسعار كانت تقديرية.
+ENG: And the rock? || والصخر؟
+QS: The engineer has already determined entitlement. Reopening it would only delay us both. || المهندس حدد الاستحقاق خلاص. إعادة فتحه هتأخرنا إحنا الاتنين.
+ENG: So what are you proposing? || طب إنت بتقترح إيه؟
+QS: We meet you partway on the variations, the rock stays as determined, and we sign this week. || نقابلكم في نص الطريق في أوامر التغيير، والصخر يفضل زي ما اتحدد، ونوقع الأسبوع ده.
+ENG: That's closer to something I can take to the board. Let me run the numbers. || ده أقرب لحاجة أقدر أعرضها على المجلس. خليني أحسب الأرقام.
+QS: Of course. I'll send our breakdown tonight so your team can check it quickly. || طبعًا. هبعت التفاصيل بتاعتنا بالليل عشان فريقك يراجعها بسرعة.
+P: agree a single figure = نتفق على رقم واحد
+P: what's actually owed = المستحق فعلًا
+P: how you got there = وصلتوا ليه إزاي
+P: we can move a little = نقدر نتحرك شوية
+P: meet you partway = نقابلكم في نص الطريق
+H: overpriced = oh-ver-PRYST — أُوفَرْپْرايْسْت
+H: determined = di-TUR-mind — دِتِيرْمِنْد
+H: breakdown = BRAYK-down — بْرِيكْداوْن
+R: A single figure needs to reflect what is actually owed.
+R: Could you share how you got there?
+R: On the variations, we can move a little.
+R: Reopening it would only delay us both.
+R: We meet you partway, and we sign this week.
+T: Respond to pressure to settle at a lower figure. | رد على ضغط إنك تقفل برقم أقل. | I'd like to close too, but a single figure needs to reflect what's actually owed. Could you share how you got to your number, so we can see where the gap really is? | reflect; actually owed; how you got there
+T: Propose a deal that trades a concession for a firm position. | اقترح اتفاق فيه تنازل مقابل موقف ثابت. | On the variations we can meet you partway, since some rates were estimated. The rock claim stays as the engineer determined, because reopening it would delay us both. Then we can sign this week. | meet you partway; stays as determined; sign
+
+# B2+-10 | Fast phone call with a supplier | مكالمة سريعة مع مورد
+ENG Yusuf, haulage supplier, am_adam
+SCENE: مكالمة سريعة وكلام طبيعي سريع: المورد بيقول هيسحب عربيات بكرة لمشروع تاني.
+ENG: Hassan, quick one. I'm gonna need four trucks back tomorrow for another job. || حسن، حاجة سريعة. هحتاج أرجّع أربع عربيات بكرة لشغلانة تانية.
+QS: Tomorrow? Yusuf, that's really short notice. We're in the middle of Zone J. || بكرة؟ يا يوسف، ده إشعار قصير أوي. إحنا في نص منطقة J.
+ENG: I know, I know. The client's been chasing me all week. || عارف عارف. العميل بيطاردني طول الأسبوع.
+QS: Our agreement says seven days' notice for any reduction. || اتفاقنا بيقول إشعار سبع أيام لأي تقليل.
+ENG: Yeah, but I'm kinda stuck here. || أيوه، بس أنا متورط شوية.
+QS: Look, I wanna help, but I can't lose four trucks overnight. What if you pull two tomorrow and two next week? || بص، أنا عايز أساعد، بس مقدرش أخسر أربع عربيات في ليلة. إيه رأيك تسحب اتنين بكرة واتنين الأسبوع الجاي؟
+ENG: Two tomorrow... yeah, I could probably live with that. || اتنين بكرة... أيوه، أقدر أتعايش مع ده غالبًا.
+QS: And the two remaining stay until we finish Zone J, no matter what. || والاتنين الباقيين يفضلوا لحد ما نخلّص منطقة J، مهما حصل.
+ENG: Deal. When do you think you'll finish? || اتفقنا. تتوقع تخلّص إمتى؟
+QS: Around the twentieth, if the weather holds. || حوالي يوم عشرين، لو الجو فضل كويس.
+ENG: OK, I'll send you a message to confirm. || تمام، هبعتلك رسالة أأكد.
+QS: Thanks. Put it in writing, just so we're both covered. || شكرًا. اكتبها، عشان نبقى إحنا الاتنين في الأمان.
+P: quick one = حاجة سريعة
+P: really short notice = إشعار قصير أوي
+P: I'm kinda stuck = أنا متورط شوية
+P: I could live with that = أقدر أتعايش مع ده
+P: no matter what = مهما حصل
+H: gonna = GUH-na — جَنَّا (going to في الكلام السريع)
+H: kinda = KYNE-da — كايْنْدَا (kind of)
+H: overnight = oh-ver-NYTE — أُوفَرْنايْت
+R: That is really short notice, we are in the middle of Zone J.
+R: Our agreement says seven days notice for any reduction.
+R: What if you pull two tomorrow and two next week?
+R: The two remaining stay until we finish, no matter what.
+R: Put it in writing, just so we are both covered.
+T: React to a sudden supplier change and refer to the agreement. | اتصرف مع تغيير مفاجئ من مورد وارجع للاتفاق. | That's really short notice, we're in the middle of Zone J. Our agreement says seven days' notice for any reduction, so I can't lose four trucks overnight. | short notice; agreement; overnight
+T: Find a quick compromise and secure it in writing. | لاقي حل وسط سريع وثبّته كتابة. | What if you pull two tomorrow and two next week, and the remaining two stay until we finish Zone J, no matter what? Please put it in writing, so we're both covered. | what if; no matter what; in writing
+
+# B2+-11 | Admitting a mistake to the client | الاعتراف بغلطة قدام المالك
+ENG Mr. Grant, employer's representative, bm_daniel
+SCENE: فريقك عمل غلطة أثرت على المالك، وإنت بتعترف وتعرض الحل قبل ما يكتشفها هو.
+QS: Mr. Grant, before the meeting starts, I want to tell you about a mistake on our side. || مستر جرانت، قبل ما الاجتماع يبدأ، عايز أقولك عن غلطة من ناحيتنا.
+ENG: I appreciate you coming to me. What happened? || أقدّر إنك جيتلي. إيه اللي حصل؟
+QS: Our team placed fill over an area where a utility duct hadn't been inspected yet. || فريقنا ردم فوق منطقة فيها مجرى مرافق ماكانش اتعاين لسه.
+ENG: That's a problem. Is the duct damaged? || دي مشكلة. المجرى اتضرر؟
+QS: We don't believe so, but we can't prove it without exposing it. So we'll excavate it carefully tomorrow. || مش معتقدين، بس مانقدرش نثبت ده من غير ما نكشفه. فهنحفر عليه بحذر بكرة.
+ENG: Who covers the cost? || مين يتحمل التكلفة؟
+QS: We do, entirely. It was our error, and it won't affect your programme. || إحنا، بالكامل. كانت غلطتنا، ومش هتأثر على برنامجكم.
+ENG: How did it happen? || حصلت إزاي؟
+QS: A night shift handover missed the hold point. We've now added a hold-point board at the site office. || تسليم وردية الليل فوّت نقطة التوقف. ضفنا دلوقتي لوحة بنقط التوقف في مكتب الموقع.
+ENG: Well, I'd rather hear it from you than from my inspector. || طيب، أفضّل أسمعها منك بدل من المفتش بتاعي.
+QS: That's exactly why I came. Your inspector is welcome to attend the excavation. || ده بالظبط سبب إني جيت. المفتش بتاعكم مُرحب بيه يحضر الحفر.
+ENG: Thank you. That's how trust is built. || شكرًا. كده الثقة بتتبني.
+P: a mistake on our side = غلطة من ناحيتنا
+P: I appreciate you coming to me = أقدّر إنك جيتلي
+P: we can't prove it without = مانقدرش نثبت ده من غير
+P: We do, entirely = إحنا، بالكامل
+P: That's how trust is built = كده الثقة بتتبني
+H: duct = DUKT — دَكْت
+H: entirely = in-TYRE-lee — إنْتايَرْلِي
+H: excavation = eks-ka-VAY-shun — إكْسْكَفِيشَن
+R: I want to tell you about a mistake on our side.
+R: We cannot prove it without exposing it.
+R: We cover the cost entirely, it was our error.
+R: A night shift handover missed the hold point.
+R: Your inspector is welcome to attend the excavation.
+T: Admit a mistake to the client before they find it. | اعترف بغلطة للمالك قبل ما يكتشفها. | Before the meeting starts, I want to tell you about a mistake on our side. Our team placed fill over a utility duct that hadn't been inspected yet. We'll expose it carefully tomorrow. | mistake on our side; inspected; expose
+T: Take responsibility and explain the prevention measure. | اتحمل المسؤولية واشرح إجراء المنع. | We cover the cost entirely, and it won't affect your programme. It happened because a shift handover missed the hold point, so we've added a hold-point board. Your inspector is welcome to attend. | cover the cost; hold point; welcome to attend
+
+# B2+-12 | Running a risk workshop | إدارة ورشة مخاطر
+ENG Chris, planning engineer, am_eric
+SCENE: بتدير ورشة سريعة لتحديد مخاطر المرحلة الجاية وترتيبها.
+QS: Right, let's get started. In the next forty minutes, we want our top five risks for Phase Two, each with an owner. || طيب، خلينا نبدأ. في الأربعين دقيقة الجاية، عايزين أهم خمس مخاطر للمرحلة التانية، كل واحد ليه مسؤول.
+ENG: Shall we just brainstorm first? || نعمل عصف ذهني الأول؟
+QS: Yes, five minutes, no criticism. Then we rate each one for likelihood and impact. || أيوه، خمس دقايق، من غير انتقاد. وبعدين نقيّم كل واحد من حيث الاحتمال والأثر.
+ENG: I'll start: late design changes to the road levels. || أبدأ أنا: تغييرات تصميم متأخرة لمناسيب الطرق.
+QS: Good one. Others? Summer heat, fill shortage, utility clashes... || حلوة. غيرها؟ حر الصيف، نقص الردم، تعارض المرافق...
+ENG: And losing key staff. Two engineers are leaving next month. || وخسارة موظفين مهمين. مهندسين ماشيين الشهر الجاي.
+QS: That's an important one that people often forget. Let's rate them now. || دي مهمة والناس بتنساها كتير. خلينا نقيّمهم دلوقتي.
+ENG: Design changes: high likelihood, high impact. || تغييرات التصميم: احتمال عالي وأثر عالي.
+QS: Agreed. So that's number one. The mitigation is a design freeze date agreed with the employer. || متفقين. يبقى دي رقم واحد. والتخفيف هو تاريخ تجميد للتصميم نتفق عليه مع المالك.
+ENG: Who owns it? || مين مسؤول عنها؟
+QS: I'll own that one, since it's contractual. Chris, can you own the staffing risk? || أنا هتحملها، لأنها تعاقدية. كريس، تقدر تمسك مخاطرة الموظفين؟
+ENG: Sure. I'll draft a handover plan for both engineers. || أكيد. هكتب خطة تسليم للمهندسين الاتنين.
+P: let's get started = خلينا نبدأ
+P: no criticism = من غير انتقاد
+P: likelihood and impact = الاحتمال والأثر
+P: people often forget = الناس بتنساها كتير
+P: a design freeze date = تاريخ تجميد التصميم
+H: brainstorm = BRAYN-storm — بْرِينْسْتُورْم
+H: likelihood = LYKE-lee-hood — لايْكْلِي-هُود
+H: mitigation = mit-i-GAY-shun — مِتِجِيشَن
+R: We want our top five risks for Phase Two, each with an owner.
+R: Then we rate each one for likelihood and impact.
+R: That is an important one that people often forget.
+R: The mitigation is a design freeze date agreed with the employer.
+R: I will own that one, since it is contractual.
+T: Run the start of a risk workshop with a clear goal and method. | ابدأ ورشة مخاطر بهدف وطريقة واضحين. | Let's get started. In the next forty minutes we want our top five risks for Phase Two, each with an owner. First we brainstorm for five minutes with no criticism, then we rate each risk for likelihood and impact. | top five risks; owner; likelihood and impact
+T: Agree a mitigation and assign an owner. | اتفق على إجراء تخفيف وحدد مسؤول. | Late design changes are high likelihood and high impact, so that's number one. The mitigation is a design freeze date agreed with the employer, and I'll own it, since it's contractual. | mitigation; design freeze; own

@@ -1,0 +1,337 @@
+# B1-25 | Calling about a fuel delivery | مكالمة عن توريد الوقود
+ENG Yusuf, fuel supplier, am_adam
+SCENE: الديزل اتأخر والمعدات هتقف، وإنت بتكلّم المورد.
+QS: Hello Yusuf, the fuel truck didn't come this morning.
+ENG: Sorry, the driver had a problem with the truck.
+QS: Our machines will stop at midday without fuel.
+ENG: I understand. I'll send another truck now.
+QS: When will it arrive?
+ENG: In about one hour.
+QS: OK. Please send the delivery note with the driver.
+ENG: Of course. Sorry again.
+QS: No problem. Thank you for the quick help.
+P: didn't come = ماجاش
+P: without fuel = من غير وقود
+P: When will it arrive? = هيوصل إمتى؟
+P: the delivery note = إذن التسليم
+P: Sorry again = آسف تاني
+H: fuel = FYOO-el — فْيُو-وِل
+H: arrive = a-RYVE — أرايْف
+H: delivery = di-LIV-er-ee — دِلِيفَرِي
+R: The fuel truck did not come this morning.
+R: Our machines will stop at midday without fuel.
+R: When will the truck arrive?
+R: Please send the delivery note with the driver.
+R: Thank you for the quick help.
+T: Call the supplier about a late fuel delivery. | كلّم المورد عن تأخير الوقود. | Hello Yusuf, the fuel truck didn't come this morning. Our machines will stop at midday without fuel. When can you send it? | fuel truck; didn't come; when
+T: Ask for the delivery note and thank him. | اطلب إذن التسليم واشكره. | Please send the delivery note with the driver. Thank you for the quick help. | delivery note; thank you; driver
+
+# B1-26 | Welcoming a new worker | استقبال عامل جديد
+ENG Bilal, new site helper, am_liam
+SCENE: عامل جديد أول يوم، وإنت بتشرحله الأساسيات.
+QS: Welcome, Bilal. Is this your first day?
+ENG: Yes, sir. I'm a little nervous.
+QS: Don't worry. First, always wear your PPE.
+ENG: OK. Where is the rest area?
+QS: It's next to the site office, under the big shade.
+ENG: And who is my supervisor?
+QS: Ravi is your supervisor. Ask him if you have any questions.
+ENG: Thank you. What time do we start?
+QS: We start at seven and finish at five.
+P: your first day = أول يوم ليك
+P: Don't worry = ماتقلقش
+P: always wear your PPE = البس معدات الوقاية دايمًا
+P: next to the site office = جنب مكتب الموقع
+P: if you have any questions = لو عندك أي أسئلة
+H: nervous = NUR-vus — نِيرْفَس
+H: supervisor = SOO-per-vy-zer — سُوپَرْ-فايْزَر
+H: office = OF-is — أُوفِس
+R: Welcome, is this your first day?
+R: Don't worry, always wear your PPE.
+R: The rest area is next to the site office.
+R: Ask your supervisor if you have any questions.
+R: We start at seven and finish at five.
+T: Welcome a new worker and explain the basic rules. | رحّب بعامل جديد واشرحله القواعد الأساسية. | Welcome to the site. Always wear your PPE. The rest area is next to the site office. We start at seven and finish at five. | welcome; wear your PPE; start
+T: Tell him who to ask for help. | قوله يسأل مين لو احتاج مساعدة. | Your supervisor is Ravi. If you have any questions, ask him. You can also call me. | supervisor; any questions; ask
+
+# B1-27 | Checking delivery tickets | مراجعة تذاكر التوريد
+ENG Tom, gate checker, bm_daniel
+SCENE: بتراجع مع مسؤول البوابة تذاكر توريد الردم المستورد.
+QS: Tom, can I see today's delivery tickets?
+ENG: Here they are. Forty tickets so far.
+QS: This ticket has no truck number.
+ENG: Oh, the driver forgot to write it.
+QS: And this one has no signature.
+ENG: Sorry. I'll be more careful.
+QS: We can't pay without complete tickets.
+ENG: I understand. I'll check every ticket at the gate.
+QS: Thank you. Accurate tickets mean accurate payments.
+P: Here they are = اتفضل أهم
+P: so far = لحد دلوقتي
+P: no signature = مفيش توقيع
+P: I'll be more careful = هاخد بالي أكتر
+P: We can't pay without = مانقدرش ندفع من غير
+H: signature = SIG-na-cher — سِجْنَتْشَر
+H: careful = KAIR-ful — كِيرْفُل
+H: accurate = AK-yu-rit — أكْيُورِت
+R: Can I see today's delivery tickets?
+R: This ticket has no truck number.
+R: This one has no signature.
+R: We cannot pay without complete tickets.
+R: Accurate tickets mean accurate payments.
+T: Point out problems in the delivery tickets. | وضّح المشاكل في تذاكر التوريد. | This ticket has no truck number, and this one has no signature. We can't pay without complete tickets. | no truck number; no signature; can't pay
+T: Ask the gate checker to check every ticket. | اطلب من مسؤول البوابة يراجع كل تذكرة. | Please check every ticket at the gate. Make sure it has the truck number, the time and the signature. | check every ticket; truck number; signature
+
+# B1-28 | Reading the drawing | قراية الرسمة
+ENG Omar, new trainee engineer, am_liam
+SCENE: المتدرب مش فاهم الخطوط والأرقام في رسمة التسوية.
+ENG: Hassan, what are these lines on the drawing?
+QS: They are contour lines. They show the ground levels.
+ENG: And these numbers?
+QS: They are the finished levels after grading.
+ENG: How do I know where to cut?
+QS: Compare the existing level with the finished level.
+ENG: If the existing level is higher, we cut?
+QS: Exactly. And if it's lower, we fill.
+ENG: Now I understand. Thanks.
+P: What are these lines? = إيه الخطوط دي؟
+P: They show = بتوضّح
+P: finished levels = المناسيب النهائية
+P: Compare ... with ... = قارن ... بـ ...
+P: Now I understand = دلوقتي فهمت
+H: contour = KON-toor — كُونْتُور
+H: compare = kom-PAIR — كُمْپِير
+H: existing = ig-ZIST-ing — إِجْزِسْتِنْج
+R: These are contour lines on the drawing.
+R: They show the ground levels.
+R: These numbers are the finished levels.
+R: Compare the existing level with the finished level.
+R: If it is higher we cut, and if it is lower we fill.
+T: Explain contour lines and levels to a trainee. | اشرح خطوط الكنتور والمناسيب لمتدرب. | These are contour lines. They show the ground levels. The numbers are the finished levels after grading. | contour lines; levels; finished levels
+T: Explain how to decide between cut and fill. | اشرح إزاي تقرر قطع ولا ردم. | Compare the existing level with the finished level. If the existing level is higher, we cut. If it is lower, we fill. | compare; higher; lower
+
+# B1-29 | Rejecting bad material | رفض مادة غير مطابقة
+ENG Faisal, subcontractor supervisor, am_liam
+SCENE: لقيت صخور كبيرة في مادة الردم، وبتطلب من مقاول الباطن يشيلها.
+QS: Faisal, look at this material. There are big rocks in it.
+ENG: They are not very big.
+QS: They are bigger than the specification allows.
+ENG: So what do you want us to do?
+QS: Please remove the big rocks before you spread the layer.
+ENG: That will slow us down.
+QS: I know, but the consultant will reject the layer.
+ENG: OK. I'll put two workers on it.
+QS: Thank you. Quality first.
+P: Look at this = بص على ده
+P: bigger than the specification allows = أكبر من المسموح في المواصفات
+P: before you spread the layer = قبل ما تفرد الطبقة
+P: That will slow us down = ده هيأخرنا
+P: will reject = هيرفض
+H: specification = spes-i-fi-KAY-shun — سْپِسِفِيكِيشَن
+H: rocks = ROKS — رُوكْس
+H: spread = SPRED — سْپْرِد
+R: There are big rocks in this material.
+R: They are bigger than the specification allows.
+R: Please remove the big rocks before you spread the layer.
+R: The consultant will reject the layer.
+R: Thank you, quality comes first.
+T: Tell the subcontractor that the material is not acceptable. | قول لمقاول الباطن إن المادة مش مقبولة. | Look at this material. There are big rocks, bigger than the specification allows. The consultant will reject the layer. | big rocks; specification; reject
+T: Ask him to fix the problem. | اطلب منه يصلح المشكلة. | Please remove the big rocks before you spread the layer. I know it will slow you down, but quality comes first. | remove; before you spread; quality
+
+# B1-30 | Asking for clarification | طلب توضيح
+ENG Nadia, consultant's QS, bf_isabella
+SCENE: الاستشارية بتتكلم بسرعة في مكالمة، وإنت محتاج توضيح.
+ENG: We deducted part of item five because of the missing records.
+QS: Sorry, could you say that again more slowly?
+ENG: Of course. We deducted part of item five.
+QS: Which records are missing?
+ENG: The density test reports for two layers.
+QS: I see. So if I send the reports, will you add it back?
+ENG: Yes, after we check them.
+QS: Thank you. Let me repeat: I send the reports, and you review item five again.
+ENG: Exactly.
+P: Could you say that again? = ممكن تعيدي الكلام؟
+P: more slowly = أبطأ شوية
+P: Which ... are missing? = أنهي ... ناقصة؟
+P: Let me repeat = خليني أعيد
+P: I see = فهمت
+H: deducted = di-DUK-tid — دِيدَكْتِد
+H: missing = MIS-ing — مِسِنْج
+H: repeat = ri-PEET — رِيپِيت
+R: Sorry, could you say that again more slowly?
+R: Which records are missing for item five?
+R: The density test reports are missing.
+R: Let me repeat to make sure.
+R: You will review item five again.
+T: Ask someone to repeat and explain. | اطلب من حد يعيد ويوضح. | Sorry, could you say that again more slowly? Which records are missing exactly? | say that again; more slowly; which
+T: Repeat the agreement to confirm you understood. | أعد الاتفاق عشان تتأكد إنك فهمت. | Let me repeat to make sure. I will send the density reports today, and you will review item five again. | let me repeat; send; review
+
+# B1-31 | Night shift handover | تسليم وردية الليل
+ENG Ahmed, night shift engineer, am_eric
+SCENE: نهاية اليوم، بتسلّم مهندس وردية الليل المطلوب منه.
+QS: Ahmed, here is the plan for tonight.
+ENG: OK, go ahead.
+QS: Continue the fill in Zone C, layers five and six.
+ENG: How many trucks?
+QS: Six trucks and two rollers.
+ENG: Anything special?
+QS: Yes, the lighting tower near the gate is broken. Use the small one.
+ENG: Got it. And the water truck?
+QS: It comes at nine. Please call me only for emergencies.
+P: here is the plan = دي الخطة
+P: go ahead = اتفضل كمّل
+P: Anything special? = فيه حاجة مهمة؟
+P: Got it = فهمت
+P: only for emergencies = في الطوارئ بس
+H: tonight = ta-NYTE — تُونايْت
+H: tower = TOW-er — تاوَر
+H: emergencies = i-MUR-jen-seez — إِمِيرْجِنْسِيز
+R: Here is the plan for tonight.
+R: Continue the fill in Zone C.
+R: The lighting tower near the gate is broken.
+R: The water truck comes at nine.
+R: Please call me only for emergencies.
+T: Hand over the work plan to the night shift engineer. | سلّم خطة الشغل لمهندس الليل. | Here is the plan for tonight. Continue the fill in Zone C with six trucks and two rollers. The water truck comes at nine. | plan for tonight; continue; trucks
+T: Warn him about a problem on site. | نبّهه على مشكلة في الموقع. | Be careful, the lighting tower near the gate is broken. Please use the small tower. Call me only for emergencies. | broken; be careful; emergencies
+
+# B1-32 | Measuring a drainage trench | قياس خندق تصريف
+ENG Ali, survey team leader, am_adam
+SCENE: بتقيسوا خندق تصريف مؤقت اتحفر بتعليمات الاستشاري.
+QS: Ali, we need to measure the drainage trench today.
+ENG: The whole length?
+QS: Yes, from the road to the pond.
+ENG: I'll take a section every twenty metres.
+QS: Good. Please measure the depth and the width.
+ENG: Should I include the side slopes?
+QS: Yes, include the slopes. We need the real volume.
+ENG: OK. I'll send you the sections tomorrow.
+QS: Thanks. This trench is extra work, so the records are important.
+P: The whole length? = الطول كله؟
+P: a section every twenty metres = قطاع كل عشرين متر
+P: the depth and the width = العمق والعرض
+P: side slopes = الميول الجانبية
+P: the real volume = الحجم الحقيقي
+H: trench = TRENCH — تْرِنْتْش
+H: width = WIDTH — وِدْث
+H: volume = VOL-yoom — فُولْيُوم
+R: We need to measure the drainage trench today.
+R: Please measure the depth and the width.
+R: Include the side slopes in the sections.
+R: We need the real volume.
+R: This trench is extra work, so the records are important.
+T: Tell the surveyor how to measure the trench. | قول للمساح يقيس الخندق إزاي. | Please measure the trench from the road to the pond. Take a section every twenty metres and include the depth, width and side slopes. | measure; section; side slopes
+T: Explain why good records are important for extra work. | اشرح ليه السجلات الكويسة مهمة للشغل الإضافي. | This trench is extra work. We need accurate records and sections, because we will ask for payment for it. | extra work; records; payment
+
+# B1-33 | Why is production low? | ليه الإنتاج قليل؟
+ENG Khaled, project manager, bm_daniel
+SCENE: المدير لاحظ إن الإنتاج قليل الأسبوع ده وبيسألك عن السبب.
+ENG: Hassan, production is low this week. Why?
+QS: There are three reasons.
+ENG: Go on.
+QS: First, the haul road is long because of the new route.
+ENG: OK. Second?
+QS: Second, two trucks are in the workshop.
+ENG: And third?
+QS: Third, the water supply was late twice.
+ENG: What do you suggest?
+QS: Two more trucks for next week, and a second water supplier.
+P: There are three reasons = فيه تلات أسباب
+P: Go on = كمّل
+P: First / Second / Third = أولًا / ثانيًا / ثالثًا
+P: in the workshop = في الورشة
+P: What do you suggest? = إيه اقتراحك؟
+H: production = pro-DUK-shun — پْرُودَكْشَن
+H: route = ROOT — رُوت
+H: suggest = sug-JEST — سَجِسْت
+R: Production is low this week.
+R: There are three reasons for this.
+R: First, the haul road is long.
+R: Second, two trucks are in the workshop.
+R: I suggest two more trucks for next week.
+T: Explain the reasons for low production. | اشرح أسباب الإنتاج القليل. | There are three reasons. First, the haul road is long. Second, two trucks are in the workshop. Third, the water supply was late. | three reasons; first; second
+T: Suggest a solution to your manager. | اقترح حل لمديرك. | I suggest two more trucks for next week and a second water supplier. Then production will go up. | I suggest; more trucks; supplier
+
+# B1-34 | Closing a meeting | إنهاء اجتماع
+ENG David, consultant engineer, bm_george
+SCENE: آخر الاجتماع، بتلخّص الاتفاقات وتشكر الحاضرين.
+QS: Before we finish, let me summarize.
+ENG: Please do.
+QS: First, the joint measurement is on Thursday.
+ENG: Correct.
+QS: Second, you'll send the site instruction for the stockpile.
+ENG: Yes, today.
+QS: Third, we'll send the test reports tomorrow.
+ENG: Agreed.
+QS: Thank you all for your time. See you next week.
+P: Before we finish = قبل ما نخلّص
+P: let me summarize = خليني ألخّص
+P: Correct = مظبوط
+P: Agreed = متفقين
+P: Thank you all for your time = شكرًا لكم كلكم على وقتكم
+H: summarize = SUM-a-ryze — سَمَرَايْز
+H: correct = ka-REKT — كَرِكْت
+H: agreed = a-GREED — أَجْرِيد
+R: Before we finish, let me summarize.
+R: The joint measurement is on Thursday.
+R: You will send the site instruction today.
+R: We will send the test reports tomorrow.
+R: Thank you all for your time.
+T: Summarize three agreements at the end of a meeting. | لخّص تلات اتفاقات في آخر الاجتماع. | Let me summarize. First, the joint measurement is on Thursday. Second, you will send the site instruction. Third, we will send the test reports. | let me summarize; first; second
+T: Close the meeting politely. | اختم الاجتماع بأدب. | Thank you all for your time. I will send the minutes today. See you next week. | thank you; for your time; see you
+
+# B1-35 | Describing your job in an interview | وصف شغلك في مقابلة
+ENG Laura, HR interviewer, af_sarah
+SCENE: مقابلة شغل بسيطة، بتسألك عن شغلك الحالي.
+ENG: Tell me about your current job.
+QS: I'm a site quantity surveyor on a large earthworks project.
+ENG: What are your main tasks?
+QS: I measure the work, check quantities and prepare payment applications.
+ENG: Do you work with a team?
+QS: Yes, with surveyors, engineers and subcontractors.
+ENG: What are your strengths?
+QS: I'm accurate and I know survey software well.
+ENG: Thank you, Hassan. That's very clear.
+P: Tell me about = احكيلي عن
+P: my current job = شغلي الحالي
+P: main tasks = المهام الأساسية
+P: What are your strengths? = إيه نقاط قوتك؟
+P: I'm accurate = أنا دقيق
+H: current = KUR-ent — كِيرِنْت
+H: strengths = STRENGKTHS — سْتْرِنْجْثْس
+H: software = SOFT-wair — سُوفْتْوِير
+R: I am a site quantity surveyor on a large project.
+R: I measure the work and check quantities.
+R: I prepare the payment applications.
+R: I work with surveyors and subcontractors.
+R: I am accurate and I know survey software well.
+T: Describe your current job in an interview. | اوصف شغلك الحالي في مقابلة. | I'm a site quantity surveyor on a large earthworks project. I measure the work, check the quantities and prepare the payment applications. | quantity surveyor; measure; payment applications
+T: Talk about your strengths. | اتكلم عن نقاط قوتك. | My strengths are accuracy and survey skills. I know Civil 3D and survey software well, and I work well with the site team. | strengths; accurate; software
+
+# B1-36 | A full day on site (review) | يوم كامل في الموقع (مراجعة)
+ENG Khaled, project manager, bm_daniel
+SCENE: مراجعة للمستوى: المدير بيسألك عن يومك من أوله لآخره.
+ENG: Hassan, tell me about your day.
+QS: In the morning I checked the trucks at the gate.
+ENG: And then?
+QS: Then I checked the levels with the surveyor in Zone C.
+ENG: Any problems today?
+QS: One density test failed, but the retest passed after lunch.
+ENG: Good. What about the consultant?
+QS: We agreed on the joint measurement for Thursday.
+ENG: Excellent. What's the plan for tomorrow?
+QS: Tomorrow we'll start the cut in Zone D after the survey.
+P: Tell me about your day = احكيلي عن يومك
+P: And then? = وبعدين؟
+P: the retest passed = إعادة الاختبار نجحت
+P: We agreed on = اتفقنا على
+P: the plan for tomorrow = خطة بكرة
+H: morning = MOR-ning — مُورْنِنْج
+H: agreed = a-GREED — أَجْرِيد
+H: tomorrow = ta-MOR-oh — تُمـُورُو
+R: In the morning I checked the trucks at the gate.
+R: Then I checked the levels with the surveyor.
+R: One density test failed, but the retest passed.
+R: We agreed on the joint measurement for Thursday.
+R: Tomorrow we will start the cut in Zone D.
+T: Describe your working day from morning to evening. | اوصف يوم شغلك من الصبح للمسا. | In the morning I checked the trucks at the gate. Then I checked the levels with the surveyor. In the afternoon I prepared the daily report. | in the morning; then; afternoon
+T: Explain the plan for tomorrow. | اشرح خطة بكرة. | Tomorrow we will survey Zone D in the morning. After the survey we will start the cut, and we will continue the fill in Zone C. | tomorrow; survey; start the cut

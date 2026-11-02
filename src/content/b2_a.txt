@@ -1,0 +1,369 @@
+# B2-01 | Presenting a delay analysis | عرض تحليل التأخير
+ENG David, consultant engineer, bm_george
+SCENE: في اجتماع مع الاستشاري بتعرض تحليل التأخير في منطقة D، وهو بيقول إن جزء منه من عندكم.
+QS: Thanks for your time, David. I'd like to walk you through our delay analysis for Zone D. || شكرًا على وقتك يا ديفيد. حابب أمشي معاك في تحليل التأخير بتاعنا لمنطقة D.
+ENG: Go ahead, but keep in mind we think some of the delay is yours. || اتفضل، بس خلي في بالك إن إحنا شايفين إن جزء من التأخير من عندكم.
+QS: That's fair, and I've shown it separately. The access was handed over fourteen days late. || ده منطقي، وأنا موضّحه لوحده. الموقع اتسلم متأخر أربعتاشر يوم.
+ENG: Agreed, the dates are in the minutes. What about your excavator breakdown? || متفقين، التواريخ موجودة في المحضر. وعطل الحفار بتاعكم؟
+QS: It happened during the same period, so the two delays overlap for two days. || حصل في نفس الفترة، فالتأخيرين متداخلين في يومين.
+ENG: So you accept those two days are concurrent? || يعني إنت موافق إن اليومين دول متزامنين؟
+QS: Yes. We're only asking for time for those days, not money. || أيوه. إحنا طالبين وقت بس عن الأيام دي، مش فلوس.
+ENG: And the remaining twelve days? || والاتناشر يوم الباقيين؟
+QS: Those are purely caused by the late access, and they were on the critical path. || دول سببهم تأخير التسليم بس، وكانوا على المسار الحرج.
+ENG: Can you show that on the programme? || تقدر توريهالي على البرنامج؟
+QS: Yes, page four shows the planned and actual dates side by side. || أيوه، صفحة أربعة فيها التواريخ المخططة والفعلية جنب بعض.
+ENG: It looks well prepared. I'll review it and come back to you next week. || شكله متحضّر كويس. هراجعه وأرجعلك الأسبوع الجاي.
+P: walk you through = أمشي معاك في (أشرحلك خطوة بخطوة)
+P: keep in mind = خلي في بالك
+P: the two delays overlap = التأخيرين متداخلين
+P: concurrent delay = تأخير متزامن
+P: on the critical path = على المسار الحرج
+H: analysis = a-NAL-i-sis — أنالِسِس
+H: concurrent = kon-KUR-ent — كُنْكِيرِنْت
+H: critical = KRIT-i-kal — كْرِتِكَال
+R: I would like to walk you through our delay analysis.
+R: The access was handed over fourteen days late.
+R: The two delays overlap for two days.
+R: For the concurrent days, we are asking for time, not money.
+R: The remaining days were on the critical path.
+T: Present a delay analysis and separate your own delay honestly. | اعرض تحليل تأخير وافصل تأخيركم بأمانة. | I'd like to walk you through our delay analysis. The access was handed over fourteen days late. Our excavator breakdown overlapped for two days, so for those concurrent days we only ask for time, not money. | walk you through; overlap; concurrent
+T: Explain why the remaining delay is critical. | اشرح ليه باقي التأخير حرج. | The remaining twelve days were caused purely by the late access, and the work was on the critical path. Page four of our programme shows the planned and actual dates side by side. | critical path; late access; programme
+
+# B2-02 | Negotiating a new rate | التفاوض على سعر جديد
+ENG Nadia, consultant's QS, bf_isabella
+SCENE: بتتفاوض مع الاستشارية على سعر بند المادة المستوردة من المحجر.
+ENG: Hassan, your proposed rate for imported fill is quite high. || حسن، السعر المقترح بتاعك للردم المستورد عالي شوية.
+QS: I understand your concern. Which part of the build-up do you disagree with? || فاهم قلقك. إنتي مختلفة مع أنهي جزء في تحليل السعر؟
+ENG: Mainly the haulage. You assumed a forty-kilometre round trip. || أساسًا النقل. إنت فارض رحلة رايح جاي أربعين كيلو.
+QS: That's the actual distance to the only approved borrow pit. || دي المسافة الفعلية لأقرب محجر معتمد، والوحيد.
+ENG: Is there really no closer source? || مفيش فعلًا مصدر أقرب؟
+QS: There is one, but its material failed the lab tests. I can share the results. || فيه واحد، بس مادته فشلت في اختبارات المعمل. أقدر أبعتلك النتايج.
+ENG: OK, that explains the distance. What about your overhead percentage? || تمام، ده بيفسر المسافة. ونسبة المصاريف العامة عندك؟
+QS: It's the same percentage we used in the original tender. || هي نفس النسبة اللي استخدمناها في المناقصة الأصلية.
+ENG: Then I can accept it. But the truck productivity looks low to me. || يبقى أقدر أقبلها. بس إنتاجية العربيات شكلها قليلة بالنسبالي.
+QS: It's based on three weeks of actual trip records. We're not guessing. || مبنية على تلات أسابيع من سجلات النقلات الفعلية. إحنا مش بنخمّن.
+ENG: Send me those records and I'll recalculate it on my side. || ابعتلي السجلات دي وأنا هعيد الحساب من عندي.
+QS: Will do. I'm confident we'll meet somewhere reasonable. || حاضر. أنا واثق إننا هنتقابل عند رقم معقول.
+P: I understand your concern = فاهم قلقك
+P: Which part do you disagree with? = مختلف مع أنهي جزء؟
+P: That explains = ده بيفسر
+P: We're not guessing = إحنا مش بنخمّن
+P: meet somewhere reasonable = نتقابل عند رقم معقول
+H: assumed = a-SYOOMD — أسْيُومْد
+H: overhead = OH-ver-hed — أُوفَرْهِد
+H: productivity = proh-duk-TIV-i-tee — پْرُودَكْتِفِتِي
+R: I understand your concern about the rate.
+R: Which part of the build-up do you disagree with?
+R: That is the actual distance to the only approved borrow pit.
+R: The productivity is based on three weeks of actual records.
+R: I am confident we will meet somewhere reasonable.
+T: Respond to "your rate is too high" without getting defensive. | رد على "سعرك عالي" من غير ما تبقى دفاعي. | I understand your concern. Which part of the build-up do you disagree with? If it's the haulage, that's the actual distance to the only approved borrow pit, and I can share the test results of the closer source. | I understand your concern; build-up; actual
+T: Defend an assumption with evidence. | دافع عن فرضية بالدليل. | Our truck productivity is based on three weeks of actual trip records, so we're not guessing. I'll send you the records, and I'm confident we'll meet somewhere reasonable. | based on; actual; records
+
+# B2-03 | Calming an angry subcontractor | تهدئة مقاول باطن غضبان
+ENG Faisal, subcontractor supervisor, am_liam
+SCENE: مقاول الباطن متعصب جدًا بسبب خصم في دفعته، وإنت بتهدّي الموقف.
+ENG: This is unacceptable! You deducted almost a quarter of our invoice without telling us! || ده مش مقبول! خصمتوا تقريبًا ربع فاتورتنا من غير ما تقولولنا!
+QS: Faisal, I can see you're upset, and I want to sort this out with you. || فيصل، أنا شايف إنك متضايق، وعايز نحل الموضوع ده سوا.
+ENG: My workers need to be paid. I can't run my business like this. || عمالي لازم ياخدوا فلوسهم. مقدرش أدير شغلي كده.
+QS: I completely understand. Let's go through the deductions one by one. || فاهم تمامًا. خلينا نمشي على الخصومات واحدة واحدة.
+ENG: Fine. Start with the biggest one. || ماشي. ابدأ بأكبر واحد.
+QS: The biggest is the rework of the failed layers in Zone C. || أكبرهم إعادة شغل الطبقات اللي فشلت في منطقة C.
+ENG: Those layers failed because the water truck was late. That's not our fault. || الطبقات دي فشلت لأن عربية المياه اتأخرت. دي مش غلطتنا.
+QS: That's a fair point, and I'll check the water supply records for those days. || ده كلام منطقي، وهراجع سجلات توريد المياه للأيام دي.
+ENG: And you should have warned us before deducting. || وكان المفروض تنبهونا قبل ما تخصموا.
+QS: You're right. Next time you'll get a written notice before any deduction. || عندك حق. المرة الجاية هيوصلك إخطار مكتوب قبل أي خصم.
+ENG: OK. When will I hear back about the water records? || ماشي. هعرف الرد بخصوص سجلات المياه إمتى؟
+QS: By Wednesday. If the delay was ours, we'll release that amount in the next payment. || قبل الأربع. لو التأخير كان من عندنا، هنفك المبلغ ده في الدفعة الجاية.
+P: I can see you're upset = أنا شايف إنك متضايق
+P: sort this out = نحل الموضوع
+P: Let's go through ... one by one = خلينا نمشي على ... واحدة واحدة
+P: You're right = عندك حق
+P: release that amount = نفك المبلغ ده
+H: unacceptable = un-ak-SEP-ta-bul — أَنَكْسِپْتَبُل
+H: deducted = di-DUK-tid — دِيدَكْتِد
+H: rework = REE-wurk — رِي-وِيرْك
+R: I can see you are upset, and I want to sort this out.
+R: Let's go through the deductions one by one.
+R: That is a fair point, I will check the records.
+R: Next time you will get a written notice before any deduction.
+R: If the delay was ours, we will release that amount.
+T: Calm down an angry person and move to facts. | هدّي شخص غضبان وانقل الكلام للحقايق. | I can see you're upset, and I want to sort this out with you. Let's go through the deductions one by one, starting with the biggest one. | I can see you're upset; sort this out; one by one
+T: Accept a valid complaint and commit to a fair action. | اقبل شكوى صحيحة والتزم بتصرف عادل. | You're right, we should have warned you before deducting. I'll check the water supply records, and if the delay was ours, we'll release that amount in the next payment. | you're right; check; release
+
+# B2-04 | Pushing back on an unrealistic deadline | الاعتراض على موعد غير واقعي
+ENG Khaled, project manager, bm_daniel
+SCENE: المدير طالب تخلّص كميات ثلاث مناطق في يومين، وإنت بتعترض بلباقة وبتقترح بديل.
+ENG: Hassan, I need the final quantities for Zones B, C and D by Thursday. || حسن، محتاج الكميات النهائية لمناطق B وC وD قبل الخميس.
+QS: I'd love to help, but I don't think that's realistic for all three zones. || نفسي أساعد، بس مش شايف إن ده واقعي للتلات مناطق.
+ENG: Why not? You have the surveys. || ليه لأ؟ الرفوعات عندك.
+QS: For Zone D the final survey hasn't been done yet. It's scheduled for Saturday. || منطقة D لسه الرفع النهائي ماتعملش. متجدول يوم السبت.
+ENG: The client wants the numbers before the board meeting. || المالك عايز الأرقام قبل اجتماع مجلس الإدارة.
+QS: Then here's what I suggest: final figures for B and C on Thursday, and a reliable estimate for D. || يبقى اقتراحي كده: أرقام نهائية لـ B وC يوم الخميس، وتقدير موثوق لـ D.
+ENG: How reliable would the estimate be? || التقدير هيبقى موثوق قد إيه؟
+QS: Within a few percent, based on the last progress survey. I'll label it clearly as an estimate. || في حدود نسبة صغيرة، على أساس آخر رفع للتقدم. وهكتب عليه بوضوح إنه تقدير.
+ENG: And the final figure for D? || والرقم النهائي لـ D؟
+QS: Next Monday, two days after the survey. || الاتنين الجاي، بعد الرفع بيومين.
+ENG: OK, that works. Just make sure the estimate isn't mistaken for a final number. || تمام، ده ينفع. بس اتأكد إن التقدير مايتفهمش إنه رقم نهائي.
+QS: Absolutely. I'll put it in a separate column with a note. || أكيد. هحطه في عمود لوحده بملاحظة.
+P: I'd love to help, but = نفسي أساعد، بس
+P: I don't think that's realistic = مش شايف إن ده واقعي
+P: here's what I suggest = اقتراحي كده
+P: label it clearly as an estimate = أكتب عليه بوضوح إنه تقدير
+P: mistaken for = يتفهم غلط إنه
+H: realistic = ree-a-LIS-tik — رِيَلِسْتِك
+H: reliable = ri-LY-a-bul — رِيلايَبُل
+H: estimate = ES-ti-mit — إسْتِمِت (اسم)
+R: I would love to help, but that is not realistic for all three zones.
+R: The final survey for Zone D has not been done yet.
+R: Here is what I suggest: final figures for B and C on Thursday.
+R: I will label it clearly as an estimate.
+R: I will put it in a separate column with a note.
+T: Say no to an unrealistic deadline politely, with a reason. | قول لأ لموعد غير واقعي بأدب ومع السبب. | I'd love to help, but I don't think that's realistic for all three zones. The final survey for Zone D hasn't been done yet; it's scheduled for Saturday. | I'd love to help; realistic; final survey
+T: Offer an alternative that meets the real need. | اعرض بديل يحقق الاحتياج الحقيقي. | Here's what I suggest: final figures for B and C on Thursday, and a reliable estimate for D, clearly labelled as an estimate. The final figure for D will follow next Monday. | here's what I suggest; estimate; final figure
+
+# B2-05 | Warning about a time bar | التحذير من سقوط الحق بالتقادم
+ENG Khaled, project manager, bm_daniel
+SCENE: بتنبّه المدير إن فيه مدة تعاقدية للإخطار عن المطالبة هتخلص قريب.
+QS: Khaled, I need to flag something urgent about the rock we found in Zone H. || خالد، محتاج أنبهك لحاجة عاجلة عن الصخر اللي لقيناه في منطقة H.
+ENG: Go on. || كمّل.
+QS: Under our contract, we must give notice of a claim within a fixed period after we become aware of the event. || حسب عقدنا، لازم نبعت إخطار بالمطالبة خلال مدة محددة من وقت ما نعرف بالحدث.
+ENG: When did we become aware of it? || عرفنا بيه إمتى؟
+QS: On the third of this month. So the deadline is close. || يوم تلاتة في الشهر ده. فالمهلة قربت.
+ENG: What happens if we miss it? || لو فاتتنا إيه اللي يحصل؟
+QS: We could lose the right to extra time and money. The notice period is strict. || ممكن نخسر حقنا في الوقت والفلوس الزيادة. مدة الإخطار صارمة.
+ENG: Then let's send it today. What do we need? || يبقى نبعته النهاردة. محتاجين إيه؟
+QS: Just a short notice describing the event. The detailed claim can follow later. || إخطار قصير بس بيوصف الحدث. المطالبة التفصيلية ممكن تيجي بعدين.
+ENG: Draft it and I'll sign it this afternoon. || اكتبه وأنا هوقعه بعد الضهر.
+QS: I'll also start recording the extra resources from today. || وهبدأ كمان أسجل الموارد الإضافية من النهاردة.
+ENG: Good thinking. Keep me updated. || تفكير كويس. خليني في الصورة.
+P: I need to flag something urgent = محتاج أنبهك لحاجة عاجلة
+P: within a fixed period = خلال مدة محددة
+P: after we become aware of = من وقت ما نعرف بـ
+P: the deadline is close = المهلة قربت
+P: lose the right to = نخسر حقنا في
+H: aware = a-WAIR — أوِير
+H: strict = STRIKT — سْتْرِكْت
+H: draft = DRAFT — دْرافْت
+R: I need to flag something urgent about the rock in Zone H.
+R: We must give notice within a fixed period after we become aware.
+R: We could lose the right to extra time and money.
+R: The detailed claim can follow later.
+R: I will start recording the extra resources from today.
+T: Warn your manager about a contractual deadline. | نبّه مديرك على مهلة تعاقدية. | I need to flag something urgent. Under our contract, we must give notice of a claim within a fixed period after we become aware of the event. We became aware on the third, so the deadline is close. | flag something urgent; notice; deadline
+T: Explain what must be done now and what can wait. | اشرح إيه اللي لازم يتعمل دلوقتي وإيه اللي يستنى. | We should send a short notice today describing the event, because missing the deadline could cost us the right to time and money. The detailed claim can follow later with full records. | today; short notice; detailed claim
+
+# B2-06 | Disputing a deduction for defects | الاعتراض على خصم بسبب عيوب
+ENG Nadia, consultant's QS, bf_isabella
+SCENE: الاستشارية خصمت قيمة إصلاح ميول في منطقة B، وإنت شايف إن العيب مش مسؤوليتكم.
+ENG: We've deducted the cost of repairing the slope erosion in Zone B. || خصمنا تكلفة إصلاح تآكل الميول في منطقة B.
+QS: I'd like to understand the basis for that deduction. || حابب أفهم أساس الخصم ده.
+ENG: The slopes were part of your scope, and they've eroded. || الميول كانت ضمن نطاق شغلكم، واتآكلت.
+QS: They were, but they were approved and handed over two months ago. || كانت، بس اتعتمدت واتسلمت من شهرين.
+ENG: The defects period still applies, though. || بس فترة الضمان لسه سارية.
+QS: Agreed, but the erosion was caused by the heavy rain and the blocked drainage channel. || متفق، بس التآكل سببه المطر الشديد وقناة التصريف المسدودة.
+ENG: Who blocked the channel? || مين سدّ القناة؟
+QS: Another contractor dumped material in it. We reported it in writing at the time. || مقاول تاني رمى مخلفات فيها. وبلّغنا عنها كتابة في وقتها.
+ENG: I wasn't aware of that letter. || ماكنتش عارفة بالجواب ده.
+QS: I'll forward it now, with the photos. A defect caused by others shouldn't be charged to us. || هبعتهولك دلوقتي بالصور. العيب اللي سببه حد تاني مايتحسبش علينا.
+ENG: If the letter confirms it, I'll reverse the deduction. || لو الجواب بيأكد ده، هلغي الخصم.
+QS: Thank you. We're happy to repair it, but as additional work. || شكرًا. إحنا مستعدين نصلحه، بس كشغل إضافي.
+P: the basis for that deduction = أساس الخصم ده
+P: part of your scope = ضمن نطاق شغلكم
+P: still applies, though = بس لسه سارية
+P: caused by others = سببه حد تاني
+P: reverse the deduction = نلغي الخصم
+H: erosion = i-ROH-zhun — إِرُوجِن
+H: channel = CHAN-el — تْشانِل
+H: additional = a-DISH-un-al — أدِشَنَال
+R: I would like to understand the basis for that deduction.
+R: The slopes were approved and handed over two months ago.
+R: The erosion was caused by the blocked drainage channel.
+R: A defect caused by others should not be charged to us.
+R: We are happy to repair it, but as additional work.
+T: Question a deduction and ask for its basis. | اسأل عن أساس خصم واعترض عليه. | I'd like to understand the basis for that deduction. The slopes were approved and handed over two months ago, and the erosion was caused by the heavy rain and a blocked drainage channel. | basis; handed over; caused by
+T: Offer a solution that protects your position. | اعرض حل يحمي موقفك. | We reported the blocked channel in writing at the time. A defect caused by others shouldn't be charged to us, but we're happy to repair it as additional work. | caused by others; reported in writing; additional work
+
+# B2-07 | A value engineering proposal | اقتراح هندسة قيمية
+ENG Mr. Grant, employer's representative, bm_daniel
+SCENE: بتعرض على ممثل المالك فكرة توفّر فلوس: معالجة مادة الموقع بدل استيراد ردم.
+QS: Mr. Grant, we have a proposal that could save time and money on Zone F. || مستر جرانت، عندنا اقتراح ممكن يوفر وقت وفلوس في منطقة F.
+ENG: I'm listening. || سامعك.
+QS: Instead of importing fill from the borrow pit, we could treat the site material and reuse it. || بدل ما نستورد ردم من المحجر، ممكن نعالج مادة الموقع ونستخدمها تاني.
+ENG: Treat it how? || نعالجها إزاي؟
+QS: By screening out the oversize rocks and mixing it with a small amount of lime. || بغربلة الصخور الكبيرة وخلطها بكمية صغيرة من الجير.
+ENG: Will it meet the specification? || هتحقق المواصفات؟
+QS: Our trial results say yes, but we'd need the designer's approval. || نتايج التجربة بتقول أيوه، بس محتاجين موافقة المصمم.
+ENG: What are the savings? || التوفير قد إيه؟
+QS: Mainly haulage and import costs. We'd also cut around three weeks from the programme. || أساسًا تكاليف النقل والاستيراد. وكمان هنوفر حوالي تلات أسابيع من البرنامج.
+ENG: Who benefits from the savings? || مين يستفيد من التوفير؟
+QS: We'd propose to share them, as the contract allows for value engineering. || هنقترح نقسمه، زي ما العقد بيسمح للهندسة القيمية.
+ENG: Put it in writing with the trial results, and I'll take it to the design team. || اكتبه رسمي بنتايج التجربة، وأنا هعرضه على فريق التصميم.
+P: I'm listening = سامعك
+P: Instead of = بدل ما
+P: screening out = غربلة (فصل)
+P: cut three weeks from the programme = نوفر تلات أسابيع من البرنامج
+P: Who benefits from...? = مين يستفيد من...؟
+H: proposal = pro-POH-zal — پْرُوپُوزَل
+H: screening = SKREE-ning — سْكْرِينِنْج
+H: benefits = BEN-i-fits — بِنِفِتْس
+R: We have a proposal that could save time and money.
+R: Instead of importing fill, we could treat the site material.
+R: Our trial results say it meets the specification.
+R: We would also cut around three weeks from the programme.
+R: We would propose to share the savings.
+T: Present a cost-saving idea to the client. | اعرض فكرة توفير على المالك. | We have a proposal that could save time and money. Instead of importing fill from the borrow pit, we could treat the site material by screening out the oversize rocks and mixing it with a little lime. | proposal; instead of; save time
+T: Explain the conditions and the benefits. | اشرح الشروط والفوايد. | Our trial results meet the specification, but we need the designer's approval. The savings come mainly from haulage and import costs, and we'd propose to share them, as the contract allows. | approval; savings; share
+
+# B2-08 | Chasing a pending decision | متابعة قرار متأخر
+ENG David, consultant engineer, bm_george
+SCENE: مكالمة مع الاستشاري تتابع فيها قرار المهندس بخصوص المطالبة اللي بقالها فترة.
+QS: Hi David, sorry to chase you, but I'm calling about our claim for the late access. || أهلًا ديفيد، آسف إني بتابع وراك، بس بكلمك عن مطالبتنا بخصوص تأخير التسليم.
+ENG: Yes, it's on my desk. It's been a busy month. || أيوه، على مكتبي. الشهر كان زحمة.
+QS: I understand. We submitted it about six weeks ago. || فاهم. قدمناها من حوالي ست أسابيع.
+ENG: Is there a deadline you're worried about? || فيه مهلة إنت قلقان منها؟
+QS: The contract gives a period for the engineer to respond, and we're getting close to it. || العقد بيدي مدة للمهندس يرد فيها، وإحنا بنقرب منها.
+ENG: Fair enough. Is there anything missing from your submission? || ماشي. فيه حاجة ناقصة في التقديم بتاعكم؟
+QS: Not that we know of. If you need anything else, we can send it within a day. || مش عارفين حاجة. لو محتاج أي حاجة تانية، نقدر نبعتها خلال يوم.
+ENG: Actually, I'd like the daily labour records for those weeks. || الحقيقة، عايز سجلات العمالة اليومية للأسابيع دي.
+QS: No problem, you'll have them tomorrow. Could we pencil in a meeting to discuss it? || مفيش مشكلة، هتوصلك بكرة. ممكن نحجز مبدئيًا ميعاد نناقشها؟
+ENG: Let's say next Tuesday afternoon. || خليها التلات الجاي بعد الضهر.
+QS: Perfect. I'll send an invitation and the records together. || ممتاز. هبعت الدعوة والسجلات مع بعض.
+ENG: Thanks for being patient. || شكرًا على صبرك.
+P: sorry to chase you = آسف إني بتابع وراك
+P: It's on my desk = على مكتبي
+P: we're getting close to it = بنقرب منها
+P: Not that we know of = مش عارفين حاجة
+P: pencil in a meeting = نحجز ميعاد مبدئي
+H: submitted = sub-MIT-id — سَبْمِتِد
+H: labour = LAY-ber — لِيبَر
+H: patient = PAY-shent — پِيشِنْت
+R: Sorry to chase you, but I am calling about our claim.
+R: We submitted it about six weeks ago.
+R: The contract gives a period for the engineer to respond.
+R: If you need anything else, we can send it within a day.
+R: Could we pencil in a meeting to discuss it?
+T: Chase a pending decision politely but firmly. | تابع قرار متأخر بأدب وحزم. | Sorry to chase you, but I'm calling about our claim for the late access. We submitted it about six weeks ago, and the contract gives a period for the engineer to respond, so we're getting close to it. | sorry to chase you; submitted; contract
+T: Offer support and secure a next step. | اعرض مساعدة وثبّت خطوة جاية. | If you need anything else, we can send it within a day. Could we pencil in a meeting next week to discuss the claim? | anything else; within a day; pencil in a meeting
+
+# B2-09 | Presenting the monthly report | عرض التقرير الشهري
+ENG Mr. Grant, employer's representative, bm_daniel
+SCENE: بتعرض التقرير الشهري في اجتماع المالك: الإنجاز، المخاطر، والقرارات المطلوبة.
+QS: Good morning, everyone. I'll cover three things: progress, key risks and the decisions we need from you. || صباح الخير للجميع. هغطي تلات حاجات: التقدم، المخاطر الأساسية، والقرارات اللي محتاجينها منكم.
+ENG: Please go ahead. || اتفضل.
+QS: In terms of progress, we've completed about sixty percent of the total earthworks volume. || من ناحية التقدم، خلّصنا حوالي ستين في المية من إجمالي حجم أعمال الحفر والردم.
+ENG: Is that in line with the programme? || ده ماشي مع البرنامج؟
+QS: We're about two weeks behind, mainly due to the late access to Zone D. || متأخرين حوالي أسبوعين، أساسًا بسبب تأخير تسليم منطقة D.
+ENG: And the risks? || والمخاطر؟
+QS: The biggest risk is the shortage of suitable fill. If the value engineering proposal is rejected, we'll depend on one borrow pit. || أكبر خطر هو نقص الردم الصالح. لو اقتراح الهندسة القيمية اترفض، هنعتمد على محجر واحد.
+ENG: What decisions do you need? || محتاجين قرارات إيه؟
+QS: Two. A handover date for Zone H, and approval of the treated material by the end of the month. || اتنين. ميعاد تسليم منطقة H، واعتماد المادة المعالجة قبل آخر الشهر.
+ENG: I'll push the design team on the second one. || هضغط على فريق التصميم في التانية.
+QS: Thank you. If both happen, we can recover most of the delay. || شكرًا. لو الاتنين حصلوا، نقدر نعوّض معظم التأخير.
+ENG: Clear and concise. Thank you, Hassan. || واضح ومختصر. شكرًا يا حسن.
+P: I'll cover three things = هغطي تلات حاجات
+P: In terms of progress = من ناحية التقدم
+P: in line with the programme = ماشي مع البرنامج
+P: mainly due to = أساسًا بسبب
+P: the decisions we need from you = القرارات اللي محتاجينها منكم
+H: concise = kon-SYSE — كُنْسايْس
+H: shortage = SHOR-tij — شُورْتِدْج
+H: decisions = di-SIZH-unz — دِسِجِنْز
+R: I will cover three things: progress, key risks and decisions.
+R: We have completed about sixty percent of the total volume.
+R: We are about two weeks behind, mainly due to late access.
+R: The biggest risk is the shortage of suitable fill.
+R: If both decisions happen, we can recover most of the delay.
+T: Open a presentation with a clear structure and give progress. | افتح عرض بهيكل واضح وقدّم التقدم. | Good morning, everyone. I'll cover three things: progress, key risks and the decisions we need from you. In terms of progress, we've completed about sixty percent of the total volume, and we're about two weeks behind. | I'll cover; in terms of progress; behind
+T: Present a risk and the decisions you need. | اعرض خطر والقرارات المطلوبة. | The biggest risk is the shortage of suitable fill. We need two decisions: a handover date for Zone H and approval of the treated material. If both happen, we can recover most of the delay. | biggest risk; decisions; recover
+
+# B2-10 | Balancing safety and production | الموازنة بين السلامة والإنتاج
+ENG Sam, safety officer, am_eric
+SCENE: مسؤول السلامة عايز يقلل سرعة العربيات أكتر، وإنت قلقان على الإنتاج، وبتوصلوا لحل وسط.
+ENG: I want to reduce the speed limit on the haul road from thirty to twenty. || عايز أقلل حد السرعة على طريق النقل من تلاتين لعشرين.
+QS: I fully support safety, but that could cut our trips by around fifteen percent. || أنا داعم السلامة تمامًا، بس ده ممكن يقلل نقلاتنا بحوالي خمستاشر في المية.
+ENG: We had two near misses at the crossing this month. || حصل عندنا حادثتين وشيكتين عند التقاطع الشهر ده.
+QS: That's serious. Were both at the same crossing? || ده خطير. الاتنين عند نفس التقاطع؟
+ENG: Yes, where the haul road crosses the access road. || أيوه، المكان اللي طريق النقل بيعدي فيه طريق الدخول.
+QS: Then what if we keep thirty on the straight sections, and twenty near the crossing only? || طب إيه رأيك نخلي تلاتين في الأجزاء المستقيمة، وعشرين جنب التقاطع بس؟
+ENG: That could work, if we add a flagman at the crossing. || ده ممكن ينفع، لو زودنا عامل إشارة عند التقاطع.
+QS: Agreed. And speed bumps before the crossing on both sides. || متفقين. ومطبات قبل التقاطع من الناحيتين.
+ENG: Good. I'll monitor it for two weeks. || كويس. هراقب الوضع أسبوعين.
+QS: If the near misses continue, we'll reduce the limit everywhere. Safety comes first. || لو الحوادث الوشيكة استمرت، هنقلل الحد في كل حتة. السلامة أولًا.
+P: I fully support = أنا داعم تمامًا
+P: that could cut our trips = ده ممكن يقلل نقلاتنا
+P: what if we keep ... and ... only? = إيه رأيك نخلي ... و... بس؟
+P: That could work, if = ده ممكن ينفع، لو
+P: monitor it = نراقبه
+H: crossing = KROS-ing — كْرُوسِنْج
+H: straight = STRAYT — سْتْرِيت
+H: monitor = MON-i-ter — مُونِتَر
+R: I fully support safety, but that could cut our trips.
+R: We had two near misses at the crossing this month.
+R: What if we keep thirty on the straight sections?
+R: We will add a flagman and speed bumps at the crossing.
+R: If the near misses continue, we will reduce the limit everywhere.
+T: Support a safety concern while explaining the production impact. | ادعم قلق السلامة ووضح الأثر على الإنتاج. | I fully support safety, but a lower limit everywhere could cut our trips by around fifteen percent. Since both near misses were at the crossing, let's focus on that area. | fully support; cut our trips; crossing
+T: Propose a compromise that keeps people safe. | اقترح حل وسط يحافظ على أمان الناس. | What if we keep thirty on the straight sections and twenty near the crossing, with a flagman and speed bumps? If the near misses continue, we'll reduce the limit everywhere. | what if we keep; flagman; reduce
+
+# B2-11 | Briefing a new site engineer on the contract | تعريف مهندس جديد بالعقد
+ENG Omar, new site engineer, am_liam
+SCENE: مهندس موقع جديد، وإنت بتعرّفه بالنقط التعاقدية اللي لازم ياخد باله منها في شغله اليومي.
+ENG: Hassan, what should I know about the contract from day one? || حسن، إيه اللي لازم أعرفه عن العقد من أول يوم؟
+QS: Three habits. First, never act on a verbal instruction for extra work without confirming it in writing. || تلات عادات. أولًا، ماتنفذش أبدًا تعليمات شفوية لشغل إضافي من غير ما تأكدها كتابة.
+ENG: Even if the consultant is standing next to me? || حتى لو الاستشاري واقف جنبي؟
+QS: Especially then. Ask politely for a site instruction, or send a confirmation email the same day. || خصوصًا ساعتها. اطلب بأدب تعليمات موقع، أو ابعت إيميل تأكيد في نفس اليوم.
+ENG: What's the second habit? || والعادة التانية؟
+QS: Record everything that affects time or cost: delays, standby, weather, access problems. || سجّل كل حاجة بتأثر على الوقت أو التكلفة: التأخيرات، وقت الانتظار، الجو، مشاكل الوصول.
+ENG: In the daily report? || في التقرير اليومي؟
+QS: Yes, with photos and times. Records written at the time are much stronger than memories. || أيوه، بالصور والمواعيد. السجلات اللي بتتكتب وقتها أقوى بكتير من الذاكرة.
+ENG: And the third? || والتالتة؟
+QS: Tell me immediately about anything unexpected, like rock or buried services. Some notices have strict time limits. || بلّغني فورًا بأي حاجة غير متوقعة، زي صخر أو مرافق مدفونة. فيه إخطارات ليها مهل صارمة.
+ENG: That's very clear. Thanks. || ده واضح جدًا. شكرًا.
+QS: Any time. When in doubt, ask before you act. || في أي وقت. لو شاكك، اسأل قبل ما تتصرف.
+P: from day one = من أول يوم
+P: never act on a verbal instruction = ماتنفذش تعليمات شفوية
+P: Especially then = خصوصًا ساعتها
+P: Records written at the time = السجلات اللي بتتكتب وقتها
+P: When in doubt, ask before you act = لو شاكك، اسأل قبل ما تتصرف
+H: verbal = VUR-bal — فِيرْبَل
+H: immediately = i-MEE-dee-at-lee — إِمِيدْيَتْلِي
+H: unexpected = un-ik-SPEK-tid — أَنِكْسْپِكْتِد
+R: Never act on a verbal instruction without confirming it in writing.
+R: Record everything that affects time or cost.
+R: Records written at the time are stronger than memories.
+R: Tell me immediately about anything unexpected.
+R: When in doubt, ask before you act.
+T: Give a new engineer three contract habits. | ادي مهندس جديد تلات عادات تعاقدية. | First, never act on a verbal instruction for extra work without confirming it in writing. Second, record everything that affects time or cost. Third, report anything unexpected immediately, because some notices have strict time limits. | verbal instruction; record everything; immediately
+T: Explain why records written at the time matter. | اشرح ليه السجلات وقت الحدث مهمة. | Records written at the time, with photos and times, are much stronger than memories. If there is a claim later, the consultant will trust contemporary records. | at the time; stronger; claim
+
+# B2-12 | Negotiating access with the municipality | التفاوض على دخول مع البلدية
+ENG Mr. Salem, municipality inspector, am_adam
+SCENE: مفتش البلدية رافض العربيات تستخدم الطريق العام في ساعات الذروة، وإنت بتتفاوض.
+ENG: Your trucks can't use the public road between seven and nine in the morning. || عربياتكم ماينفعش تستخدم الطريق العام بين سبعة وتسعة الصبح.
+QS: I understand the traffic concerns. May I explain our situation? || فاهم مخاوف الزحمة. ممكن أشرح موقفنا؟
+ENG: Please. || اتفضل.
+QS: Our only route to the borrow pit uses this road. Two hours without trips means a significant loss of production. || الطريق الوحيد للمحجر بيستخدم الشارع ده. ساعتين من غير نقلات يعني خسارة إنتاج كبيرة.
+ENG: The residents have complained about the noise and the dust. || السكان اشتكوا من الدوشة والتراب.
+QS: We take that seriously. What if we limit the number of trucks during those hours instead of stopping completely? || إحنا واخدين ده بجدية. إيه رأيك نحدد عدد العربيات في الساعات دي بدل ما نوقف خالص؟
+ENG: How many trucks are we talking about? || بنتكلم عن كام عربية؟
+QS: Half the normal number, all covered, and with a sweeper truck cleaning the road. || نص العدد العادي، كلها متغطية، ومعاها عربية كنس بتنضف الطريق.
+ENG: And the noise? || والدوشة؟
+QS: We'll ban horns near the houses and brief every driver. || هنمنع الكلاكسات جنب البيوت ونبلغ كل سواق.
+ENG: I can accept a one-month trial. If there are complaints, the ban comes back. || أقدر أوافق على تجربة شهر. لو فيه شكاوى، المنع يرجع.
+QS: That's fair. Could you confirm the conditions in writing? || ده عادل. ممكن تأكد الشروط كتابة؟
+P: May I explain our situation? = ممكن أشرح موقفنا؟
+P: a significant loss of production = خسارة إنتاج كبيرة
+P: We take that seriously = واخدين ده بجدية
+P: instead of stopping completely = بدل ما نوقف خالص
+P: a one-month trial = تجربة شهر
+H: municipality = myoo-nis-i-PAL-i-tee — مْيُونِسِپالِتِي
+H: significant = sig-NIF-i-kant — سِجْنِفِكَنْت
+H: residents = REZ-i-dents — رِيزِدِنْتْس
+R: I understand the traffic concerns, may I explain our situation?
+R: Two hours without trips means a significant loss of production.
+R: What if we limit the number of trucks instead of stopping?
+R: All trucks will be covered, with a sweeper cleaning the road.
+R: Could you confirm the conditions in writing?
+T: Respond to an authority's restriction by explaining your situation. | رد على قيد من جهة رسمية بشرح موقفك. | I understand the traffic concerns. May I explain our situation? Our only route to the borrow pit uses this road, so two hours without trips means a significant loss of production. | I understand; explain our situation; loss of production
+T: Offer conditions that address their concerns. | اعرض شروط تعالج مخاوفهم. | What if we limit the trucks to half the normal number during those hours, all covered, with a sweeper truck and no horns near the houses? We'd accept a one-month trial. | what if we limit; covered; trial

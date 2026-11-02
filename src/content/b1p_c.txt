@@ -1,0 +1,347 @@
+# B1+-25 | Who pays for over-excavation? | مين يتحمل الحفر الزيادة؟
+ENG Faisal, subcontractor supervisor, am_liam
+SCENE: مقاول الباطن حفر أوطى من المنسوب المطلوب وعايز يتحاسب على الكمية الزيادة.
+ENG: Hassan, we excavated about twenty centimetres deeper in Zone B. Please include it in our payment. || حسن، حفرنا أعمق بحوالي عشرين سنتي في منطقة B. حطها في دفعتنا لو سمحت.
+QS: Why did you go deeper? Was there an instruction? || حفرتوا أعمق ليه؟ كان فيه تعليمات؟
+ENG: No, the operator made a mistake with the levels. || لأ، السواق غلط في المناسيب.
+QS: Then I'm afraid we can't pay for it. Over-excavation without instruction is at your cost. || يبقى للأسف مش هنقدر ندفعها. الحفر الزيادة من غير تعليمات على حسابكم.
+ENG: But we moved the material. It cost us fuel and time. || بس إحنا نقلنا المادة. كلّفتنا وقود ووقت.
+QS: I understand, but there's another problem. We also have to fill it back with approved material. || فاهم، بس فيه مشكلة تانية. لازم كمان نردمها تاني بمادة معتمدة.
+ENG: Who pays for that? || ومين يدفع ده؟
+QS: According to the subcontract, the subcontractor does, because the cause was your mistake. || حسب عقد الباطن، مقاول الباطن هو اللي يدفع، لأن السبب غلطتكم.
+ENG: That's hard for us. || ده صعب علينا.
+QS: I know. To avoid it next time, let's check levels with the surveyor every few hours. || عارف. عشان نتجنبها المرة الجاية، خلينا نراجع المناسيب مع المساح كل كام ساعة.
+P: I'm afraid we can't = للأسف مش هنقدر
+P: at your cost = على حسابكم
+P: fill it back = نردمها تاني
+P: because the cause was = لأن السبب كان
+P: To avoid it next time = عشان نتجنبها المرة الجاية
+H: excavated = EKS-ka-vay-tid — إكْسْكَفِيتِد
+H: deeper = DEE-per — دِيپَر
+H: subcontract = sub-KON-trakt — سَبْكُونْتْراكْت
+R: Was there an instruction to excavate deeper?
+R: Over-excavation without instruction is at your cost.
+R: We also have to fill it back with approved material.
+R: According to the subcontract, the subcontractor pays.
+R: Let's check levels with the surveyor every few hours.
+T: Refuse to pay for over-excavation, politely and with reasons. | ارفض تدفع الحفر الزيادة بأدب ومع الأسباب. | I'm afraid we can't pay for it. Over-excavation without an instruction is at your cost, and according to the subcontract, you also pay to fill it back with approved material. | I'm afraid; at your cost; according to
+T: Suggest how to avoid the problem in the future. | اقترح إزاي نتجنب المشكلة بعد كده. | To avoid this next time, let's check the levels with the surveyor every few hours, and the operators should work with level pegs near the final level. | avoid; check the levels; surveyor
+
+# B1+-26 | Extending equipment hire | تمديد إيجار معدة
+ENG Hamid, equipment rental manager, am_adam
+SCENE: محتاج تمدد إيجار هراس شهر كمان وتتفاوض على السعر.
+QS: Hamid, we'd like to extend the roller hire for one more month. || حامد، حابين نمدد إيجار الهراس شهر كمان.
+ENG: No problem. The rate stays the same. || مفيش مشكلة. السعر زي ما هو.
+QS: Actually, I was hoping for a better rate, since it's a longer hire. || الحقيقة كنت متمني سعر أحسن، لأن الإيجار بقى أطول.
+ENG: What did you have in mind? || كان في بالك إيه؟
+QS: Ten percent less, starting from the extension. || عشرة في المية أقل، من أول التمديد.
+ENG: Ten is too much. I can do five. || عشرة كتير. أقدر أعمل خمسة.
+QS: Can you meet me halfway, at seven and a half, with the operator included? || ممكن نتقابل في النص، سبعة ونص، والسواق معاه؟
+ENG: The operator is already included. Seven and a half is OK. || السواق معاه أصلًا. سبعة ونص ماشي.
+QS: Great, we have a deal. Please send the revised quotation. || عظيم، اتفقنا. ابعت عرض السعر المعدّل لو سمحت.
+ENG: I'll send it today, and please send a purchase order. || هبعته النهاردة، وابعتلي أمر شراء لو سمحت.
+P: extend the hire = نمدد الإيجار
+P: I was hoping for = كنت متمني
+P: What did you have in mind? = كان في بالك إيه؟
+P: meet me halfway = نتقابل في النص
+P: we have a deal = اتفقنا
+H: extension = ik-STEN-shun — إكْسْتِنْشَن
+H: halfway = HAF-way — هاف-وِي (الـ l مابتتنطقش)
+H: purchase = PUR-chis — پِيرْتْشِس
+R: We would like to extend the roller hire for one more month.
+R: I was hoping for a better rate.
+R: Can you meet me halfway?
+R: Great, we have a deal.
+R: Please send the revised quotation today.
+T: Ask for a better rate on an extended hire. | اطلب سعر أحسن على تمديد إيجار. | We'd like to extend the roller hire for one more month. Since it's a longer hire, I was hoping for a better rate, maybe ten percent less. | extend; I was hoping; better rate
+T: Reach a compromise and close the deal. | اوصل لحل وسط واقفل الاتفاق. | Can you meet me halfway at seven and a half percent? If that's OK, we have a deal. Please send the revised quotation and I'll arrange the purchase order. | meet me halfway; we have a deal; quotation
+
+# B1+-27 | Showing a new QS the workflow | شرح طريقة الشغل لمهندس كميات جديد
+ENG Karim, new assistant QS, am_liam
+SCENE: مهندس كميات مساعد جديد، وإنت بتشرحله دورة القياس والمستخلص الشهرية.
+ENG: Hassan, can you explain our monthly cycle? || حسن، ممكن تشرحلي الدورة الشهرية عندنا؟
+QS: Sure. It starts with the surveys. Every week we survey the areas we worked on. || أكيد. بتبدأ بالرفع المساحي. كل أسبوع بنرفع المناطق اللي اشتغلنا فيها.
+ENG: Then you calculate the quantities? || وبعدين بتحسب الكميات؟
+QS: Yes, in Civil 3D, and I compare them with the daily reports and truck counts. || أيوه، على سيفيل ثري دي، وبقارنها بالتقارير اليومية وعدد النقلات.
+ENG: Why compare them? || ليه بتقارنهم؟
+QS: To catch errors. If the numbers don't match, something is wrong. || عشان نمسك الأخطاء. لو الأرقام مش متطابقة، يبقى فيه حاجة غلط.
+ENG: And then the payment application? || وبعدين المستخلص؟
+QS: Around the twentieth, we agree the quantities with the consultant, then we submit on the twenty-fifth. || حوالي يوم عشرين بنتفق على الكميات مع الاستشاري، وبعدين نقدم يوم خمسة وعشرين.
+ENG: What's the most important thing? || إيه أهم حاجة؟
+QS: Evidence. Every number must have a survey, a sheet or a signature behind it. || الدليل. كل رقم لازم يكون وراه رفع أو كشف أو توقيع.
+P: It starts with = بتبدأ بـ
+P: To catch errors = عشان نمسك الأخطاء
+P: If the numbers don't match = لو الأرقام مش متطابقة
+P: Around the twentieth = حوالي يوم عشرين
+P: Every number must have ... behind it = كل رقم لازم يكون وراه ...
+H: cycle = SY-kul — سايْكُل
+H: evidence = EV-i-dens — إِفِدِنْس
+H: twentieth = TWEN-tee-ith — تْوِنْتِيِث
+R: It starts with the surveys every week.
+R: I compare the quantities with the daily reports and truck counts.
+R: If the numbers don't match, something is wrong.
+R: We agree the quantities with the consultant around the twentieth.
+R: Every number must have evidence behind it.
+T: Explain the monthly measurement and payment cycle. | اشرح دورة القياس والمستخلص الشهرية. | It starts with weekly surveys. Then we calculate the quantities and compare them with the daily reports and truck counts. Around the twentieth we agree the quantities with the consultant, and we submit on the twenty-fifth. | it starts with; compare; submit
+T: Explain the most important rule for a QS. | اشرح أهم قاعدة لمهندس الكميات. | The most important thing is evidence. Every number must have a survey, a sheet or a signature behind it, otherwise the consultant can reject it. | evidence; behind it; reject
+
+# B1+-28 | Payment terms with a subcontractor | شروط الدفع مع مقاول باطن
+ENG Faisal, subcontractor supervisor, am_liam
+SCENE: مقاول الباطن مش فاهم ليه دفعته أقل من قيمة الشغل، وإنت بتشرح الخصومات.
+ENG: Hassan, our payment is less than the value of our work. Why? || حسن، دفعتنا أقل من قيمة شغلنا. ليه؟
+QS: There are two deductions: retention and the advance payment recovery. || فيه خصمين: المحتجزات واسترداد الدفعة المقدمة.
+ENG: What is retention exactly? || المحتجزات يعني إيه بالظبط؟
+QS: It's a small percentage we keep from each payment until the end of the work. || نسبة صغيرة بنحتفظ بيها من كل دفعة لحد آخر الشغل.
+ENG: Do we get it back? || بنرجّعها؟
+QS: Yes. Part of it after completion, and the rest after the defects period, as your subcontract says. || أيوه. جزء بعد الإنجاز، والباقي بعد فترة الضمان، زي ما عقد الباطن بيقول.
+ENG: And the advance? || والدفعة المقدمة؟
+QS: You received an advance at the start. We recover it gradually from each payment. || استلمتوا دفعة مقدمة في الأول. بنستردها بالتدريج من كل دفعة.
+ENG: OK, now it makes sense. Can you send me a breakdown? || تمام، دلوقتي مفهومة. ممكن تبعتلي التفاصيل؟
+QS: Of course. I'll send the calculation sheet with every payment from now on. || طبعًا. هبعت شيت الحساب مع كل دفعة من هنا ورايح.
+P: There are two deductions = فيه خصمين
+P: retention = المحتجزات (الضمان)
+P: advance payment recovery = استرداد الدفعة المقدمة
+P: Do we get it back? = بنرجّعها؟
+P: now it makes sense = دلوقتي مفهومة
+H: retention = ri-TEN-shun — رِيتِنْشَن
+H: recovery = ri-KUV-er-ee — رِيكَفَرِي
+H: gradually = GRAJ-oo-a-lee — جْرادْجُوَلِي
+R: There are two deductions, retention and advance recovery.
+R: Retention is a small percentage we keep from each payment.
+R: Part of it is released after completion.
+R: We recover the advance gradually from each payment.
+R: I will send the calculation sheet with every payment.
+T: Explain retention to a subcontractor in simple words. | اشرح المحتجزات لمقاول باطن بكلام بسيط. | Retention is a small percentage we keep from each payment until the end of the work. You get part of it back after completion and the rest after the defects period, as your subcontract says. | retention; percentage; get it back
+T: Explain the advance payment recovery. | اشرح استرداد الدفعة المقدمة. | You received an advance payment at the start of the job. We recover it gradually from each payment, so your payments look smaller until the advance is fully recovered. | advance; recover; gradually
+
+# B1+-29 | Hosting a client site visit | استقبال زيارة المالك للموقع
+ENG Mr. Grant, employer's representative, bm_daniel
+SCENE: ممثل المالك بيزور الموقع، وإنت بتعرّفه بالتقدم في جولة قصيرة.
+QS: Good morning, Mr. Grant. Welcome to the site. || صباح الخير يا مستر جرانت. أهلًا بيك في الموقع.
+ENG: Good morning. I'd like to see the main progress today. || صباح النور. حابب أشوف التقدم الأساسي النهاردة.
+QS: Of course. We'll start with Zone B, where the cut is complete. || طبعًا. هنبدأ بمنطقة B، اللي القطع فيها خلص.
+ENG: Very good. And the fill areas? || كويس جدًا. ومناطق الردم؟
+QS: Zone C is about seventy percent complete. You can see the layers being compacted now. || منطقة C حوالي سبعين في المية خلصانة. تقدر تشوف الطبقات وهي بتتدمك دلوقتي.
+ENG: What's your biggest challenge at the moment? || إيه أكبر تحدي عندكم دلوقتي؟
+QS: Honestly, the late handover of Zone D. It's affecting our programme. || بصراحة، تأخير تسليم منطقة D. بيأثر على برنامجنا.
+ENG: I'm aware of it. We're working on it. || أنا عارف. بنشتغل عليه.
+QS: Thank you. Any date would help us plan our resources. || شكرًا. أي ميعاد هيساعدنا نخطط الموارد.
+ENG: I'll try to give you a date by the end of the week. || هحاول أديك ميعاد قبل آخر الأسبوع.
+P: Welcome to the site = أهلًا بيك في الموقع
+P: We'll start with = هنبدأ بـ
+P: being compacted now = بتتدمك دلوقتي
+P: our biggest challenge = أكبر تحدي عندنا
+P: Any date would help us = أي ميعاد هيساعدنا
+H: challenge = CHAL-inj — تْشالِنْدْج
+H: honestly = ON-ist-lee — أُونِسْتْلِي (h ساكتة)
+H: resources = ri-ZOR-siz — رِيزُورْسِز
+R: We will start with Zone B, where the cut is complete.
+R: Zone C is about seventy percent complete.
+R: You can see the layers being compacted now.
+R: The late handover is affecting our programme.
+R: Any date would help us plan our resources.
+T: Give a short progress tour to the client. | ادي ممثل المالك جولة قصيرة عن التقدم. | Welcome to the site. We'll start with Zone B, where the cut is complete. Then we'll see Zone C, which is about seventy percent complete, and you can see the layers being compacted. | welcome; we'll start with; complete
+T: Mention your biggest challenge and ask for help, politely. | اذكر أكبر تحدي واطلب مساعدة بأدب. | Honestly, our biggest challenge is the late handover of Zone D. It's affecting our programme, so any date from your side would help us plan our resources. | biggest challenge; affecting; any date
+
+# B1+-30 | A complaint from the neighbouring contractor | شكوى من المقاول المجاور
+ENG Tony, neighbouring contractor's manager, am_eric
+SCENE: مدير مقاول مجاور بيشتكي إن عربياتكم بتسد طريقه وبتعمل تراب.
+ENG: Hassan, your trucks are blocking our access road every morning. || حسن، عربياتكم بتسد طريق دخولنا كل يوم الصبح.
+QS: I'm sorry to hear that. What time does it happen? || آسف إني أسمع كده. بيحصل الساعة كام؟
+ENG: Between six thirty and seven thirty, when our workers arrive. || بين ستة ونص وسبعة ونص، وقت وصول عمالنا.
+QS: That's when our trucks queue for fuel. I'll move the fuelling point. || ده الوقت اللي عربياتنا بتقف فيه طابور للوقود. هنقل نقطة التموين.
+ENG: And the dust is terrible near our offices. || والتراب فظيع جنب مكاتبنا.
+QS: We'll add a water truck on that section, starting tomorrow. || هنزود عربية مياه على الجزء ده من بكرة.
+ENG: Thank you. I'll tell my team. || شكرًا. هقول لفريقي.
+QS: If it happens again, please call me directly. Here's my number. || لو اتكررت، كلّمني على طول لو سمحت. ده رقمي.
+ENG: I appreciate that. || أقدّر ده.
+QS: We share the same site, so let's solve problems quickly. || إحنا في نفس الموقع، فخلينا نحل المشاكل بسرعة.
+P: I'm sorry to hear that = آسف إني أسمع كده
+P: What time does it happen? = بيحصل الساعة كام؟
+P: queue for fuel = يقفوا طابور للوقود
+P: please call me directly = كلّمني على طول
+P: I appreciate that = أقدّر ده
+H: queue = KYOO — كْيُو
+H: neighbouring = NAY-ber-ing — نِيبَرِنْج
+H: directly = di-REKT-lee — دَيْرِكْتْلِي
+R: I am sorry to hear that, what time does it happen?
+R: That is when our trucks queue for fuel.
+R: We will add a water truck on that section.
+R: If it happens again, please call me directly.
+R: We share the same site, so let's solve problems quickly.
+T: Respond to a complaint and ask for details. | رد على شكوى واسأل عن التفاصيل. | I'm sorry to hear that. What time does it happen exactly? I want to understand the problem so we can fix it quickly. | sorry to hear; what time; fix
+T: Offer practical solutions and a direct contact. | اعرض حلول عملية ووسيلة تواصل مباشرة. | I'll move our fuelling point away from your road, and we'll add a water truck for the dust starting tomorrow. If it happens again, please call me directly. | move; water truck; call me directly
+
+# B1+-31 | Preparing for a quantity audit | التحضير لتدقيق الكميات
+ENG Khaled, project manager, bm_daniel
+SCENE: فيه تدقيق من المالك على الكميات الشهر الجاي، وبتتكلموا عن التحضير.
+ENG: Hassan, the employer's auditors will review our quantities next month. || حسن، مدققين المالك هيراجعوا كمياتنا الشهر الجاي.
+QS: OK. Which period will they check? || تمام. هيراجعوا أنهي فترة؟
+ENG: From the start of the project until last month. || من بداية المشروع لحد الشهر اللي فات.
+QS: Then I need to organise all the measurement files by month and by item. || يبقى لازم أنظم كل ملفات القياس بالشهر والبند.
+ENG: Are there any gaps? || فيه أي فجوات؟
+QS: A few early surveys are not signed. I'll ask the consultant to sign them now. || شوية رفوعات في الأول مش موقّعة. هطلب من الاستشاري يوقعها دلوقتي.
+ENG: Good. Anything else? || كويس. حاجة تانية؟
+QS: I'll prepare a summary table that links each quantity to its evidence. || هجهز جدول ملخص بيربط كل كمية بالدليل بتاعها.
+ENG: That will make their job easier. || ده هيسهّل شغلهم.
+QS: And ours. If they can follow the numbers, the audit will be short. || وشغلنا كمان. لو قدروا يتابعوا الأرقام، التدقيق هيبقى قصير.
+P: Which period will they check? = هيراجعوا أنهي فترة؟
+P: organise ... by month and by item = أنظم ... بالشهر والبند
+P: Are there any gaps? = فيه أي فجوات؟
+P: links each quantity to its evidence = بيربط كل كمية بدليلها
+P: That will make their job easier = ده هيسهّل شغلهم
+H: auditors = AW-di-terz — أُودِتَرْز
+H: organise = OR-ga-nyze — أُورْجَنايْز
+H: summary = SUM-a-ree — سَمَرِي
+R: The auditors will review our quantities next month.
+R: I need to organise the files by month and by item.
+R: A few early surveys are not signed.
+R: I will prepare a table that links each quantity to its evidence.
+R: If they can follow the numbers, the audit will be short.
+T: Explain how you will prepare for an audit. | اشرح هتحضّر للتدقيق إزاي. | I'll organise all the measurement files by month and by item. Then I'll prepare a summary table that links each quantity to its evidence, so the auditors can follow the numbers. | organise; summary table; evidence
+T: Report a gap in the records and how you will close it. | بلّغ عن فجوة في السجلات وهتقفلها إزاي. | There is one gap: a few early surveys are not signed. I'll ask the consultant to sign them now, before the audit starts. | gap; not signed; before the audit
+
+# B1+-32 | Joint inspection of final levels | معاينة مشتركة للمناسيب النهائية
+ENG David, consultant engineer, bm_george
+SCENE: بتتفق مع الاستشاري على معاينة المناسيب النهائية لمنطقة B قبل التسليم.
+QS: David, Zone B is ready for the final level inspection. || ديفيد، منطقة B جاهزة لمعاينة المناسيب النهائية.
+ENG: Great. How do you want to do it? || عظيم. عايز تعملها إزاي؟
+QS: A joint survey on a ten-metre grid, plus the edges and the drainage lines. || رفع مشترك على شبكة عشرة متر، زائد الأطراف وخطوط التصريف.
+ENG: What tolerance are you working to? || شغالين على سماحية قد إيه؟
+QS: Plus or minus thirty millimetres, as in the specification. || زائد ناقص تلاتين مللي، زي المواصفات.
+ENG: Correct. And if some points are outside tolerance? || مظبوط. ولو فيه نقط برّه السماحية؟
+QS: We mark them, fix them the same day and re-survey only those points. || بنعلّم عليها، نصلحها في نفس اليوم ونعيد رفع النقط دي بس.
+ENG: That's reasonable. Tuesday at eight? || ده معقول. التلات الساعة تمانية؟
+QS: Tuesday at eight is perfect. I'll prepare the grid on the tablet. || التلات الساعة تمانية ممتاز. هجهز الشبكة على التابلت.
+ENG: Please bring the latest approved drawing too. || وهات آخر رسمة معتمدة كمان لو سمحت.
+P: is ready for = جاهزة لـ
+P: on a ten-metre grid = على شبكة عشرة متر
+P: What tolerance are you working to? = شغالين على سماحية قد إيه؟
+P: outside tolerance = برّه السماحية
+P: re-survey only those points = نعيد رفع النقط دي بس
+H: millimetres = MIL-i-mee-terz — مِلِّي-مِيتَرز
+H: tolerance = TOL-er-ans — تُولَرَنس
+H: tablet = TAB-lit — تابْلِت
+R: Zone B is ready for the final level inspection.
+R: We will do a joint survey on a ten-metre grid.
+R: The tolerance is plus or minus thirty millimetres.
+R: We fix them the same day and re-survey only those points.
+R: Tuesday at eight is perfect for us.
+T: Propose how to carry out a final level inspection. | اقترح طريقة تنفيذ معاينة المناسيب النهائية. | Zone B is ready for the final level inspection. I suggest a joint survey on a ten-metre grid, plus the edges and the drainage lines, with a tolerance of plus or minus thirty millimetres. | ready for; joint survey; tolerance
+T: Explain what happens if some points fail. | اشرح إيه اللي يحصل لو شوية نقط فشلت. | If some points are outside tolerance, we mark them, fix them the same day, and re-survey only those points, so the inspection can be closed quickly. | outside tolerance; fix them; re-survey
+
+# B1+-33 | Confirming a phone agreement by email | تأكيد اتفاق التليفون بإيميل
+ENG Nadia, consultant's QS, bf_isabella
+SCENE: اتفقتوا على حاجات في التليفون، وإنت بتقترح تأكدها بإيميل.
+ENG: So we agree: you'll resubmit item twelve with the new sections. || يعني متفقين: هتعيد تقديم البند اتناشر بالقطاعات الجديدة.
+QS: Yes, and you'll review it before the twentieth. || أيوه، وإنتي هتراجعيه قبل يوم عشرين.
+ENG: Correct. And item fifteen stays as it is this month. || مظبوط. والبند خمستاشر يفضل زي ما هو الشهر ده.
+QS: Agreed. Just to be safe, I'll send you an email to confirm what we agreed. || متفقين. عشان نبقى في الأمان، هبعتلك إيميل يأكد اللي اتفقنا عليه.
+ENG: Good idea. Keep it short. || فكرة كويسة. خليه قصير.
+QS: Three points only. If anything is wrong, just reply and correct it. || تلات نقط بس. لو فيه أي حاجة غلط، ردي وصححيها.
+ENG: Perfect. I'll reply today. || ممتاز. هرد النهاردة.
+QS: Thanks, Nadia. Talking by phone is fast, but email keeps a record. || شكرًا يا نادية. التليفون سريع، بس الإيميل بيحفظ سجل.
+ENG: Exactly. Speak to you soon. || بالظبط. نتكلم قريب.
+QS: Bye for now. || مع السلامة.
+P: So we agree = يعني متفقين
+P: Just to be safe = عشان نبقى في الأمان
+P: to confirm what we agreed = يأكد اللي اتفقنا عليه
+P: just reply and correct it = ردي وصححيها
+P: email keeps a record = الإيميل بيحفظ سجل
+H: resubmit = ree-sub-MIT — رِي-سَبْمِت
+H: confirm = kon-FURM — كُنْفِيرْم
+H: record = REK-ord — رِيكُورْد (اسم)
+R: You will resubmit item twelve with the new sections.
+R: Just to be safe, I will send you an email.
+R: If anything is wrong, just reply and correct it.
+R: Talking by phone is fast, but email keeps a record.
+R: The email will confirm what we agreed today.
+T: Summarise a phone agreement and propose confirming it by email. | لخص اتفاق تليفون واقترح تأكيده بإيميل. | So we agree: I'll resubmit item twelve with the new sections, and you'll review it before the twentieth. Just to be safe, I'll send you an email to confirm what we agreed. | so we agree; just to be safe; confirm
+T: Explain why written confirmation is important. | اشرح ليه التأكيد الكتابي مهم. | Talking by phone is fast, but email keeps a record. If there is a disagreement later, we can check what we agreed and when. | email keeps a record; disagreement; agreed
+
+# B1+-34 | Explaining a quantity difference to your manager | شرح فرق كمية للمدير
+ENG Khaled, project manager, bm_daniel
+SCENE: المدير لاحظ إن كمية الردم المقاسة أقل من عدد النقلات، وإنت بتشرح السبب.
+ENG: Hassan, the trucks delivered more fill than the measured volume. Why? || حسن، العربيات وردت ردم أكتر من الحجم المقاس. ليه؟
+QS: That's normal. Loose material in a truck takes more space than compacted fill. || ده طبيعي. المادة السايبة في العربية بتاخد مساحة أكتر من الردم المدموك.
+ENG: How big is the difference usually? || الفرق بيبقى قد إيه عادةً؟
+QS: It depends on the material. We confirmed our factor with lab tests. || بيعتمد على المادة. أكدنا المعامل بتاعنا باختبارات معمل.
+ENG: Is our difference within that range? || الفرق عندنا في الحدود دي؟
+QS: Mostly, yes. But last week the difference was too big. || في الأغلب أيوه. بس الأسبوع اللي فات الفرق كان كبير أوي.
+ENG: What happened last week? || إيه اللي حصل الأسبوع اللي فات؟
+QS: Some trucks were not fully loaded, but the gate counted them as full loads. || شوية عربيات ماكانتش محمّلة على الآخر، بس البوابة حسبتها حمولات كاملة.
+ENG: So we overpaid the haulage? || يعني دفعنا نقل زيادة؟
+QS: Possibly. I'll check the tickets and adjust the next payment if needed. || ممكن. هراجع التذاكر وأعدّل الدفعة الجاية لو لزم.
+P: That's normal = ده طبيعي
+P: takes more space than = بتاخد مساحة أكتر من
+P: It depends on = بيعتمد على
+P: within that range = في الحدود دي
+P: adjust the next payment if needed = أعدّل الدفعة الجاية لو لزم
+H: loose = LOOS — لُوس
+H: factor = FAK-ter — فاكْتَر
+H: overpaid = oh-ver-PAYD — أُوفَرْپِيد
+R: Loose material takes more space than compacted fill.
+R: It depends on the material.
+R: We confirmed our factor with lab tests.
+R: Some trucks were not fully loaded.
+R: I will check the tickets and adjust the next payment if needed.
+T: Explain why delivered and measured volumes are different. | اشرح ليه الحجم الموّرد مختلف عن المقاس. | That's normal. Loose material in a truck takes more space than compacted fill. The difference depends on the material, and we confirmed our factor with lab tests. | that's normal; loose; compacted
+T: Explain an unusual difference and what you will do. | اشرح فرق غير طبيعي وهتعمل إيه. | Last week the difference was too big, because some trucks were not fully loaded but were counted as full. I will check the tickets and adjust the next payment if needed. | too big; not fully loaded; adjust
+
+# B1+-35 | Interview: a problem you solved | مقابلة: مشكلة حليتها
+ENG Laura, HR interviewer, af_sarah
+SCENE: في مقابلة شغل، بيطلبوا منك تحكي عن مشكلة حليتها.
+ENG: Can you tell me about a problem you solved at work? || ممكن تحكيلي عن مشكلة حليتها في الشغل؟
+QS: Sure. On my current project, our quantities didn't match the consultant's. || أكيد. في مشروعي الحالي، كمياتنا ماكانتش متطابقة مع الاستشاري.
+ENG: What was the cause? || إيه كان السبب؟
+QS: We used different original ground data. They used the tender survey, and we used a joint survey. || كنا مستخدمين بيانات أرض طبيعية مختلفة. هم استخدموا رفع المناقصة، وإحنا استخدمنا رفع مشترك.
+ENG: How did you solve it? || حليتها إزاي؟
+QS: I showed them the signed joint survey and compared both calculations side by side. || وريتهم الرفع المشترك الموقّع وقارنت الحسابين جنب بعض.
+ENG: And the result? || والنتيجة؟
+QS: They accepted our data, and the difference was paid in the next certificate. || قبلوا بياناتنا، والفرق اتدفع في الشهادة اللي بعدها.
+ENG: What did you learn? || اتعلمت إيه؟
+QS: That clear evidence solves disagreements faster than long arguments. || إن الدليل الواضح بيحل الخلافات أسرع من النقاش الطويل.
+P: a problem you solved = مشكلة حليتها
+P: didn't match = ماكانتش متطابقة
+P: side by side = جنب بعض
+P: in the next certificate = في الشهادة اللي بعدها
+P: faster than long arguments = أسرع من النقاش الطويل
+H: certificate = ser-TIF-i-kit — سِرْتِفِكِت
+H: accepted = ak-SEP-tid — أكْسِپْتِد
+H: arguments = AR-gyoo-ments — أرْجْيُومِنْتْس
+R: Our quantities did not match the consultant's.
+R: We used different original ground data.
+R: I compared both calculations side by side.
+R: The difference was paid in the next certificate.
+R: Clear evidence solves disagreements faster than long arguments.
+T: Tell an interviewer about a problem you solved, using situation, action and result. | احكي لمقابِل الشغل عن مشكلة حليتها: الموقف، اللي عملته، والنتيجة. | Our quantities didn't match the consultant's, because we used different original ground data. I showed them the signed joint survey and compared both calculations side by side. They accepted our data and the difference was paid. | didn't match; compared; accepted
+T: Say what you learned from the experience. | قول اتعلمت إيه من التجربة. | I learned that clear evidence solves disagreements faster than long arguments. Now I always keep signed surveys and calculations ready. | learned; evidence; disagreements
+
+# B1+-36 | A difficult day (review) | يوم صعب (مراجعة)
+ENG Khaled, project manager, bm_daniel
+SCENE: مراجعة للمستوى: آخر يوم صعب، والمدير بيسألك حصل إيه وهتعمل إيه.
+ENG: Hassan, I heard today was difficult. What happened? || حسن، سمعت إن النهاردة كان صعب. إيه اللي حصل؟
+QS: Three things. First, the consultant rejected a layer because of oversize rocks. || تلات حاجات. أولًا، الاستشاري رفض طبقة بسبب صخور كبيرة.
+ENG: Did you fix it? || صلحتوها؟
+QS: Yes, we removed the rocks and he approved it after lunch. || أيوه، شلنا الصخور واعتمدها بعد الغدا.
+ENG: Second? || ثانيًا؟
+QS: Second, the haulage subcontractor threatened to slow down because of a late payment. || ثانيًا، مقاول النقل هدد إنه يبطّأ بسبب دفعة متأخرة.
+ENG: I approved that payment an hour ago. || أنا اعتمدت الدفعة دي من ساعة.
+QS: Thank you. I already told him. Third, the designer may change the levels near the east boundary. || شكرًا. قلتله خلاص. ثالثًا، المصمم ممكن يغير المناسيب جنب الحد الشرقي.
+ENG: What's our position? || موقفنا إيه؟
+QS: We're holding the final layer there, and we asked for written confirmation of the hold. || موقّفين الطبقة الأخيرة هناك، وطلبنا تأكيد مكتوب للتأجيل.
+P: I heard = سمعت إن
+P: threatened to slow down = هدد إنه يبطّأ
+P: I already told him = قلتله خلاص
+P: What's our position? = موقفنا إيه؟
+P: We're holding = موقّفين (مأجلين)
+H: oversize = OH-ver-syze — أُوفَرْسايْز
+H: threatened = THRET-nd — ثْرِتِنْد
+H: position = po-ZISH-un — پُوزِشَن
+R: The consultant rejected a layer because of oversize rocks.
+R: We removed the rocks and he approved it after lunch.
+R: The subcontractor threatened to slow down.
+R: The designer may change the levels near the boundary.
+R: We asked for written confirmation of the hold.
+T: Report three problems from a difficult day in order. | بلّغ عن تلات مشاكل من يوم صعب بالترتيب. | Today we had three problems. First, a layer was rejected because of oversize rocks, but we fixed it. Second, the haulage subcontractor threatened to slow down. Third, the designer may change some levels. | three; first; second
+T: Explain your position on a pending design change. | اشرح موقفكم من تغيير تصميم لسه ماتقررش. | We are holding the final layer near the east boundary until the designer decides. We asked for written confirmation of the hold, because it may affect our programme. | holding; written confirmation; programme

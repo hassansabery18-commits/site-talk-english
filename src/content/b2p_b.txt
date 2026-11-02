@@ -1,0 +1,371 @@
+# B2+-13 | Defending the team in front of senior management | الدفاع عن الفريق قدام الإدارة العليا
+ENG Mr. Hadi, company director, am_adam
+SCENE: المدير العام بيلوم فريق الموقع على تأخير، وإنت بتدافع عنهم بالحقايق من غير ما تتهرب من المسؤولية.
+ENG: Frankly, I'm disappointed. The site team should have finished Zone J by now. || بصراحة أنا محبط. فريق الموقع كان المفروض يخلّص منطقة J دلوقتي.
+QS: I understand the frustration, and I share it. But I'd like to put the delay in context. || فاهم الإحباط وأنا حاسس بيه. بس حابب أحط التأخير في سياقه.
+ENG: Go on, but no excuses. || كمّل، بس من غير أعذار.
+QS: No excuses. Of the five weeks of delay, three came from the late access and the rock. Both are recorded and notified. || من غير أعذار. من الخمس أسابيع تأخير، تلاتة جم من تأخير التسليم والصخر. الاتنين متسجلين ومتبلّغ عنهم.
+ENG: And the other two? || والاتنين التانيين؟
+QS: Those are ours: rework and a slow start on night shifts. I take responsibility for them. || دول بتوعنا: إعادة شغل وبداية بطيئة للورديات الليلية. وأنا بتحمل مسؤوليتهم.
+ENG: What's changed since then? || إيه اللي اتغير من ساعتها؟
+QS: Rework is down by more than half, and night shift output has doubled in the last month. || إعادة الشغل قلت لأقل من النص، وإنتاج الوردية الليلية اتضاعف في آخر شهر.
+ENG: I didn't know that. Why wasn't it in the report? || ماكنتش أعرف ده. ليه مكانش في التقرير؟
+QS: It was, on page six, but I should have put it on page one. That's my lesson. || كان موجود، في صفحة ستة، بس كان المفروض أحطه في صفحة واحد. ده درسي.
+ENG: All right. I'll judge the team on the trend, not just the delay. || تمام. هحكم على الفريق من الاتجاه، مش بس من التأخير.
+QS: Thank you. They've worked very hard, and they'll keep improving. || شكرًا. اشتغلوا جامد جدًا، وهيفضلوا يتحسنوا.
+P: put the delay in context = أحط التأخير في سياقه
+P: no excuses = من غير أعذار
+P: I take responsibility for them = أنا بتحمل مسؤوليتهم
+P: I should have put it on page one = كان المفروض أحطه في صفحة واحد
+P: judge ... on the trend = أحكم ... من الاتجاه
+H: frustration = frus-TRAY-shun — فْرَسْتْرِيشَن
+H: context = KON-tekst — كُونْتِكْسْت
+H: doubled = DUB-uld — دَبُلْد
+R: I understand the frustration, and I share it.
+R: I would like to put the delay in context.
+R: Those two weeks are ours, and I take responsibility for them.
+R: Rework is down by more than half.
+R: I should have put it on page one.
+T: Defend your team with facts while accepting your share of the blame. | دافع عن فريقك بالحقايق وإنت متحمل نصيبك من اللوم. | I understand the frustration, and I share it. Of the five weeks of delay, three came from the late access and the rock, which are recorded and notified. The other two are ours, and I take responsibility for them. | put in context; recorded; take responsibility
+T: Show improvement and learn from a communication mistake. | وضّح التحسن واتعلم من غلطة في التواصل. | Since then, rework is down by more than half and night shift output has doubled. It was in the report, but I should have put it on page one. That's my lesson. | down by more than half; doubled; page one
+
+# B2+-14 | Negotiating with idioms | تفاوض بالتعبيرات الاصطلاحية
+ENG Faisal, subcontractor manager, am_liam
+SCENE: مقاول الباطن بيستخدم تعبيرات اصطلاحية كتير في التفاوض على سعر مرحلة جديدة، وإنت بترد بنفس الأسلوب.
+ENG: Hassan, let's cut to the chase. For Phase Two, our rates go up by ten percent. || حسن، خلينا ندخل في الموضوع. في المرحلة التانية، أسعارنا هتزيد عشرة في المية.
+QS: That's a big jump. What's driving it? || دي قفزة كبيرة. إيه السبب؟
+ENG: Fuel and wages. Our margins are razor thin. || الوقود والمرتبات. هامش ربحنا رفيع جدًا.
+QS: I hear you, but ten percent is a non-starter for us. The client won't budge on our rates. || فاهمك، بس عشرة في المية مرفوضة من الأساس عندنا. المالك مش هيتزحزح في أسعارنا.
+ENG: So where does that leave us? || طب إحنا فين من ده؟
+QS: Let's look at the bigger picture. Phase Two is twice the volume, with steady work for a year. || خلينا نبص على الصورة الكبيرة. المرحلة التانية ضعف الحجم، بشغل ثابت لمدة سنة.
+ENG: Volume doesn't pay for diesel. || الحجم مابيدفعش تمن الديزل.
+QS: True. So how about a fuel adjustment clause instead of a flat increase? If fuel goes up, the rate follows. || صح. طب إيه رأيك في بند تعديل للوقود بدل زيادة ثابتة؟ لو الوقود زاد، السعر يزيد معاه.
+ENG: And if fuel goes down? || ولو الوقود قل؟
+QS: Then the rate comes down too. It's fair both ways and nobody's gambling. || ساعتها السعر يقل كمان. ده عادل في الاتجاهين ومحدش بيقامر.
+ENG: Hmm. That could work, plus a small increase for wages. || همم. ده ممكن ينفع، زائد زيادة صغيرة للمرتبات.
+QS: I can take that to my manager. Let's not leave money on the table for either side. || أقدر أعرض ده على مديري. خلينا ماحدش يضيّع فلوس من الطرفين.
+P: let's cut to the chase = خلينا ندخل في الموضوع
+P: razor thin = رفيع جدًا
+P: a non-starter = مرفوض من الأساس
+P: won't budge = مش هيتزحزح
+P: leave money on the table = نضيّع فلوس كان ممكن ناخدها
+H: margins = MAR-jinz — مارْجِنْز
+H: adjustment = a-JUST-ment — أدْجَسْتْمِنْت
+H: gambling = GAM-bling — جامْبْلِنْج
+R: Ten percent is a non-starter for us.
+R: The client will not budge on our rates.
+R: Let's look at the bigger picture.
+R: How about a fuel adjustment clause instead of a flat increase?
+R: It is fair both ways and nobody is gambling.
+T: Reject a large increase firmly but keep the door open. | ارفض زيادة كبيرة بحزم بس خلي الباب مفتوح. | I hear you, but ten percent is a non-starter for us, because the client won't budge on our rates. Let's look at the bigger picture: Phase Two is twice the volume, with steady work for a year. | non-starter; won't budge; bigger picture
+T: Propose a creative alternative that is fair both ways. | اقترح بديل مبتكر عادل للطرفين. | How about a fuel adjustment clause instead of a flat increase? If fuel goes up, the rate follows, and if it goes down, the rate comes down too. It's fair both ways. | fuel adjustment; instead of; fair both ways
+
+# B2+-15 | Explaining a complex technical issue simply | شرح موضوع فني معقد ببساطة
+ENG Mr. Grant, employer's representative, bm_daniel
+SCENE: ممثل المالك مش مهندس، وعايز يفهم ليه الهبوط المتوقع مهم.
+ENG: Hassan, the designers keep mentioning settlement. Can you explain it like I'm not an engineer? || حسن، المصممين بيتكلموا على طول عن الهبوط. ممكن تشرحه كأني مش مهندس؟
+QS: Of course. Think of a new mattress. When you first lie on it, it sinks a little, then it stops. || طبعًا. تخيل مرتبة جديدة. أول ما تنام عليها، بتنزل شوية، وبعدين بتقف.
+ENG: OK, I'm with you. || تمام، أنا معاك.
+QS: Fill behaves the same way. Under its own weight and the road above, it compresses slightly over time. || الردم بيتصرف بنفس الطريقة. تحت وزنه ووزن الطريق اللي فوقه، بينضغط شوية مع الوقت.
+ENG: Is that dangerous? || ده خطر؟
+QS: Not if it's small and even. The problem is uneven settlement, where one part sinks more than another. || مش لو كان قليل ومتساوي. المشكلة الهبوط غير المتساوي، لما جزء ينزل أكتر من جزء تاني.
+ENG: What happens then? || ساعتها إيه اللي بيحصل؟
+QS: Cracks in the road, or water collecting in low spots. That's what we want to avoid. || شروخ في الطريق، أو مياه بتتجمع في الأماكن الواطية. ده اللي عايزين نتجنبه.
+ENG: How do you prevent it? || بتمنعوه إزاي؟
+QS: Good compaction in thin layers, consistent material, and monitoring plates that tell us early if anything moves. || دمك كويس في طبقات رفيعة، ومادة متجانسة، وألواح مراقبة بتقولنا بدري لو أي حاجة اتحركت.
+ENG: That's the clearest explanation I've had. Thank you. || ده أوضح شرح سمعته. شكرًا.
+QS: My pleasure. The mattress always helps. || بكل سرور. المرتبة دايمًا بتساعد.
+P: explain it like I'm not an engineer = اشرحه كأني مش مهندس
+P: Think of = تخيل / فكّر في
+P: I'm with you = أنا معاك (فاهم)
+P: behaves the same way = بيتصرف بنفس الطريقة
+P: That's what we want to avoid = ده اللي عايزين نتجنبه
+H: mattress = MAT-ris — ماتْرِس
+H: compresses = kom-PRES-iz — كُمْپْرِسِز
+H: uneven = un-EE-ven — أَنِيفِن
+R: Think of a new mattress, it sinks a little, then it stops.
+R: Fill compresses slightly over time under its own weight.
+R: The problem is uneven settlement.
+R: That is what we want to avoid.
+R: Monitoring plates tell us early if anything moves.
+T: Explain a technical concept with a simple comparison. | اشرح مفهوم فني بتشبيه بسيط. | Think of a new mattress. When you first lie on it, it sinks a little, then it stops. Fill behaves the same way: under its own weight and the road above, it compresses slightly over time. | think of; behaves the same way; compresses
+T: Explain the real risk and how you control it. | اشرح الخطر الحقيقي وإزاي بتسيطروا عليه. | The real problem is uneven settlement, which causes cracks or water in low spots. We prevent it with good compaction in thin layers, consistent material, and monitoring plates that warn us early. | uneven settlement; prevent; monitoring plates
+
+# B2+-16 | A difficult conversation about performance | حوار صعب عن الأداء
+ENG Ahmed, night shift engineer, am_eric
+SCENE: مهندس الوردية الليلية أداؤه نازل، وإنت بتفتح معاه حوار صريح ومحترم.
+QS: Ahmed, thanks for coming. I want to talk about how things have been on the night shift. || أحمد، شكرًا إنك جيت. عايز أتكلم عن الوضع في الوردية الليلية.
+ENG: Is something wrong? || فيه حاجة غلط؟
+QS: I've noticed a few things over the last three weeks: late reports, and two hold points missed. || لاحظت كام حاجة في آخر تلات أسابيع: تقارير متأخرة، ونقطتين توقف اتفوّتوا.
+ENG: I know. I'm sorry. || عارف. أنا آسف.
+QS: I'm not here to blame you. You've been one of our most reliable engineers, so I wanted to ask: is everything all right? || أنا مش هنا عشان ألومك. إنت كنت من أكتر مهندسينا اللي يُعتمد عليهم، فحبيت أسأل: كل حاجة تمام؟
+ENG: Honestly, I'm exhausted. I've done nights for four months without a break. || بصراحة، أنا مرهق. شغال ليل بقالي أربع شهور من غير إجازة.
+QS: That's too long. I should have noticed that earlier. || دي مدة طويلة أوي. كان المفروض ألاحظ ده بدري.
+ENG: I didn't want to complain. || ماحبتش أشتكي.
+QS: Telling me isn't complaining. How about rotating with Omar every two weeks, starting next week? || إنك تقولي مش شكوى. إيه رأيك تبدّل مع عمر كل أسبوعين، من الأسبوع الجاي؟
+ENG: That would make a huge difference. || ده هيفرق جدًا.
+QS: Good. And let's set up a hold-point checklist, so it doesn't depend on memory when you're tired. || كويس. وخلينا نعمل قايمة نقط توقف، عشان ماتعتمدش على الذاكرة وإنت تعبان.
+ENG: Thanks, Hassan. I appreciate you asking instead of just writing me up. || شكرًا يا حسن. أقدّر إنك سألت بدل ما تكتب فيا تقرير.
+P: how things have been = الوضع عامل إزاي
+P: I'm not here to blame you = أنا مش هنا عشان ألومك
+P: is everything all right? = كل حاجة تمام؟
+P: Telling me isn't complaining = إنك تقولي مش شكوى
+P: make a huge difference = يفرق جدًا
+H: exhausted = ig-ZAWS-tid — إجْزُوسْتِد
+H: rotating = ROH-tay-ting — رُوتِيتِنْج
+H: appreciate = a-PREE-shee-ayt — أپْرِيشِيِيت
+R: I want to talk about how things have been on the night shift.
+R: I am not here to blame you.
+R: You have been one of our most reliable engineers.
+R: Telling me is not complaining.
+R: Let's set up a checklist, so it does not depend on memory.
+T: Open a difficult performance conversation with respect. | افتح حوار صعب عن الأداء باحترام. | I want to talk about how things have been on the night shift. I've noticed late reports and two missed hold points. I'm not here to blame you; you've been one of our most reliable engineers, so is everything all right? | how things have been; not here to blame; all right
+T: Respond with support and a practical solution. | رد بدعم وحل عملي. | Four months of nights is too long, and I should have noticed earlier. Telling me isn't complaining. Let's rotate with Omar every two weeks and use a hold-point checklist. | too long; not complaining; rotate
+
+# B2+-17 | Pitching yourself for promotion | ترشيح نفسك لترقية
+ENG Khaled, project manager, bm_daniel
+SCENE: فيه وظيفة رئيس قسم كميات اتفتحت، وإنت بتطلب من مديرك يدعم ترشيحك.
+QS: Khaled, I'd like to put myself forward for the Head of QS role on Phase Two. || خالد، حابب أرشّح نفسي لوظيفة رئيس قسم الكميات في المرحلة التانية.
+ENG: I thought you might. Why do you think you're ready? || توقعت إنك هتعمل كده. ليه شايف إنك جاهز؟
+QS: Over the last year, I've been doing much of the role already: leading the monthly applications and the claims. || في آخر سنة، كنت بعمل جزء كبير من الدور ده فعلًا: بقود المستخلصات الشهرية والمطالبات.
+ENG: That's true. What results can you point to? || صح. تقدر تشاور على نتايج إيه؟
+QS: Our rock claim entitlement was accepted, our certified value tracks closely with our applications, and the auditors found no major issues. || استحقاق مطالبة الصخر اتقبل، والقيمة المعتمدة قريبة جدًا من مستخلصاتنا، والمدققين مالقوش مشاكل كبيرة.
+ENG: And managing people? That's the big step. || وإدارة الناس؟ دي الخطوة الكبيرة.
+QS: I've been mentoring Karim, and he now prepares the applications with minimal review. || بوجّه كريم، ودلوقتي بيجهز المستخلصات بأقل مراجعة.
+ENG: What would you do differently in the role? || هتعمل إيه مختلف في الدور ده؟
+QS: Standardise our registers across all zones, and bring survey and QS data into one system. || أوحّد السجلات في كل المناطق، وأجمع بيانات المساحة والكميات في نظام واحد.
+ENG: That's a clear vision. I'll support your application. || دي رؤية واضحة. هدعم ترشيحك.
+QS: Thank you. I won't let you down. || شكرًا. مش هخذلك.
+ENG: Write a short note on your plan for the first ninety days. It'll strengthen your case. || اكتب ملاحظة قصيرة عن خطتك لأول تسعين يوم. هتقوّي موقفك.
+P: put myself forward for = أرشّح نفسي لـ
+P: I've been doing much of the role already = كنت بعمل جزء كبير من الدور فعلًا
+P: What results can you point to? = تقدر تشاور على نتايج إيه؟
+P: tracks closely with = قريبة جدًا من
+P: I won't let you down = مش هخذلك
+H: certified = SUR-ti-fyd — سِيرْتِفايْد
+H: standardise = STAN-der-dyze — سْتانْدَرْدايْز
+H: minimal = MIN-i-mal — مِنِمَال
+R: I would like to put myself forward for the Head of QS role.
+R: I have been doing much of the role already.
+R: Our certified value tracks closely with our applications.
+R: I have been mentoring a junior colleague.
+R: I would standardise our registers across all zones.
+T: Ask your manager to support you for a promotion. | اطلب من مديرك يدعمك في ترقية. | I'd like to put myself forward for the Head of QS role. Over the last year, I've been doing much of the role already, leading the monthly applications and the claims. | put myself forward; much of the role; leading
+T: Show results and a vision for the role. | اعرض نتايج ورؤية للدور. | Our rock claim was accepted, our certified value tracks closely with our applications, and I've been mentoring Karim. In the role, I'd standardise our registers and bring survey and QS data into one system. | results; mentoring; standardise
+
+# B2+-18 | An emergency on site | طوارئ في الموقع
+ENG Sam, safety officer, am_eric
+SCENE: جزء من جانب حفر عميق انهار، وإنت بتدير الموقف بسرعة وهدوء على الراديو.
+ENG: Hassan, there's been a slope collapse in the deep cut in Zone K! || حسن، فيه انهيار في جانب القطع العميق في منطقة K!
+QS: Is anyone hurt? Is anyone missing? || حد اتصاب؟ حد مفقود؟
+ENG: Nobody hurt. Everyone's accounted for, but an excavator is half buried. || محدش اتصاب. الكل موجود، بس فيه حفار مدفون نصه.
+QS: Good. First, clear everyone at least thirty metres back from the edge. Nobody goes near that machine. || كويس. الأول، بعّد الكل تلاتين متر على الأقل من الحافة. محدش يقرب من المعدة دي.
+ENG: Done. The operator wants to try and drive it out. || تمام. السواق عايز يحاول يطلّعها.
+QS: Absolutely not. The slope could fail again. The machine can wait; people can't be replaced. || خالص لأ. الجانب ممكن ينهار تاني. المعدة تستنى؛ الناس ماتتعوضش.
+ENG: Understood. What next? || مفهوم. وبعدين؟
+QS: Stop all work within a hundred metres, and put a banksman at each access to keep vehicles out. || وقّف كل الشغل في حدود مية متر، وحط مُرشد عند كل مدخل يمنع العربيات.
+ENG: Should I call the consultant? || أكلم الاستشاري؟
+QS: I'll call the project manager and the consultant now. You start the incident log, with times and photos from a safe distance. || أنا هكلم مدير المشروع والاستشاري دلوقتي. إنت ابدأ سجل الحادثة، بالمواعيد والصور من مسافة آمنة.
+ENG: On it. || حاضر.
+QS: And nobody touches anything until the geotechnical engineer has inspected it. || ومحدش يلمس حاجة لحد ما المهندس الجيوتقني يعاين.
+P: Is anyone hurt? = حد اتصاب؟
+P: Everyone's accounted for = الكل موجود ومتعدّ
+P: Absolutely not = خالص لأ
+P: people can't be replaced = الناس ماتتعوضش
+P: On it = حاضر (بشتغل عليه)
+H: collapse = ka-LAPS — كَلابْس
+H: buried = BER-eed — بِرِيد
+H: geotechnical = jee-oh-TEK-ni-kal — جِيُو-تِكْنِكَال
+R: Is anyone hurt, is anyone missing?
+R: Clear everyone at least thirty metres back from the edge.
+R: The machine can wait, people cannot be replaced.
+R: Stop all work within a hundred metres.
+R: Nobody touches anything until the engineer has inspected it.
+T: Give clear first instructions in a site emergency. | ادي تعليمات أولى واضحة في طوارئ بالموقع. | Is anyone hurt? Is anyone missing? Clear everyone at least thirty metres back from the edge, and nobody goes near the machine. Stop all work within a hundred metres. | anyone hurt; clear everyone; stop all work
+T: Refuse an unsafe idea firmly and explain why. | ارفض فكرة مش آمنة بحزم ووضح ليه. | Absolutely not. The slope could fail again. The machine can wait; people can't be replaced. Nobody touches anything until the geotechnical engineer has inspected it. | absolutely not; fail again; can't be replaced
+
+# B2+-19 | Reporting an incident upward | رفع تقرير حادثة للإدارة
+ENG Mr. Hadi, company director, am_adam
+SCENE: بعد انهيار الجانب، المدير العام بيكلمك عايز ملخص دقيق ومختصر.
+ENG: Hassan, I've heard about the collapse. Give me the facts. || حسن، سمعت عن الانهيار. اديني الحقايق.
+QS: At ten fifteen, part of the side slope in Zone K failed over about fifteen metres. Nobody was injured. || الساعة عشرة وربع، جزء من الميل الجانبي في منطقة K انهار على طول حوالي خمستاشر متر. محدش اتصاب.
+ENG: Thank God. Equipment? || الحمد لله. والمعدات؟
+QS: One excavator is partly buried. We haven't recovered it yet, deliberately, until the slope is assessed. || حفار مدفون جزئيًا. مااستعدناهوش لسه، عن قصد، لحد ما الميل يتقيّم.
+ENG: What caused it? || إيه السبب؟
+QS: It's too early to say for certain. Early signs point to groundwater after last night's rain. || لسه بدري نقول بشكل أكيد. العلامات الأولية بتشاور على مياه جوفية بعد مطر امبارح.
+ENG: Was the slope built to the design? || الميل كان متنفذ حسب التصميم؟
+QS: According to the last survey, yes. We'll verify that as part of the investigation. || حسب آخر رفع، أيوه. هنتحقق من ده كجزء من التحقيق.
+ENG: What's the impact on the programme? || إيه الأثر على البرنامج؟
+QS: Zone K is stopped for at least three days. We've moved the crews to Zone J, so overall production continues. || منطقة K واقفة تلات أيام على الأقل. نقلنا الفرق لمنطقة J، فالإنتاج العام مستمر.
+ENG: Send me a written summary by end of day. || ابعتلي ملخص مكتوب قبل آخر اليوم.
+QS: You'll have it by five, with photos, the timeline and the actions taken. || هيوصلك قبل خمسة، بالصور والجدول الزمني والإجراءات اللي اتعملت.
+P: Give me the facts = اديني الحقايق
+P: deliberately = عن قصد
+P: It's too early to say for certain = لسه بدري نقول بشكل أكيد
+P: Early signs point to = العلامات الأولية بتشاور على
+P: as part of the investigation = كجزء من التحقيق
+H: deliberately = di-LIB-er-it-lee — دِلِبَرِتْلِي
+H: groundwater = GROWND-waw-ter — جْراوْنْد-وُوتَر
+H: timeline = TYME-lyne — تايْمْلايْن
+R: Part of the side slope failed over about fifteen metres.
+R: We have not recovered it yet, deliberately.
+R: It is too early to say for certain.
+R: Early signs point to groundwater after the rain.
+R: You will have it by five, with photos and the timeline.
+T: Report an incident upward with only confirmed facts. | ارفع تقرير حادثة للإدارة بالحقايق المؤكدة بس. | At ten fifteen, part of the side slope in Zone K failed over about fifteen metres. Nobody was injured. One excavator is partly buried, and we haven't recovered it yet, deliberately. | facts; nobody was injured; deliberately
+T: Separate early signs from conclusions about the cause. | افصل العلامات الأولية عن الاستنتاجات بخصوص السبب. | It's too early to say for certain. Early signs point to groundwater after last night's rain, and we'll verify the slope geometry as part of the investigation. | too early to say; early signs; investigation
+
+# B2+-20 | Chairing a heated meeting | إدارة اجتماع متوتر
+ENG Tony, neighbouring contractor's manager, am_eric
+SCENE: إنت بتدير اجتماع بين مقاولين بيلوموا بعض على تلف طريق مشترك، والجو سخن.
+ENG: Your trucks destroyed that road! We're not paying a single riyal to fix it! || عربياتكم بوّظت الطريق ده! إحنا مش هندفع ريال واحد لتصليحه!
+QS: Tony, I hear you. Let's take a breath and look at what we actually know. || توني، سامعك. خلينا ناخد نفس ونبص على اللي نعرفه فعلًا.
+ENG: I know what I've seen. Your trucks are on it all day. || أنا عارف اللي شفته. عربياتكم عليه طول اليوم.
+QS: That's true, our trucks use it more. But yours use it too, and the road was never designed for this traffic. || ده صحيح، عربياتنا بتستخدمه أكتر. بس عربياتكم كمان بتستخدمه، والطريق عمره ماكان مصمم للحركة دي.
+ENG: So you want us to share the cost? || يعني عايزنا نتقاسم التكلفة؟
+QS: I want a fair way to split it, not an argument. What if we split it by usage? || أنا عايز طريقة عادلة للتقسيم، مش خناقة. إيه رأيك نقسمها حسب الاستخدام؟
+ENG: And how do we measure usage? || وهنقيس الاستخدام إزاي؟
+QS: Both of us have gate records. We count the loaded trips on that road for the last two months. || الاتنين عندنا سجلات بوابة. نعدّ النقلات المحمّلة على الطريق ده لآخر شهرين.
+ENG: If it's based on numbers, I can live with that. || لو مبنية على أرقام، أقدر أتعايش مع ده.
+QS: Good. I'll propose it in writing, and we'll ask the employer to confirm it. || كويس. هقترحها كتابة، وهنطلب من المالك يأكدها.
+ENG: Fine. Sorry for raising my voice earlier. || ماشي. آسف إني علّيت صوتي من شوية.
+QS: No problem. We all want the road fixed. That's the common ground. || مفيش مشكلة. كلنا عايزين الطريق يتصلح. ده اللي متفقين عليه.
+P: Let's take a breath = خلينا ناخد نفس
+P: what we actually know = اللي نعرفه فعلًا
+P: a fair way to split it = طريقة عادلة للتقسيم
+P: split it by usage = نقسمها حسب الاستخدام
+P: That's the common ground = ده اللي متفقين عليه
+H: destroyed = di-STROYD — دِسْتْرُويْد
+H: usage = YOO-sij — يُوسِدْج
+H: riyal = ree-YAL — رِيال
+R: Let's take a breath and look at what we actually know.
+R: The road was never designed for this traffic.
+R: I want a fair way to split it, not an argument.
+R: We count the loaded trips on that road for two months.
+R: We all want the road fixed, that is the common ground.
+T: Calm a heated meeting and move it to facts. | هدّي اجتماع سخن وانقله للحقايق. | I hear you. Let's take a breath and look at what we actually know. Our trucks use the road more, yes, but yours use it too, and it was never designed for this traffic. | take a breath; actually know; designed
+T: Propose an objective method to share a cost. | اقترح طريقة موضوعية لتقسيم تكلفة. | I want a fair way to split it, not an argument. What if we split it by usage, based on the loaded trips in both gate records for the last two months? | fair way; by usage; gate records
+
+# B2+-21 | Speaking at a conference panel | الكلام في جلسة مؤتمر
+ENG Moderator, conference host, bf_isabella
+SCENE: إنت متحدث في جلسة نقاش في مؤتمر عن التكنولوجيا في قياس الكميات.
+ENG: Our next panelist is Hassan, a quantity surveyor with a background in field surveying. Hassan, how is technology changing your work? || المتحدث اللي جاي حسن، مهندس كميات بخلفية في المساحة الميدانية. حسن، التكنولوجيا بتغير شغلك إزاي؟
+QS: Thank you. In one word: speed. What used to take a week of cross sections now takes an afternoon with surface models. || شكرًا. في كلمة واحدة: السرعة. اللي كان بياخد أسبوع قطاعات عرضية، دلوقتي بياخد بعد ضهر واحد بنماذج الأسطح.
+ENG: Does speed come at the cost of accuracy? || السرعة بتيجي على حساب الدقة؟
+QS: Only if you trust the software blindly. Fast results still need a second method to check them. || بس لو وثقت في البرنامج بشكل أعمى. النتايج السريعة لسه محتاجة طريقة تانية للمراجعة.
+ENG: What about drones? Everyone's talking about them. || والدرونز؟ الكل بيتكلم عنها.
+QS: They're excellent for stockpiles and progress tracking, but for final measurement we still rely on joint ground surveys. || ممتازة للكوم ومتابعة التقدم، بس للقياس النهائي لسه بنعتمد على الرفع الأرضي المشترك.
+ENG: Why is that? || ليه كده؟
+QS: Mainly trust. Payment depends on data both parties have agreed to, and that culture changes slower than technology. || أساسًا الثقة. الدفع بيعتمد على بيانات الطرفين موافقين عليها، والثقافة دي بتتغير أبطأ من التكنولوجيا.
+ENG: Interesting point. What advice would you give young QSs? || نقطة مثيرة للاهتمام. تنصح مهندسي الكميات الشباب بإيه؟
+QS: Learn the tools, but never stop understanding the numbers. If you can't explain a result, you don't own it. || اتعلموا الأدوات، بس ماتبطلوش تفهموا الأرقام. لو مش قادر تشرح نتيجة، يبقى إنت مش متمكن منها.
+ENG: A great line to end on. Thank you, Hassan. || جملة عظيمة نختم بيها. شكرًا يا حسن.
+QS: Thank you for having me. || شكرًا على استضافتي.
+P: In one word = في كلمة واحدة
+P: come at the cost of = تيجي على حساب
+P: trust the software blindly = نثق في البرنامج بشكل أعمى
+P: that culture changes slower than technology = الثقافة دي بتتغير أبطأ من التكنولوجيا
+P: Thank you for having me = شكرًا على استضافتي
+H: panelist = PAN-el-ist — پانِلِسْت
+H: blindly = BLYND-lee — بْلايْنْدْلِي
+H: culture = KUL-cher — كَلْتْشَر
+R: What used to take a week now takes an afternoon.
+R: Fast results still need a second method to check them.
+R: For final measurement we still rely on joint ground surveys.
+R: Payment depends on data both parties have agreed to.
+R: If you cannot explain a result, you do not own it.
+T: Answer a public question about technology and accuracy. | جاوب على سؤال عام عن التكنولوجيا والدقة. | In one word: speed. What used to take a week of cross sections now takes an afternoon. But speed doesn't have to cost accuracy, as long as fast results are checked with a second method. | in one word; speed; second method
+T: Give memorable advice to young professionals. | ادي نصيحة لا تُنسى للشباب في المهنة. | Learn the tools, but never stop understanding the numbers. If you can't explain a result, you don't own it, and in our job, every number must be explainable. | learn the tools; understanding the numbers; explain
+
+# B2+-22 | Negotiating your salary | التفاوض على المرتب
+ENG Laura, HR manager, af_sarah
+SCENE: جالك عرض شغل، وبتتفاوض على الباكيدج بثقة وأدب.
+ENG: We're pleased to offer you the position. The package is in the letter. || يسعدنا نعرض عليك الوظيفة. الباكيدج في الخطاب.
+QS: Thank you, I'm really excited about the role. Before I accept, could we discuss the package? || شكرًا، أنا متحمس جدًا للدور. قبل ما أقبل، ممكن نناقش الباكيدج؟
+ENG: Of course. What did you have in mind? || طبعًا. كان في بالك إيه؟
+QS: The basic salary is a little below what I see for similar roles in the market, given my survey and GIS skills. || المرتب الأساسي أقل شوية من اللي بشوفه لأدوار مشابهة في السوق، بالنظر لمهاراتي في المساحة ونظم المعلومات الجغرافية.
+ENG: Our budget for the basic salary is fairly fixed. || ميزانيتنا للمرتب الأساسي ثابتة تقريبًا.
+QS: I understand. Is there flexibility in other parts, such as the housing allowance or a review after six months? || فاهم. فيه مرونة في أجزاء تانية، زي بدل السكن أو مراجعة بعد ست شهور؟
+ENG: A six-month review is possible, based on performance. || المراجعة بعد ست شهور ممكنة، على أساس الأداء.
+QS: That works for me, if we agree the targets in writing at the start. || ده يناسبني، لو اتفقنا على الأهداف كتابة من الأول.
+ENG: That's reasonable. Anything else? || ده معقول. حاجة تانية؟
+QS: Professional training. I'm working towards a degree, and support for that would matter to me. || التدريب المهني. أنا شغال على شهادة جامعية، ودعمكم في ده هيفرق معايا.
+ENG: We have a training budget. I'll check what we can offer. || عندنا ميزانية تدريب. هشوف نقدر نقدم إيه.
+QS: Thank you. If we can agree on those two points, I'd be happy to accept. || شكرًا. لو اتفقنا على النقطتين دول، يسعدني أقبل.
+P: I'm really excited about the role = أنا متحمس جدًا للدور
+P: could we discuss the package? = ممكن نناقش الباكيدج؟
+P: given my skills = بالنظر لمهاراتي
+P: Is there flexibility in...? = فيه مرونة في...؟
+P: I'd be happy to accept = يسعدني أقبل
+H: package = PAK-ij — پاكِدْج
+H: allowance = a-LOW-ans — أَلاوَنْس
+H: flexibility = flek-si-BIL-i-tee — فْلِكْسِبِلِتِي
+R: I am really excited about the role.
+R: Before I accept, could we discuss the package?
+R: Is there flexibility in other parts of the package?
+R: That works for me, if we agree the targets in writing.
+R: If we can agree on those two points, I would be happy to accept.
+T: Open a salary negotiation positively and give a reason. | افتح تفاوض على المرتب بإيجابية ومع سبب. | Thank you, I'm really excited about the role. Before I accept, could we discuss the package? The basic salary is a little below the market for similar roles, given my survey and GIS skills. | excited; discuss the package; market
+T: Find flexibility when the main number is fixed. | دوّر على مرونة لما الرقم الأساسي ثابت. | I understand the basic salary is fixed. Is there flexibility in other parts, such as a review after six months with agreed targets, or support for my professional training? | flexibility; review; training
+
+# B2+-23 | Persuading the team to change a habit | إقناع الفريق بتغيير عادة
+ENG Ravi, earthworks foreman, bm_george
+SCENE: بتقنع المراقب والفريق يستخدموا تطبيق التقارير الرقمي بدل الورق، وهو مقاوم للتغيير.
+QS: Ravi, from next month I'd like the daily reports done on the tablet app instead of paper. || رافي، من الشهر الجاي حابب التقارير اليومية تتعمل على تطبيق التابلت بدل الورق.
+ENG: Paper has worked fine for twenty years. Why change now? || الورق ماشي كويس من عشرين سنة. ليه نغير دلوقتي؟
+QS: Fair question. Paper works, but we lose time copying it, and some sheets go missing. || سؤال منطقي. الورق شغال، بس بنضيّع وقت في نقله، وبعض الشيتات بتضيع.
+ENG: My guys aren't great with technology. || رجالتي مش شاطرين في التكنولوجيا.
+QS: That's exactly why I picked a simple app. It's mostly tapping, with photos. No long typing. || عشان كده بالظبط اخترت تطبيق بسيط. أغلبه ضغط، وصور. مفيش كتابة كتير.
+ENG: What's in it for us, though? || وإحنا هنستفيد إيه؟
+QS: No more evening paperwork. Your report is done when you finish the shift, and nobody chases you for it. || مفيش أوراق بالليل تاني. تقريرك يخلص أول ما الوردية تخلص، ومحدش يطاردك عليه.
+ENG: Hmm. That part I like. || همم. الجزء ده عاجبني.
+QS: How about a two-week trial with your crew only? If it doesn't work, we'll fix it or drop it. || إيه رأيك في تجربة أسبوعين مع فريقك بس؟ لو ماشتغلتش، نصلحها أو نلغيها.
+ENG: Two weeks, and you'll train us properly. || أسبوعين، وإنت تدربنا كويس.
+QS: Deal. I'll do the training myself on Saturday morning. || اتفقنا. أنا هدرّبكم بنفسي السبت الصبح.
+ENG: OK, we'll give it a go. || ماشي، هنجربها.
+P: Fair question = سؤال منطقي
+P: some sheets go missing = بعض الشيتات بتضيع
+P: What's in it for us? = هنستفيد إيه؟
+P: we'll fix it or drop it = نصلحها أو نلغيها
+P: we'll give it a go = هنجربها
+H: tablet = TAB-lit — تابْلِت
+H: technology = tek-NOL-o-jee — تِكْنُولُوجِي
+H: paperwork = PAY-per-wurk — پِيپَرْوِيرْك
+R: Paper works, but we lose time copying it.
+R: That is exactly why I picked a simple app.
+R: No more evening paperwork for your team.
+R: How about a two-week trial with your crew only?
+R: If it does not work, we will fix it or drop it.
+T: Answer resistance to change by showing the benefit to them. | رد على مقاومة التغيير بإنك توضح فايدتهم. | Fair question. Paper works, but we lose time copying it and some sheets go missing. And for you, there's no more evening paperwork: your report is done when you finish the shift. | fair question; go missing; paperwork
+T: Lower the risk of change with a trial. | قلل مخاطرة التغيير بتجربة. | How about a two-week trial with your crew only? I'll train you myself on Saturday, and if it doesn't work, we'll fix it or drop it. | two-week trial; train; fix it or drop it
+
+# B2+-24 | A misunderstanding across cultures | سوء فهم بين الثقافات
+ENG Brian, design consultant, am_eric
+SCENE: المصمم الأمريكي فهم كلامك على إنه موافقة، وإنت كنت بتجامل، فبتوضح بلطف.
+ENG: Great, so we're all set. You said yes to the new drainage levels yesterday. || عظيم، يبقى كله تمام. إنت قلت أيوه على مناسيب التصريف الجديدة امبارح.
+QS: Brian, I think we may have had a small misunderstanding there. || برايان، أعتقد إن ممكن يكون حصل سوء فهم صغير.
+ENG: Oh? You said it looked good. || أوه؟ إنت قلت إنها شكلها كويس.
+QS: I did, and I meant the design looked sensible. But I didn't mean we agree to build it without an instruction. || قلت كده، وكان قصدي إن التصميم منطقي. بس ماكانش قصدي إننا موافقين ننفذه من غير تعليمات.
+ENG: Ah, I see. In the States, "looks good" usually means go ahead. || آه، فهمت. في أمريكا، "شكلها كويس" عادةً معناها اتفضل نفذ.
+QS: That's useful to know. Here, people sometimes say positive things to be polite, then raise concerns formally. || معلومة مفيدة. هنا، الناس أحيانًا بتقول كلام إيجابي من باب الذوق، وبعدين بتطرح ملاحظاتها رسمي.
+ENG: So what do you actually need? || طب إنت محتاج إيه فعلًا؟
+QS: Just a formal revision through the engineer, because it changes our quantities. || بس تعديل رسمي عن طريق المهندس، لأنه بيغيّر كمياتنا.
+ENG: Makes sense. I'll push it through today. || منطقي. هخلصه النهاردة.
+QS: Thanks. And next time I'll be clearer: "technically fine, but we need an instruction." || شكرًا. والمرة الجاية هكون أوضح: "فنيًا كويس، بس محتاجين تعليمات."
+ENG: Ha, I'll remember that phrase. || ها، هفتكر الجملة دي.
+QS: And I'll remember that "looks good" means go! || وأنا هفتكر إن "شكلها كويس" معناها اتفضل!
+P: we may have had a small misunderstanding = ممكن يكون حصل سوء فهم صغير
+P: I meant ... But I didn't mean ... = كان قصدي ... بس ماكانش قصدي ...
+P: That's useful to know = معلومة مفيدة
+P: to be polite = من باب الذوق
+P: I'll push it through = هخلصه (همشّيه)
+H: sensible = SEN-si-bul — سِنْسِبُل
+H: misunderstanding = mis-un-der-STAN-ding — مِسْأَنْدَرْسْتانْدِنْج
+H: technically = TEK-ni-klee — تِكْنِكْلِي
+R: I think we may have had a small misunderstanding.
+R: I meant the design looked sensible.
+R: I did not mean we agree to build it without an instruction.
+R: That is useful to know.
+R: Next time I will say technically fine, but we need an instruction.
+T: Clear up a misunderstanding caused by polite language. | وضّح سوء فهم سببه كلام مجاملة. | I think we may have had a small misunderstanding. When I said it looked good, I meant the design looked sensible, not that we agree to build it without an instruction. | misunderstanding; I meant; without an instruction
+T: Agree a clearer way to communicate in future. | اتفق على طريقة تواصل أوضح بعد كده. | That's useful to know. Next time I'll be clearer and say "technically fine, but we need an instruction," so there's no confusion. | useful to know; clearer; technically fine

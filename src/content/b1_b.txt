@@ -1,0 +1,333 @@
+# B1-13 | Where to put the stockpile | مكان المخزون (الكومة)
+ENG Ravi, earthworks foreman, bm_george
+SCENE: المراقب بيسألك يحط ناتج الحفر المناسب للردم فين.
+ENG: Hassan, where should we put the good material?
+QS: Put it in the stockpile area near the north gate.
+ENG: Not near the road?
+QS: No, keep it away from the road. The trucks need space.
+ENG: OK. How high can the stockpile be?
+QS: Keep it low and safe. The safety officer will check it.
+ENG: And the bad material?
+QS: Put it in a separate pile. Don't mix them.
+ENG: Understood. Separate piles.
+P: where should we put = نحط ... فين
+P: keep it away from the road = خليه بعيد عن الطريق
+P: The trucks need space = العربيات محتاجة مساحة
+P: a separate pile = كومة لوحدها
+P: Don't mix them = ماتخلطهمش
+H: stockpile = STOK-pyle — ستُوك-بايل
+H: material = ma-TEER-ee-al — ماتِيـرْيَال
+H: separate = SEP-rit — سِپْرِت (صفة)
+R: Put the good material in the stockpile area.
+R: Keep it away from the road.
+R: The trucks need space to turn.
+R: Put the bad material in a separate pile.
+R: Please don't mix the two materials.
+T: Tell the foreman where to put the good material. | قول للمراقب يحط المادة الكويسة فين. | Put the good material in the stockpile area near the north gate. Keep it away from the road because the trucks need space. | stockpile; keep it away; trucks need space
+T: Explain why the materials must not be mixed. | اشرح ليه المواد ماتتخلطش. | Please put the bad material in a separate pile. Don't mix them, because we can only use the good material for the fill. | separate pile; don't mix; good material
+
+# B1-14 | Ordering more water | طلب مياه زيادة
+ENG Hamid, water truck supplier, am_adam
+SCENE: مكالمة مع مورد عربيات المياه عشان الدمك محتاج مياه أكتر.
+QS: Hello Hamid, it's Hassan from the earthworks site.
+ENG: Hello Hassan. What do you need?
+QS: We need two more water trucks today.
+ENG: Today is difficult. Can it be tomorrow?
+QS: Sorry, we need them today. The soil is too dry.
+ENG: OK, I can send one truck at noon and one at three.
+QS: That's fine. Please ask the drivers to call me at the gate.
+ENG: Sure. I'll send you their phone numbers.
+QS: Thank you very much.
+P: We need two more = محتاجين اتنين كمان
+P: Today is difficult = النهاردة صعب
+P: Can it be tomorrow? = ينفع بكرة؟
+P: we need them today = محتاجينهم النهاردة
+P: Please ask the drivers to call me = خلّي السواقين يكلموني
+H: difficult = DIF-i-kult — دِيفِكَلْت
+H: tomorrow = ta-MOR-oh — تُمـُورُو
+H: drivers = DRY-verz — دْرَايْفَرز
+R: We need two more water trucks today.
+R: Sorry, we need them today.
+R: The soil is too dry for compaction.
+R: Please ask the drivers to call me at the gate.
+R: Thank you very much for your help.
+T: Call the supplier and ask for more water trucks today. | كلّم المورد واطلب عربيات مياه زيادة النهاردة. | Hello Hamid, it's Hassan from the site. We need two more water trucks today, because the soil is too dry for compaction. | we need; water trucks; today
+T: Politely refuse to wait until tomorrow. | ارفض بأدب تستنى لبكرة. | Sorry, tomorrow is too late. We need them today, because the compaction will stop without water. | sorry; we need them today; too late
+
+# B1-15 | Dust on the haul road | التراب على طريق النقل
+ENG Sam, safety officer, am_eric
+SCENE: مسؤول السلامة بيشتكي من التراب الكتير على طريق النقل.
+ENG: Hassan, there is too much dust on the haul road.
+QS: Yes, I saw it this morning. The trucks are fast.
+ENG: The drivers can't see well. It's dangerous.
+QS: I agree. We'll spray the road with water every hour.
+ENG: Good. And please tell the drivers to slow down.
+QS: I'll ask the foreman to remind them.
+ENG: Thank you. I'll check again in the afternoon.
+QS: OK. Tell me if it's still dusty.
+P: too much dust = تراب كتير
+P: It's dangerous = ده خطر
+P: I agree = أنا موافق
+P: spray the road with water = نرش الطريق مياه
+P: slow down = يهدّوا السرعة
+H: dust = DUST — دَسْت
+H: dangerous = DAYN-jer-us — دِينْـجَرَس
+H: spray = SPRAY — سْپْرِي (من غير ألف في الأول)
+R: There is too much dust on the haul road.
+R: The drivers cannot see well.
+R: We will spray the road with water every hour.
+R: Please tell the drivers to slow down.
+R: Tell me if it is still dusty.
+T: Agree with the safety officer and say what you will do. | وافق مسؤول السلامة وقول هتعمل إيه. | I agree, the dust is dangerous. We will spray the haul road with water every hour, and I will ask the drivers to slow down. | I agree; spray; slow down
+T: Ask the foreman to talk to the drivers. | اطلب من المراقب يكلم السواقين. | Ravi, please remind the drivers to slow down on the haul road. There is too much dust and they can't see well. | remind; slow down; dust
+
+# B1-16 | Cut and fill in simple words | القطع والردم بكلام بسيط
+ENG Omar, new trainee engineer, am_liam
+SCENE: مهندس متدرب جديد بيسألك يعني إيه قطع وردم.
+ENG: Hassan, what does cut and fill mean?
+QS: Cut means we remove soil from high areas.
+ENG: And fill?
+QS: Fill means we put soil in low areas.
+ENG: Where does the fill material come from?
+QS: Usually from the cut. We use the good material again.
+ENG: So we balance them?
+QS: Exactly. A good balance saves time and money.
+ENG: That's clear now. Thank you.
+P: what does it mean? = يعني إيه؟
+P: we remove soil = بنشيل تراب
+P: high areas / low areas = الأماكن العالية / الواطية
+P: we use it again = بنستخدمه تاني
+P: saves time and money = بيوفر وقت وفلوس
+H: remove = ri-MOOV — رِيمُوف
+H: balance = BAL-ans — بالَنس
+H: exactly = ig-ZAKT-lee — إِجْزاكْتْلِي
+R: Cut means we remove soil from high areas.
+R: Fill means we put soil in low areas.
+R: Usually the fill material comes from the cut.
+R: We use the good material again.
+R: A good balance saves time and money.
+T: Explain cut and fill to a new trainee. | اشرح القطع والردم لمتدرب جديد. | Cut means we remove soil from the high areas. Fill means we put soil in the low areas. Usually we use the cut material for the fill. | cut means; fill means; material
+T: Explain why balancing cut and fill is important. | اشرح ليه موازنة القطع والردم مهمة. | If we balance cut and fill, we don't need to buy or remove a lot of soil. A good balance saves time and money. | balance; saves time; money
+
+# B1-17 | Checking levels with the surveyor | مراجعة المناسيب مع المساح
+ENG Ali, survey team leader, am_adam
+SCENE: إنت والمساح بتراجعوا المناسيب بعد طبقة ردم.
+QS: Ali, did you check the levels in Zone C?
+ENG: Yes. Most points are OK.
+QS: Most points? What about the others?
+ENG: Three points are a little high.
+QS: How high?
+ENG: About five centimetres above the design level.
+QS: Then we need to trim those areas.
+ENG: I'll mark them with red pegs.
+QS: Good. I'll tell the grader operator.
+P: Most points are OK = معظم النقط مظبوطة
+P: a little high = عالي شوية
+P: above the design level = فوق منسوب التصميم
+P: we need to trim = محتاجين نشذّب (نقشط)
+P: I'll mark them = هعلّم عليهم
+H: centimetres = SEN-ti-mee-terz — سِنْتي-مِيتَرز
+H: design = di-ZYNE — دِيزَايْن
+H: pegs = PEGZ — پِجْز (P)
+R: Did you check the levels in Zone C?
+R: Most points are OK in Zone C.
+R: Three points are a little high.
+R: We need to trim those areas.
+R: I will tell the grader operator.
+T: Ask the surveyor about the level check results. | اسأل المساح عن نتيجة مراجعة المناسيب. | Ali, did you check the levels? Are all the points OK? Which points are high or low? | check the levels; points; high
+T: Tell the grader operator what to do. | قول لسواق الجريدر يعمل إيه. | Some points are a little high. Please trim the areas with the red pegs to the design level. | trim; red pegs; design level
+
+# B1-18 | Asking approval for a layer | طلب اعتماد طبقة
+ENG David, consultant engineer, bm_george
+SCENE: بتطلب من الاستشاري يعاين الطبقة ويعتمدها عشان تكملوا.
+QS: David, the fourth layer in Zone C is ready.
+ENG: Did it pass the density tests?
+QS: Yes, all tests passed this morning.
+ENG: And the levels?
+QS: The surveyor checked them. They are within tolerance.
+ENG: Good. Please send me the request for inspection.
+QS: I sent it at ten o'clock.
+ENG: OK. I'll come to inspect at one.
+QS: Thank you. We'll wait for your approval before the next layer.
+P: is ready = جاهزة
+P: within tolerance = في حدود السماحية
+P: the request for inspection = طلب المعاينة
+P: I'll come to inspect = هاجي أعاين
+P: We'll wait for your approval = هنستنى اعتمادك
+H: approval = a-PROO-val — أَپْرُوفَال
+H: tolerance = TOL-er-ans — تُولَرَنس
+H: inspection = in-SPEK-shun — إنْسْپِكْشَن
+R: The fourth layer in Zone C is ready.
+R: All tests passed this morning.
+R: The levels are within tolerance.
+R: Please check the request for inspection.
+R: We will wait for your approval.
+T: Ask the consultant to inspect and approve a layer. | اطلب من الاستشاري يعاين ويعتمد طبقة. | David, the fourth layer is ready. All density tests passed and the levels are within tolerance. Can you come to inspect it today? | ready; tests passed; inspect
+T: Explain that you will not start the next layer before approval. | وضّح إنك مش هتبدأ الطبقة اللي بعدها قبل الاعتماد. | We will not start the next layer before your approval. We will wait for your inspection. | approval; next layer; wait
+
+# B1-19 | A sandstorm delay | تأخير بسبب عاصفة رملية
+ENG Khaled, project manager, bm_daniel
+SCENE: عاصفة رملية وقفت الشغل، وبتبلغ مدير المشروع.
+QS: Khaled, we stopped work at eleven because of the sandstorm.
+ENG: Is everyone safe?
+QS: Yes, everyone is safe. The workers are in the rest area.
+ENG: Good. How long will it last?
+QS: The weather report says until four o'clock.
+ENG: Then we lose half a day.
+QS: Yes. I'll record it in the daily report with photos.
+ENG: Good. We may need it for an extension of time.
+QS: I understand. I'll keep all the records.
+P: because of the sandstorm = بسبب العاصفة الرملية
+P: Is everyone safe? = الكل بخير؟
+P: How long will it last? = هتستمر قد إيه؟
+P: we lose half a day = بنخسر نص يوم
+P: I'll keep all the records = هحتفظ بكل السجلات
+H: weather = WETH-er — وِذَر (ذ بلسانك)
+H: extension = ik-STEN-shun — إكْسْتِنْشَن
+H: records = REK-ordz — رِيكُوردز (اسم)
+R: We stopped work because of the sandstorm.
+R: Everyone is safe in the rest area.
+R: The weather report says until four o'clock.
+R: I will record it in the daily report.
+R: I will keep all the records and photos.
+T: Report a weather stoppage to your manager. | بلّغ مديرك بتوقف الشغل بسبب الجو. | We stopped work at eleven because of a sandstorm. Everyone is safe. The weather report says it will last until four o'clock. | stopped work; sandstorm; safe
+T: Explain why you keep records of delays. | اشرح ليه بتحتفظ بسجلات التأخير. | I record every stoppage in the daily report with photos. We may need these records for an extension of time. | records; daily report; extension of time
+
+# B1-20 | The subcontractor is late | مقاول الباطن متأخر
+ENG Faisal, subcontractor supervisor, am_liam
+SCENE: مقاول الباطن بدأ متأخر النهاردة، وإنت بتسأله ليه.
+QS: Faisal, your trucks started at nine today.
+ENG: Yes, sorry. We had a problem at the camp.
+QS: The start time is seven. We lost two hours.
+ENG: I know. It won't happen again.
+QS: Please call me next time if there is a problem.
+ENG: OK, I'll call you early.
+QS: Thank you. Can you work late today to catch up?
+ENG: Yes, we can work until seven.
+QS: Good. I'll inform the project manager.
+P: started late = بدأ متأخر
+P: We lost two hours = خسرنا ساعتين
+P: It won't happen again = مش هتتكرر
+P: call me next time = كلّمني المرة الجاية
+P: to catch up = عشان نعوّض
+H: camp = KAMP — كامْپ
+H: catch up = KACH up — كاتْش أَپ
+H: inform = in-FORM — إنْفُورْم
+R: Your trucks started at nine today.
+R: The start time is seven o'clock.
+R: Please call me next time if there is a problem.
+R: Can you work late today to catch up?
+R: I will inform the project manager.
+T: Tell the subcontractor that he started late, politely but clearly. | قول لمقاول الباطن إنه بدأ متأخر بأدب ووضوح. | Faisal, your trucks started at nine today, but the start time is seven. We lost two hours. Please call me next time if there is a problem. | started; start time; call me
+T: Ask him to recover the lost time. | اطلب منه يعوض الوقت الضايع. | Can your team work late today to catch up? We need to finish the fill in Zone C this week. | work late; catch up; finish
+
+# B1-21 | Following up the payment application | متابعة المستخلص
+ENG Nadia, consultant's QS, bf_isabella
+SCENE: بتسأل مهندسة الكميات عند الاستشاري عن مراجعة المستخلص.
+QS: Hello Nadia. Did you receive our payment application?
+ENG: Yes, we received it on Sunday.
+QS: When do you think you can finish the review?
+ENG: Maybe next Tuesday. I have some questions.
+QS: Sure. What are the questions?
+ENG: I need the survey data for the fill quantities.
+QS: I'll send it to you today.
+ENG: Thank you. That will help a lot.
+QS: You're welcome. Please call me if you need anything else.
+P: Did you receive...? = وصلك ...؟
+P: When can you finish the review? = تقدري تخلصي المراجعة إمتى؟
+P: I have some questions = عندي شوية أسئلة
+P: That will help a lot = ده هيساعد كتير
+P: if you need anything else = لو احتجتي أي حاجة تانية
+H: receive = ri-SEEV — رِيسِيف
+H: review = ri-VYOO — رِيفْيُو
+H: quantities = KWON-ti-teez — كْوانْتِتِيز
+R: Did you receive our payment application?
+R: When can you finish the review?
+R: I will send you the survey data today.
+R: That will help a lot.
+R: Please call me if you need anything else.
+T: Ask the consultant's QS about the review of your payment application. | اسأل كميات الاستشاري عن مراجعة المستخلص. | Hello Nadia, did you receive our payment application? When do you think you can finish the review? Do you need any information from us? | did you receive; review; need
+T: Offer to send supporting documents. | اعرض تبعت المستندات الداعمة. | I can send you the survey data and the measurement sheets today. Please call me if you need anything else. | send; survey data; anything else
+
+# B1-22 | Extra fill is needed | محتاجين ردم زيادة
+ENG Mark, site engineer, bm_lewis
+SCENE: مهندس الموقع بيقولك المنسوب الجديد محتاج ردم زيادة عن المخطط.
+ENG: Hassan, the new drawing raises the level in Zone F.
+QS: So we need more fill than before.
+ENG: Yes, quite a lot more.
+QS: This is a change. We need a written instruction.
+ENG: The consultant will send it this week.
+QS: Good. Until then, I'll keep a record of the extra quantities.
+ENG: Should we start the work now?
+QS: Let's ask the project manager first.
+ENG: OK, I'll call him.
+P: more fill than before = ردم أكتر من الأول
+P: This is a change = ده تغيير
+P: a written instruction = تعليمات مكتوبة
+P: keep a record = أسجّل
+P: Let's ask ... first = خلينا نسأل ... الأول
+H: raises = RAY-ziz — رِيـزِز
+H: instruction = in-STRUK-shun — إنْسْتْرَكْشَن
+H: extra = EK-stra — إكْسْتْرا
+R: The new drawing raises the level in Zone F.
+R: We need more fill than before.
+R: This is a change, so we need a written instruction.
+R: I will keep a record of the extra quantities.
+R: Let's ask the project manager first.
+T: Explain that the new level is a change to the contract work. | اشرح إن المنسوب الجديد تغيير في الشغل. | The new drawing raises the level, so we need more fill than before. This is a change. We need a written instruction from the consultant. | change; written instruction; more fill
+T: Say what you will do until the instruction arrives. | قول هتعمل إيه لحد ما التعليمات توصل. | Until the instruction arrives, I will keep a record of the extra quantities with survey data, and I will ask the project manager before we start. | keep a record; extra quantities; project manager
+
+# B1-23 | Please put it in writing | ممكن تكتبها؟
+ENG David, consultant engineer, bm_george
+SCENE: الاستشاري بيدّي تعليمات شفوية، وإنت بتطلبها مكتوبة بأدب.
+ENG: Hassan, please move the stockpile to the south side.
+QS: OK. Is this an instruction from you?
+ENG: Yes, we need the north area free.
+QS: Could you please send it in writing?
+ENG: Is that really necessary?
+QS: Yes, it costs extra trucks and time. We need it for our records.
+ENG: I understand. I'll send a site instruction today.
+QS: Thank you, David. We'll start when we receive it.
+P: Is this an instruction? = دي تعليمات؟
+P: Could you please send it in writing? = ممكن تبعتها مكتوبة لو سمحت؟
+P: Is that really necessary? = هو ده ضروري فعلًا؟
+P: it costs extra = بيكلّف زيادة
+P: for our records = لسجلاتنا
+H: necessary = NES-e-se-ree — نِسِسِرِي
+H: written = RIT-n — رِتْن
+H: south = SOWTH — ساوْث (ث في الآخر)
+R: Is this an instruction from you?
+R: Could you please send it in writing?
+R: It costs extra trucks and time.
+R: We need it for our records.
+R: We will start when we receive it.
+T: Politely ask the consultant to confirm an instruction in writing. | اطلب من الاستشاري بأدب يأكد التعليمات كتابة. | Could you please send this instruction in writing? It costs extra trucks and time, so we need it for our records. | in writing; costs extra; records
+T: Explain when you will start the work. | وضّح هتبدأ الشغل إمتى. | We will start moving the stockpile as soon as we receive the site instruction. | start; receive; site instruction
+
+# B1-24 | A short update in the weekly meeting | تحديث قصير في الاجتماع الأسبوعي
+ENG Khaled, project manager, bm_daniel
+SCENE: في الاجتماع الأسبوعي، المدير بيطلب منك تحديث سريع.
+ENG: Hassan, can you give us a quick update?
+QS: Sure. This week we finished the cut in Zone B.
+ENG: Good. And the fill?
+QS: The fill in Zone C is about half done.
+ENG: Any issues?
+QS: Two issues. The water supply and one excavator breakdown.
+ENG: Are they solved?
+QS: Yes, both are solved now. Next week we'll finish Zone C.
+ENG: Thank you, Hassan. Clear and short.
+P: a quick update = تحديث سريع
+P: about half done = حوالي النص خلص
+P: Any issues? = فيه أي مشاكل؟
+P: Both are solved now = الاتنين اتحلوا
+P: Next week we'll finish = الأسبوع الجاي هنخلّص
+H: update = UP-dayt — أَپْ-دِيت (اسم)
+H: issues = ISH-ooz — إِشُوز
+H: solved = SOLVD — سُولْفْد
+R: This week we finished the cut in Zone B.
+R: The fill in Zone C is about half done.
+R: We had two issues this week.
+R: Both issues are solved now.
+R: Next week we will finish Zone C.
+T: Give a short weekly update in the meeting. | ادي تحديث أسبوعي قصير في الاجتماع. | This week we finished the cut in Zone B. The fill in Zone C is about half done. Next week we will finish Zone C. | this week; finished; next week
+T: Mention the problems and say they are solved. | اذكر المشاكل وقول إنها اتحلت. | We had two issues, the water supply and an excavator breakdown. Both are solved now. | issues; solved; breakdown

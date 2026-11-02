@@ -1,0 +1,266 @@
+[
+ {
+  "name": "p / b",
+  "ar": "الـ P من غير صوت من الحنجرة وفيها نفَس هوا، والـ B بصوت. حط إيدك قدام بقك: مع P تحس بالهوا.",
+  "pairs": [
+   [
+    "pit",
+    "bit"
+   ],
+   [
+    "pay",
+    "bay"
+   ],
+   [
+    "pump",
+    "bump"
+   ],
+   [
+    "peg",
+    "beg"
+   ]
+  ]
+ },
+ {
+  "name": "v / f",
+  "ar": "الاتنين بأسنانك العليا على شفتك التحتانية، بس V بصوت (زي فاء بتزن) وF من غير صوت.",
+  "pairs": [
+   [
+    "van",
+    "fan"
+   ],
+   [
+    "vest",
+    "fest"
+   ],
+   [
+    "very",
+    "ferry"
+   ],
+   [
+    "leave",
+    "leaf"
+   ]
+  ]
+ },
+ {
+  "name": "short i / long ee",
+  "ar": "الـ i القصيرة سريعة ومرتخية (fill)، والـ ee طويلة والبق مفتوح بالعرض (feel).",
+  "pairs": [
+   [
+    "fill",
+    "feel"
+   ],
+   [
+    "ship",
+    "sheep"
+   ],
+   [
+    "sit",
+    "seat"
+   ],
+   [
+    "live",
+    "leave"
+   ]
+  ]
+ },
+ {
+  "name": "word stress",
+  "ar": "في الإنجليزي مقطع واحد في الكلمة بيتقال أقوى وأطول. نفس الكلمة ممكن معناها يتغير حسب الضغط: PROgress اسم، proGRESS فعل.",
+  "pairs": [
+   [
+    "the PROgress",
+    "to proGRESS"
+   ],
+   [
+    "a REcord",
+    "to reCORD"
+   ],
+   [
+    "the CONtract",
+    "to conTRACT"
+   ],
+   [
+    "a PERmit",
+    "to perMIT"
+   ]
+  ]
+ },
+ {
+  "name": "th",
+  "ar": "طلّع طرف لسانك شوية بين أسنانك: think زي الثاء، وthis زي الذال. ماتقولش سين أو زين.",
+  "pairs": [
+   [
+    "think",
+    "sink"
+   ],
+   [
+    "three",
+    "tree"
+   ],
+   [
+    "they",
+    "day"
+   ],
+   [
+    "thick",
+    "tick"
+   ]
+  ]
+ },
+ {
+  "name": "consonant clusters",
+  "ar": "ماتحطش ألف قبل الكلمات اللي بتبدأ بحرفين ساكنين: spring مش إسبرينج، street مش إستريت.",
+  "pairs": [
+   [
+    "spring",
+    "string"
+   ],
+   [
+    "street",
+    "steep"
+   ],
+   [
+    "scraper",
+    "spray"
+   ],
+   [
+    "split",
+    "spread"
+   ]
+  ]
+ },
+ {
+  "name": "-ed endings",
+  "ar": "الـ ed ليها 3 أصوات: t بعد الأصوات المهموسة (passed)، d بعد المجهورة (filled)، وid بعد t وd (tested).",
+  "pairs": [
+   [
+    "passed",
+    "filled"
+   ],
+   [
+    "checked",
+    "planned"
+   ],
+   [
+    "tested",
+    "loaded"
+   ],
+   [
+    "stopped",
+    "started"
+   ]
+  ]
+ },
+ {
+  "name": "linking",
+  "ar": "الكلمة اللي آخرها ساكن بتتوصل بالكلمة اللي بعدها لو بتبدأ بحرف متحرك: check it = chec-kit.",
+  "pairs": [
+   [
+    "check it",
+    "pick it up"
+   ],
+   [
+    "fill in",
+    "turn off"
+   ],
+   [
+    "an hour",
+    "an area"
+   ],
+   [
+    "send it",
+    "keep it"
+   ]
+  ]
+ },
+ {
+  "name": "sentence stress",
+  "ar": "في الجملة بنضغط على الكلمات المهمة (أسماء وأفعال وأرقام) وبنقول الكلمات الصغيرة بسرعة: we NEED the TRUCKS toDAY.",
+  "pairs": [
+   [
+    "we NEED it",
+    "SEND the REport"
+   ],
+   [
+    "the TEST PASSED",
+    "CHECK the LEvels"
+   ],
+   [
+    "a BIG PROblem",
+    "the NEW DRAWing"
+   ],
+   [
+    "SEE you THURSday",
+    "CALL me LAter"
+   ]
+  ]
+ },
+ {
+  "name": "question intonation",
+  "ar": "أسئلة yes/no صوتها بيطلع لفوق في الآخر، وأسئلة wh (what, where) صوتها بينزل في الآخر.",
+  "pairs": [
+   [
+    "Is it ready?",
+    "Where is it?"
+   ],
+   [
+    "Can you come?",
+    "When can you come?"
+   ],
+   [
+    "Did it pass?",
+    "Why did it fail?"
+   ],
+   [
+    "Is this OK?",
+    "What is this?"
+   ]
+  ]
+ },
+ {
+  "name": "o sounds",
+  "ar": "فرّق بين coat (أو طويلة متحركة)، وcaught (أو مفتوحة)، وcould (أُ قصيرة).",
+  "pairs": [
+   [
+    "coat",
+    "caught"
+   ],
+   [
+    "low",
+    "law"
+   ],
+   [
+    "road",
+    "rod"
+   ],
+   [
+    "could",
+    "cold"
+   ]
+  ]
+ },
+ {
+  "name": "r and silent letters",
+  "ar": "حروف بتتكتب ومابتتقالش: الـ h في scheme وhour، والـ g في foreign وdesign، والـ gh في height.",
+  "pairs": [
+   [
+    "scheme",
+    "school"
+   ],
+   [
+    "foreign",
+    "design"
+   ],
+   [
+    "height",
+    "weight"
+   ],
+   [
+    "hour",
+    "honest"
+   ]
+  ]
+ }
+]

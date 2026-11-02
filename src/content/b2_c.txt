@@ -1,0 +1,371 @@
+# B2-25 | Responding to a warning letter | الرد على خطاب إنذار
+ENG Khaled, project manager, bm_daniel
+SCENE: المهندس بعت خطاب يحذركم من بطء التقدم، وإنت والمدير بتخططوا للرد.
+ENG: We received a letter from the engineer saying our progress is too slow. || وصلنا خطاب من المهندس بيقول إن تقدمنا بطيء أوي.
+QS: I read it. The tone is strong, but our reply should stay calm and factual. || قريته. النبرة شديدة، بس ردنا لازم يفضل هادي ومبني على حقايق.
+ENG: Agreed. How should we structure it? || متفقين. نرتبه إزاي؟
+QS: First, acknowledge their concern. Then explain the causes, with references to our earlier notices. || الأول نعترف بقلقهم. بعدين نشرح الأسباب، بالإشارة لإخطاراتنا السابقة.
+ENG: Should we mention the late access again? || نذكر تأخير التسليم تاني؟
+QS: Yes, clearly. Most of the delay comes from it, and we notified them at the time. || أيوه، بوضوح. معظم التأخير منه، وإحنا بلّغناهم في وقتها.
+ENG: What about our own delays? || وتأخيراتنا إحنا؟
+QS: We should be honest about them and show what we've already done to recover. || لازم نكون صريحين فيها ونوضح عملنا إيه خلاص عشان نعوّض.
+ENG: Good. Anything else? || كويس. حاجة تانية؟
+QS: End with a constructive proposal: a recovery programme and a request for the outstanding decisions. || نختم باقتراح بنّاء: برنامج تعويض وطلب للقرارات المعلّقة.
+ENG: That turns a complaint into a discussion. Draft it today. || ده بيحوّل الشكوى لنقاش. اكتب المسودة النهاردة.
+QS: I'll have it ready by four, with all the references attached. || هتبقى جاهزة الساعة أربعة، بكل المراجع مرفقة.
+P: The tone is strong = النبرة شديدة
+P: calm and factual = هادي ومبني على حقايق
+P: acknowledge their concern = نعترف بقلقهم
+P: with references to = بالإشارة لـ
+P: a constructive proposal = اقتراح بنّاء
+H: factual = FAK-choo-al — فاكْتْشُوَل
+H: acknowledge = ak-NOL-ij — أكْنُولِدْج
+H: constructive = kon-STRUK-tiv — كُنْسْتْرَكْتِف
+R: The tone is strong, but our reply should stay calm and factual.
+R: First, we acknowledge their concern clearly.
+R: Explain the causes with references to our earlier notices.
+R: We should be honest about our own delays.
+R: End with a constructive proposal and a recovery programme.
+T: Plan a reply to a strong letter from the engineer. | خطط للرد على خطاب شديد من المهندس. | Our reply should stay calm and factual. First, we acknowledge their concern. Then we explain the causes, with references to our earlier notices about the late access. | calm and factual; acknowledge; references
+T: Explain how to end the reply constructively. | اشرح إزاي نختم الرد بشكل بنّاء. | We should be honest about our own delays and show what we've done to recover. Then we end with a constructive proposal: a recovery programme and a request for the outstanding decisions. | honest; constructive proposal; recovery programme
+
+# B2-26 | Chairing an interface meeting | إدارة اجتماع تنسيق
+ENG Hamid, utilities engineer, am_adam
+SCENE: إنت بتدير اجتماع تنسيق بين فرق الحفريات والمرافق والطرق.
+QS: Good morning, everyone. Our aim today is to agree the sequence in Zone J for the next four weeks. || صباح الخير للجميع. هدفنا النهاردة نتفق على تسلسل الشغل في منطقة J للأربع أسابيع الجاية.
+ENG: The utilities team needs to go first. Our pipes are the deepest. || فريق المرافق لازم يبدأ الأول. مواسيرنا هي الأعمق.
+QS: That makes sense. How long do you need before we can fill over them? || ده منطقي. محتاجين قد إيه قبل ما نقدر نردم فوقها؟
+ENG: About two weeks, including the pressure tests. || حوالي أسبوعين، بما فيهم اختبارات الضغط.
+QS: OK. Meanwhile, we'll work in the northern half, away from your trenches. || تمام. في الوقت ده، هنشتغل في النص الشمالي، بعيد عن خنادقكم.
+ENG: And the road team? || وفريق الطرق؟
+QS: They'll start the sub-base once our final levels are approved. Let's put a target date on that. || هيبدأوا الأساس المساعد أول ما مناسيبنا النهائية تتعتمد. خلينا نحط تاريخ مستهدف لده.
+ENG: Who is responsible for the crossing points? || مين مسؤول عن نقط التقاطع؟
+QS: Good question. I suggest your team marks them, and we protect them during filling. || سؤال كويس. أقترح فريقكم يعلّمها، وإحنا نحميها وقت الردم.
+ENG: Fine with us. || ماشي معانا.
+QS: Let me summarise the actions and owners. I'll circulate the minutes this afternoon. || خليني ألخّص الإجراءات والمسؤولين عنها. هوزّع المحضر بعد الضهر.
+ENG: Thanks. That was efficient. || شكرًا. كان اجتماع فعّال.
+P: Our aim today is = هدفنا النهاردة
+P: That makes sense = ده منطقي
+P: put a target date on that = نحط تاريخ مستهدف لده
+P: actions and owners = الإجراءات والمسؤولين عنها
+P: I'll circulate the minutes = هوزّع المحضر
+H: sequence = SEE-kwens — سِيكْوِنْس
+H: summarise = SUM-a-ryze — سَمَرايْز
+H: circulate = SUR-kyu-layt — سِيرْكْيُولِيت
+R: Our aim today is to agree the sequence in Zone J.
+R: How long do you need before we can fill over them?
+R: Meanwhile, we will work in the northern half.
+R: Let me summarise the actions and owners.
+R: I will circulate the minutes this afternoon.
+T: Open a coordination meeting with a clear aim. | افتتح اجتماع تنسيق بهدف واضح. | Good morning, everyone. Our aim today is to agree the sequence of work in Zone J for the next four weeks, so the teams don't block each other. | our aim today; sequence; next four weeks
+T: Close the meeting by summarising actions and owners. | اختم الاجتماع بتلخيص الإجراءات والمسؤولين. | Let me summarise. Utilities go first for two weeks; we work in the northern half meanwhile; your team marks the crossing points and we protect them. I'll circulate the minutes this afternoon. | summarise; actions; circulate the minutes
+
+# B2-27 | A disturbed control point | نقطة تحكم اتحركت
+ENG Ali, survey team leader, am_adam
+SCENE: المساح لقى إن نقطة تحكم أساسية اتحركت، وده ممكن يأثر على رفوعات قديمة.
+ENG: Hassan, we have a problem. Control point CP7 has been moved. || حسن، عندنا مشكلة. نقطة التحكم سي بي سبعة اتحركت.
+QS: Moved? How do you know? || اتحركت؟ عرفت إزاي؟
+ENG: When we checked it from two other points, it was off by several centimetres. || لما راجعناها من نقطتين تانيين، كانت مزاحة بكام سنتي.
+QS: When was it last checked correctly? || آخر مرة اتراجعت وكانت سليمة إمتى؟
+ENG: Three weeks ago, during the monthly check. || من تلات أسابيع، في المراجعة الشهرية.
+QS: So any survey based on CP7 since then could be affected. || يعني أي رفع معتمد على سي بي سبعة من ساعتها ممكن يكون متأثر.
+ENG: Exactly. Mainly the fill surveys in Zone C. || بالظبط. أساسًا رفوعات الردم في منطقة C.
+QS: Then we need to re-establish CP7 from the primary network and re-process those surveys. || يبقى لازم نعيد تثبيت سي بي سبعة من الشبكة الرئيسية ونعيد معالجة الرفوعات دي.
+ENG: Should we tell the consultant? || نقول للاستشاري؟
+QS: Yes, today. It's better they hear it from us than find it later. || أيوه، النهاردة. أحسن يسمعوها مننا بدل ما يكتشفوها بعدين.
+ENG: I'll also protect the new point with a concrete block and a fence. || وهحمي النقطة الجديدة ببلوك خرسانة وسور كمان.
+QS: Good. And from now on, let's check the control points weekly near active areas. || كويس. ومن هنا ورايح، خلينا نراجع نقط التحكم كل أسبوع جنب المناطق الشغالة.
+P: has been moved = اتحركت
+P: it was off by = كانت مزاحة بـ
+P: could be affected = ممكن تكون متأثرة
+P: re-establish ... from the primary network = نعيد تثبيت ... من الشبكة الرئيسية
+P: better they hear it from us = أحسن يسمعوها مننا
+H: several = SEV-ral — سِفْرَل
+H: re-establish = ree-is-TAB-lish — رِي-إسْتابْلِش
+H: re-process = ree-PROH-ses — رِي-پْرُوسِس
+R: Control point CP7 has been moved.
+R: Any survey based on it since then could be affected.
+R: We need to re-establish it from the primary network.
+R: It is better they hear it from us than find it later.
+R: Let's check the control points weekly near active areas.
+T: React to a disturbed control point and assess the impact. | اتصرف مع نقطة تحكم اتحركت وقيّم الأثر. | When was it last checked correctly? If it was three weeks ago, any survey based on CP7 since then could be affected, mainly the fill surveys in Zone C. | last checked; based on; affected
+T: Decide the actions and explain why you inform the consultant. | قرر الإجراءات واشرح ليه هتبلّغ الاستشاري. | We'll re-establish CP7 from the primary network and re-process the affected surveys. We'll tell the consultant today, because it's better they hear it from us than find it later. | re-establish; re-process; hear it from us
+
+# B2-28 | The cost of rework | تكلفة إعادة الشغل
+ENG Khaled, project manager, bm_daniel
+SCENE: المدير بيسأل تكلفة إعادة الطبقات الفاشلة الشهر ده، وإنت بتعرض الأرقام والدروس.
+ENG: Hassan, how much did rework cost us this month? || حسن، إعادة الشغل كلفتنا قد إيه الشهر ده؟
+QS: I've estimated it at around three percent of the month's earthworks cost. || قدّرتها بحوالي تلاتة في المية من تكلفة الحفر والردم في الشهر.
+ENG: That sounds small. || ده باين قليل.
+QS: In percentage, yes. But it's equal to about four days of full production. || كنسبة أيوه. بس هي تعادل حوالي أربع أيام إنتاج كامل.
+ENG: What were the main causes? || إيه الأسباب الأساسية؟
+QS: Two causes account for most of it: layers placed too thick, and late water supply. || سببين بيمثلوا معظمها: طبقات اتفردت تخينة زيادة، وتأخير توريد المياه.
+ENG: Are those under our control? || دول تحت سيطرتنا؟
+QS: The layer thickness, completely. The water supply, partly. || سُمك الطبقة تمامًا. توريد المياه جزئيًا.
+ENG: What have we changed? || غيرنا إيه؟
+QS: Level pegs on every layer, a pass counter on each roller, and a second water supplier. || أوتاد منسوب على كل طبقة، وعداد مرات على كل هراس، ومورد مياه تاني.
+ENG: Track it monthly. I want to see it go down. || تابعها كل شهر. عايز أشوفها بتقل.
+QS: I'll add a rework indicator to the monthly report from now on. || هضيف مؤشر لإعادة الشغل في التقرير الشهري من هنا ورايح.
+P: I've estimated it at = قدّرتها بـ
+P: That sounds small = ده باين قليل
+P: it's equal to = هي تعادل
+P: account for most of it = بيمثلوا معظمها
+P: under our control = تحت سيطرتنا
+H: percentage = per-SEN-tij — پَرْسِنْتِدْج
+H: indicator = IN-di-kay-ter — إنْدِكِيتَر
+H: completely = kom-PLEET-lee — كُمْپْلِيتْلِي
+R: I have estimated the rework at around three percent.
+R: It is equal to about four days of full production.
+R: Two causes account for most of it.
+R: The layer thickness is completely under our control.
+R: I will add a rework indicator to the monthly report.
+T: Put a cost into perspective for your manager. | وضّح حجم تكلفة لمديرك بشكل مفهوم. | I've estimated the rework at around three percent of the month's earthworks cost. That sounds small, but it's equal to about four days of full production. | estimated; sounds small; equal to
+T: Explain the causes and the corrective actions. | اشرح الأسباب والإجراءات التصحيحية. | Two causes account for most of it: layers placed too thick and late water supply. We added level pegs, pass counters on the rollers and a second water supplier, and I'll track rework monthly. | account for; level pegs; track
+
+# B2-29 | Sharing surplus material | تقاسم المادة الزيادة
+ENG Tony, neighbouring contractor's manager, am_eric
+SCENE: المقاول المجاور محتاج ردم وإنتو عندكم فائض، وبتتفاوضوا على شروط.
+ENG: Hassan, I hear you have surplus fill material. We're short on our side. || حسن، سمعت إن عندكم ردم زيادة. إحنا عندنا نقص.
+QS: We do, but it's the employer's material, so we can't simply sell it. || فعلًا، بس دي مادة المالك، فمانقدرش نبيعها كده.
+ENG: So what are the options? || طب إيه الخيارات؟
+QS: If the employer approves, we could load it and you collect it from our stockpile. || لو المالك وافق، نقدر نحمّلها وإنتو تستلموها من الكومة بتاعتنا.
+ENG: Would you charge for loading? || هتحاسبونا على التحميل؟
+QS: Only for loading and the gate checking, at cost. The material itself is the employer's decision. || على التحميل وفحص البوابة بس، بالتكلفة. المادة نفسها قرار المالك.
+ENG: That's reasonable. How do we measure what we take? || ده معقول. هنقيس اللي هناخده إزاي؟
+QS: We survey the stockpile before and after, jointly. No arguments later. || نرفع الكومة قبل وبعد، بالاشتراك. من غير خلافات بعدين.
+ENG: Fair enough. Who asks the employer? || ماشي. مين يطلب من المالك؟
+QS: You do, since it's your request, but I'll confirm the quantity and the material test results. || إنتو، لأنه طلبكم، بس أنا هأكد الكمية ونتايج اختبارات المادة.
+ENG: Great. Let's put it on next week's coordination agenda. || عظيم. نحطها على جدول اجتماع التنسيق الأسبوع الجاي.
+QS: Good idea. Please bring your trucks' details and the dates you need. || فكرة كويسة. هات بيانات عربياتكم والتواريخ اللي محتاجينها.
+P: We're short on our side = عندنا نقص
+P: we can't simply sell it = مانقدرش نبيعها كده
+P: So what are the options? = طب إيه الخيارات؟
+P: at cost = بالتكلفة
+P: No arguments later = من غير خلافات بعدين
+H: surplus = SUR-plus — سِيرْپْلَس
+H: options = OP-shunz — أُوپْشَنز
+H: agenda = a-JEN-da — أَجِنْدَا
+R: It is the employer's material, so we cannot simply sell it.
+R: If the employer approves, you could collect it from our stockpile.
+R: We would charge only for loading, at cost.
+R: We survey the stockpile before and after, jointly.
+R: Let's put it on next week's coordination agenda.
+T: Explain why you can't just sell the material, and the options. | اشرح ليه مينفعش تبيع المادة، والخيارات المتاحة. | It's the employer's material, so we can't simply sell it. If the employer approves, you could collect it from our stockpile, and we'd charge only for loading, at cost. | employer's material; approves; at cost
+T: Propose a fair way to measure and agree the quantity. | اقترح طريقة عادلة لقياس الكمية والاتفاق عليها. | We survey the stockpile before and after, jointly, so there are no arguments later. I'll also confirm the material test results for your records. | survey; before and after; jointly
+
+# B2-30 | Giving feedback to a team member | إعطاء ملاحظات لعضو في الفريق
+ENG Karim, assistant QS, am_liam
+SCENE: مساعدك عمل غلطة في مستخلص، وإنت بتديله ملاحظات بشكل بنّاء.
+QS: Karim, have you got ten minutes? I'd like to give you some feedback on the payment application. || كريم، معاك عشر دقايق؟ حابب أديك شوية ملاحظات على المستخلص.
+ENG: Sure. Was there a problem? || أكيد. كان فيه مشكلة؟
+QS: First, the good part: your summary sheet was very clear, and the consultant commented on it. || الأول، الجزء الكويس: شيت الملخص بتاعك كان واضح جدًا، والاستشاري علّق عليه.
+ENG: Thanks, that's nice to hear. || شكرًا، ده حلو أسمعه.
+QS: The issue is item eighteen. The quantity included a stockpile that was already paid last month. || المشكلة في البند تمنتاشر. الكمية كان فيها كومة اتدفعت خلاص الشهر اللي فات.
+ENG: Oh no. So we claimed it twice. || يا خبر. يعني طالبنا بيها مرتين.
+QS: Yes. The consultant caught it, which affects our credibility. || أيوه. الاستشاري لقطها، وده بيأثر على مصداقيتنا.
+ENG: I'm really sorry. How do I avoid it next time? || أنا آسف جدًا. أتجنبها إزاي المرة الجاية؟
+QS: Keep a cumulative register: previous quantity, this month, and total to date, for every item. || اعمل سجل تراكمي: الكمية السابقة، الشهر ده، والإجمالي لحد دلوقتي، لكل بند.
+ENG: That makes sense. I'll set it up this week. || ده منطقي. هعمله الأسبوع ده.
+QS: Great. Everyone makes mistakes. What matters is that we build a system so it doesn't happen again. || عظيم. الكل بيغلط. المهم إننا نعمل نظام عشان ماتتكررش.
+ENG: Thanks for explaining it this way. || شكرًا إنك شرحتها بالطريقة دي.
+P: give you some feedback = أديك شوية ملاحظات
+P: First, the good part = الأول، الجزء الكويس
+P: which affects our credibility = وده بيأثر على مصداقيتنا
+P: a cumulative register = سجل تراكمي
+P: What matters is = المهم إن
+H: feedback = FEED-bak — فِيدْباك
+H: credibility = kred-i-BIL-i-tee — كْرِدِبِلِتِي
+H: cumulative = KYOO-myu-la-tiv — كْيُومْيُولَتِف
+R: I would like to give you some feedback on the payment application.
+R: First, the good part: your summary sheet was very clear.
+R: The quantity included a stockpile that was already paid.
+R: Keep a cumulative register for every item.
+R: What matters is that we build a system so it does not happen again.
+T: Give constructive feedback starting with something positive. | ادي ملاحظات بنّاءة تبدأ بحاجة إيجابية. | I'd like to give you some feedback. First, the good part: your summary sheet was very clear. The issue is item eighteen: it included a stockpile already paid last month, so we claimed it twice. | feedback; the good part; the issue
+T: Help them build a system to avoid repeating the mistake. | ساعده يعمل نظام يمنع تكرار الغلطة. | Keep a cumulative register for every item: previous quantity, this month and total to date. Everyone makes mistakes; what matters is that we build a system so it doesn't happen again. | cumulative register; everyone makes mistakes; system
+
+# B2-31 | Clearing up an email misunderstanding | توضيح سوء فهم في إيميل
+ENG Nadia, consultant's QS, bf_isabella
+SCENE: الاستشارية فهمت إيميلك غلط وافتكرت إنكم موافقين على خصم، وإنت بتوضح.
+ENG: Hassan, your email says you accept the deduction on item nine. || حسن، الإيميل بتاعك بيقول إنكم موافقين على الخصم في البند تسعة.
+QS: I think there's been a misunderstanding. Could you read me the sentence? || أعتقد فيه سوء فهم. ممكن تقريلي الجملة؟
+ENG: It says: we note the deduction on item nine. || بتقول: نحيط علمًا بالخصم في البند تسعة.
+QS: I see why it was confusing. By "note" I meant we received it, not that we agree with it. || فاهم ليه كانت ملخبطة. قصدي بكلمة "نحيط علمًا" إننا استلمناه، مش إننا موافقين عليه.
+ENG: So you don't accept it? || يعني مش موافقين؟
+QS: No. We disagree with the deduction, for the reasons in our earlier letter. || لأ. إحنا معترضين على الخصم، للأسباب اللي في جوابنا السابق.
+ENG: Then please send a clear correction, so it's on record. || يبقى ابعت تصحيح واضح لو سمحتي، عشان يتسجل.
+QS: I'll do it today. My apologies for the confusion. || هعمله النهاردة. آسف على اللخبطة.
+ENG: No problem. It happens. || مفيش مشكلة. بتحصل.
+QS: Lesson learned. In future, I'll write "we do not accept" when that's what we mean. || اتعلمت الدرس. بعد كده هكتب "لا نقبل" لما يكون ده قصدي.
+ENG: Clear wording saves everyone time. || الكلام الواضح بيوفر وقت الكل.
+QS: Absolutely. You'll have the correction within the hour. || أكيد. التصحيح هيوصلك خلال ساعة.
+P: there's been a misunderstanding = فيه سوء فهم
+P: I see why it was confusing = فاهم ليه كانت ملخبطة
+P: By ... I meant = قصدي بـ ...
+P: so it's on record = عشان يتسجل
+P: My apologies for the confusion = آسف على اللخبطة
+H: misunderstanding = mis-un-der-STAN-ding — مِسْأَنْدَرْسْتانْدِنْج
+H: confusing = kon-FYOO-zing — كُنْفْيُوزِنْج
+H: apologies = a-POL-o-jeez — أپُولُوجِيز
+R: I think there has been a misunderstanding.
+R: By note I meant we received it, not that we agree.
+R: We disagree with the deduction for the reasons in our letter.
+R: I will send a clear correction today.
+R: In future, I will write we do not accept when I mean it.
+T: Clear up a misunderstanding about your position. | وضّح سوء فهم بخصوص موقفك. | I think there's been a misunderstanding. By "note" I meant we received the deduction, not that we agree with it. We disagree, for the reasons in our earlier letter. | misunderstanding; I meant; disagree
+T: Correct it formally and say what you will do differently. | صححه رسمي وقول هتعمل إيه مختلف. | I'll send a clear correction today, so it's on record. My apologies for the confusion. In future, I'll write "we do not accept" when that's what we mean. | correction; on record; in future
+
+# B2-32 | Presenting lessons learned | عرض الدروس المستفادة
+ENG Khaled, project manager, bm_daniel
+SCENE: في جلسة الدروس المستفادة بعد خلوص مرحلة، بتعرض أهم 3 دروس.
+ENG: Hassan, what are the key lessons from Phase One? || حسن، إيه أهم الدروس من المرحلة الأولى؟
+QS: I'd highlight three. The first is about surveys. || هركز على تلاتة. الأول عن الرفع المساحي.
+ENG: Go ahead. || اتفضل.
+QS: We lost time and money when original ground surveys weren't signed before work started. In Phase Two, no work starts without a signed survey. || خسرنا وقت وفلوس لما رفوعات الأرض الطبيعية ماكانتش متوقعة قبل الشغل. في المرحلة التانية، مفيش شغل يبدأ من غير رفع موقّع.
+ENG: Agreed. The second? || متفقين. التاني؟
+QS: Notices. When we sent notices on time, our claims were accepted much more easily. || الإخطارات. لما بعتنا الإخطارات في وقتها، مطالباتنا اتقبلت بسهولة أكتر بكتير.
+ENG: And the third? || والتالت؟
+QS: Coordination. Most of our rework came from interfaces with other teams, not from our own work. || التنسيق. معظم إعادة الشغل جت من التداخل مع فرق تانية، مش من شغلنا إحنا.
+ENG: How do we fix that? || نصلح ده إزاي؟
+QS: A weekly interface meeting with a shared look-ahead plan. || اجتماع تنسيق أسبوعي بخطة قصيرة المدى مشتركة.
+ENG: Excellent. Let's turn those three into rules for Phase Two. || ممتاز. خلينا نحول الثلاثة دول لقواعد للمرحلة التانية.
+QS: I'll write them up as a one-page checklist for every engineer. || هكتبهم في قايمة مراجعة صفحة واحدة لكل مهندس.
+P: I'd highlight three = هركز على تلاتة
+P: no work starts without = مفيش شغل يبدأ من غير
+P: much more easily = بسهولة أكتر بكتير
+P: a shared look-ahead plan = خطة قصيرة المدى مشتركة
+P: turn those into rules = نحولهم لقواعد
+H: highlight = HY-lyte — هايْلايْت
+H: interfaces = IN-ter-fay-siz — إنْتَرْفِيسِز
+H: checklist = CHEK-list — تْشِكْلِسْت
+R: I would highlight three key lessons from Phase One.
+R: In Phase Two, no work starts without a signed survey.
+R: When we sent notices on time, our claims were accepted more easily.
+R: Most of our rework came from interfaces with other teams.
+R: I will write them up as a one-page checklist.
+T: Present three lessons learned clearly. | اعرض تلات دروس مستفادة بوضوح. | I'd highlight three lessons. First, no work should start without a signed original ground survey. Second, notices sent on time make claims much easier. Third, most rework came from interfaces with other teams. | highlight; first; second
+T: Turn the lessons into practical rules. | حوّل الدروس لقواعد عملية. | For Phase Two, I suggest we hold a weekly interface meeting with a shared look-ahead plan, and I'll write the lessons up as a one-page checklist for every engineer. | Phase Two; interface meeting; checklist
+
+# B2-33 | Interview: why should we hire you? | مقابلة: ليه نعيّنك؟
+ENG Laura, HR interviewer, af_sarah
+SCENE: مقابلة لوظيفة مدير كميات، والسؤال الأصعب: ليه إنت؟
+ENG: This is a QS Manager role. Why should we hire you? || دي وظيفة مدير كميات. ليه نعيّنك؟
+QS: Because I combine two skill sets that are rarely found together: quantity surveying and field surveying. || لأني بجمع بين مجموعتين مهارات نادرًا ما بيتلاقوا مع بعض: حساب الكميات والمساحة الميدانية.
+ENG: Why does that matter for a QS Manager? || ليه ده مهم لمدير كميات؟
+QS: Because in earthworks, quantities depend on surveys. I can check the data myself, not just the final numbers. || لأن في الحفريات، الكميات بتعتمد على الرفع المساحي. أقدر أراجع البيانات بنفسي، مش بس الأرقام النهائية.
+ENG: Can you give an example? || ممكن تدي مثال؟
+QS: On my current project, I found an error in the original ground data that would have cost us a significant amount. || في مشروعي الحالي، لقيت غلط في بيانات الأرض الطبيعية كان هيكلفنا مبلغ كبير.
+ENG: What about leading a team? || وقيادة فريق؟
+QS: I train junior QSs to check, not assume, and I build simple registers so errors are caught early. || بدرب مهندسي الكميات المبتدئين يراجعوا مش يفترضوا، وبعمل سجلات بسيطة عشان الأخطاء تتمسك بدري.
+ENG: What's your biggest weakness? || إيه أكبر نقطة ضعف عندك؟
+QS: I used to do too much myself. Now I delegate more and review the critical items. || كنت بعمل حاجات كتير بنفسي. دلوقتي بفوّض أكتر وبراجع البنود الحرجة.
+ENG: Thank you, Hassan. That was a strong answer. || شكرًا يا حسن. دي كانت إجابة قوية.
+QS: Thank you. I'd welcome the chance to bring this to your projects. || شكرًا. يسعدني تبقى عندي الفرصة أقدم ده لمشاريعكم.
+P: Why should we hire you? = ليه نعيّنك؟
+P: rarely found together = نادرًا ما بيتلاقوا مع بعض
+P: not just the final numbers = مش بس الأرقام النهائية
+P: I used to = كنت بـ
+P: I delegate more = بفوّض أكتر
+H: combine = kom-BYNE — كُمْبايْن
+H: weakness = WEEK-nis — وِيكْنِس
+H: delegate = DEL-i-gayt — دِلِجِيت
+R: I combine quantity surveying and field surveying.
+R: In earthworks, quantities depend on surveys.
+R: I train junior QSs to check, not assume.
+R: I used to do too much myself, now I delegate more.
+R: I would welcome the chance to bring this to your projects.
+T: Answer "Why should we hire you?" with your unique strength. | جاوب على "ليه نعيّنك؟" بنقطة قوتك المميزة. | I combine two skill sets that are rarely found together: quantity surveying and field surveying. In earthworks, quantities depend on surveys, so I can check the data myself, not just the final numbers. | combine; rarely found together; check the data
+T: Answer the weakness question honestly and positively. | جاوب على سؤال نقطة الضعف بصراحة وإيجابية. | I used to do too much myself. Now I delegate more, train the team to check instead of assume, and I personally review the critical items. | used to; delegate; critical items
+
+# B2-34 | Updating the baseline programme | تحديث البرنامج الأساسي
+ENG Chris, planning engineer, am_eric
+SCENE: مهندس التخطيط عايز يحدّث البرنامج، وإنت بتنبّه لفرق مهم بين التحديث وتغيير البرنامج الأساسي.
+ENG: Hassan, I'm thinking of updating the baseline to show the new dates for Zone D. || حسن، بفكر أحدّث البرنامج الأساسي عشان يوضح التواريخ الجديدة لمنطقة D.
+QS: Careful. If we change the baseline, we may lose the comparison we need for our delay claim. || خلي بالك. لو غيرنا البرنامج الأساسي، ممكن نخسر المقارنة اللي محتاجينها لمطالبة التأخير.
+ENG: Why? The dates have clearly changed. || ليه؟ التواريخ اتغيرت بوضوح.
+QS: The baseline shows what we planned. The update shows what actually happened. We need both. || البرنامج الأساسي بيوضح اللي خططناه. والتحديث بيوضح اللي حصل فعلًا. محتاجين الاتنين.
+ENG: So I should produce a progress update instead? || يعني أعمل تحديث تقدم بدل كده؟
+QS: Exactly. Keep the approved baseline, and show the actual dates and forecasts in the monthly update. || بالظبط. حافظ على البرنامج الأساسي المعتمد، ووضّح التواريخ الفعلية والتوقعات في التحديث الشهري.
+ENG: And if the engineer grants an extension of time? || ولو المهندس وافق على تمديد المدة؟
+QS: Then we revise the baseline formally, with the engineer's approval, and we archive the old one. || ساعتها نعدّل البرنامج الأساسي رسمي، بموافقة المهندس، ونأرشف القديم.
+ENG: Got it. I'll save the current version as a reference before anything else. || فهمت. هحفظ النسخة الحالية كمرجع قبل أي حاجة.
+QS: Good idea. Label every version with a date and a status. || فكرة كويسة. اكتب على كل نسخة التاريخ والحالة.
+ENG: Thanks. I almost made a costly mistake. || شكرًا. كنت هعمل غلطة مكلفة.
+QS: That's why we talk before we change things. || عشان كده بنتكلم قبل ما نغيّر حاجات.
+P: Careful. = خلي بالك.
+P: what we planned vs what actually happened = اللي خططناه مقابل اللي حصل فعلًا
+P: We need both = محتاجين الاتنين
+P: revise the baseline formally = نعدّل البرنامج الأساسي رسمي
+P: a costly mistake = غلطة مكلفة
+H: baseline = BAYS-lyne — بِيسْلايْن
+H: archive = AR-kyve — أرْكايْف
+H: costly = KOST-lee — كُوسْتْلِي
+R: If we change the baseline, we may lose the comparison.
+R: The baseline shows what we planned.
+R: The update shows what actually happened.
+R: We revise the baseline only with the engineer's approval.
+R: Label every version with a date and a status.
+T: Explain the difference between a baseline and a progress update. | اشرح الفرق بين البرنامج الأساسي وتحديث التقدم. | The baseline shows what we planned, and the progress update shows what actually happened. We need both, because the comparison supports our delay claim. | baseline; actually happened; comparison
+T: Explain when the baseline can be changed. | اشرح إمتى ينفع نغيّر البرنامج الأساسي. | We keep the approved baseline and show actual dates in the monthly update. We revise the baseline only formally, with the engineer's approval, for example after an extension of time, and we archive the old version. | approved baseline; formally; extension of time
+
+# B2-35 | Settling disputed quantities | تسوية كميات مختلف عليها
+ENG Nadia, consultant's QS, bf_isabella
+SCENE: اجتماع لتسوية كل البنود المختلف عليها قبل الحساب الختامي للمرحلة.
+ENG: We have seven disputed items. Shall we start with the largest? || عندنا سبع بنود مختلف عليها. نبدأ بالأكبر؟
+QS: I'd suggest starting with the ones closest to agreement. It builds momentum. || أقترح نبدأ بالأقرب للاتفاق. ده بيعمل زخم.
+ENG: Fine. Items three and five differ only by small amounts. || ماشي. البنود تلاتة وخمسة الفرق فيهم بسيط.
+QS: Then let's split the difference on both and close them. || يبقى نقسم الفرق في الاتنين ونقفلهم.
+ENG: Agreed. Now item nine, the unsuitable material. || متفقين. دلوقتي البند تسعة، المادة غير الصالحة.
+QS: For item nine, we have the engineer's signed inspection. I'm not able to compromise on that one. || في البند تسعة، معانا معاينة المهندس الموقعة. مقدرش أتنازل في ده.
+ENG: I accept the material, but I still question the depth. || أنا قابلة المادة، بس لسه عندي تساؤل عن العمق.
+QS: Then let's agree the principle today, and re-check the depth with a joint survey. || يبقى نتفق على المبدأ النهاردة، ونعيد مراجعة العمق برفع مشترك.
+ENG: That works. What about the standby claims? || ده ينفع. ومطالبات الانتظار؟
+QS: Those need more time. Can we park them and set a separate meeting? || دي محتاجة وقت أكتر. ممكن نأجلها ونعمل اجتماع لوحده؟
+ENG: Yes. So five items closed or agreed in principle today. || أيوه. يبقى خمس بنود اتقفلت أو اتفقنا على مبدئها النهاردة.
+QS: That's real progress. I'll send the summary for signature this afternoon. || ده تقدم حقيقي. هبعت الملخص للتوقيع بعد الضهر.
+P: closest to agreement = الأقرب للاتفاق
+P: It builds momentum = ده بيعمل زخم
+P: split the difference = نقسم الفرق
+P: I'm not able to compromise on that one = مقدرش أتنازل في ده
+P: park them = نأجلها (نركنها مؤقتًا)
+H: momentum = moh-MEN-tum — مُومِنْتَم
+H: principle = PRIN-si-pul — پْرِنْسِپُل
+H: signature = SIG-na-cher — سِجْنَتْشَر
+R: I would suggest starting with the ones closest to agreement.
+R: Let's split the difference on both and close them.
+R: I am not able to compromise on that one.
+R: Let's agree the principle today and re-check the depth.
+R: Can we park them and set a separate meeting?
+T: Suggest a negotiation strategy for several disputed items. | اقترح استراتيجية تفاوض لبنود كتير مختلف عليها. | I'd suggest starting with the items closest to agreement, because it builds momentum. For items with small differences, let's split the difference and close them. | closest to agreement; momentum; split the difference
+T: Hold firm on one item and park another politely. | اثبت على بند وأجّل بند تاني بأدب. | For item nine we have the engineer's signed inspection, so I'm not able to compromise on that one. The standby claims need more time, so can we park them and set a separate meeting? | not able to compromise; signed inspection; park them
+
+# B2-36 | Monthly meeting simulation (review) | محاكاة الاجتماع الشهري (مراجعة)
+ENG Mr. Grant, employer's representative, bm_daniel
+SCENE: مراجعة المستوى: اجتماع شهري كامل مع ممثل المالك، فيه تقدم ومخاطر وتفاوض.
+ENG: Let's begin. Hassan, where do we stand? || خلينا نبدأ. حسن، إحنا فين؟
+QS: Overall progress is around seventy percent, and we've recovered one of the two weeks of delay. || التقدم العام حوالي سبعين في المية، وعوّضنا أسبوع من أسبوعين التأخير.
+ENG: Good. How did you recover it? || كويس. عوضتوه إزاي؟
+QS: By fixing the weighbridge queue and the layer thickness problem. No extra equipment was needed. || بحل طابور الميزان ومشكلة سُمك الطبقة. ماحتجناش معدات زيادة.
+ENG: Impressive. What's still at risk? || ممتاز. إيه اللي لسه في خطر؟
+QS: Zone H. The rock is slowing us down, and the engineer hasn't responded to our notice yet. || منطقة H. الصخر مبطّأنا، والمهندس لسه مارداش على إخطارنا.
+ENG: I'll follow that up personally. What else do you need from us? || هتابع ده بنفسي. محتاجين مننا إيه تاني؟
+QS: Approval of the treated material. It would save around three weeks and reduce imported fill. || اعتماد المادة المعالجة. هيوفر حوالي تلات أسابيع ويقلل الردم المستورد.
+ENG: The design team has some doubts about long-term settlement. || فريق التصميم عنده شكوك عن الهبوط على المدى الطويل.
+QS: We can address that. We'll propose a monitoring programme with settlement plates for the first year. || نقدر نعالج ده. هنقترح برنامج مراقبة بألواح هبوط للسنة الأولى.
+ENG: That could convince them. Send it this week. || ده ممكن يقنعهم. ابعته الأسبوع ده.
+QS: Will do. To summarise: a decision on the rock notice, and on the treated material, ideally before month end. || حاضر. للتلخيص: قرار في إخطار الصخر، وفي المادة المعالجة، يا ريت قبل آخر الشهر.
+P: where do we stand? = إحنا فين؟
+P: No extra equipment was needed = ماحتجناش معدات زيادة
+P: What's still at risk? = إيه اللي لسه في خطر؟
+P: I'll follow that up personally = هتابع ده بنفسي
+P: We can address that = نقدر نعالج ده
+H: impressive = im-PRES-iv — إمْپْرِسِف
+H: settlement = SET-ul-ment — سِتِلْمِنْت
+H: ideally = eye-DEE-a-lee — آيدِيَلِي
+R: Overall progress is around seventy percent.
+R: We recovered one week without extra equipment.
+R: The engineer has not responded to our notice yet.
+R: We will propose a monitoring programme with settlement plates.
+R: Ideally, we need both decisions before the end of the month.
+T: Give a confident status update in a client meeting. | ادي تحديث حالة بثقة في اجتماع مع المالك. | Overall progress is around seventy percent, and we've recovered one of the two weeks of delay by fixing the weighbridge queue and the layer thickness, without extra equipment. | overall progress; recovered; without extra equipment
+T: Address a client's doubt and close with clear requests. | عالج شك عند المالك واختم بطلبات واضحة. | We can address the settlement concern with a monitoring programme and settlement plates for the first year. To summarise, we need a decision on the rock notice and on the treated material, ideally before month end. | address; monitoring programme; to summarise

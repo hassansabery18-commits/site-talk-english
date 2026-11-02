@@ -1,0 +1,295 @@
+## TEST B1 1 | Level B1 test — A busy morning
+ENG Mark, site engineer, bm_lewis
+QS: Good morning, Mark. Is everything ready for today? || صباح الخير يا مارك. كل حاجة جاهزة للنهاردة؟
+ENG: Almost. Two excavators are working in Zone E, but the third one is in the workshop. || تقريبًا. حفارين شغالين في منطقة E، بس التالت في الورشة.
+QS: What's wrong with it? || فيه إيه؟
+ENG: A problem with the engine. The mechanic says it will be ready tomorrow. || مشكلة في الموتور. الميكانيكي بيقول هيجهز بكرة.
+QS: OK. How many trucks do we have today? || تمام. عندنا كام عربية النهاردة؟
+ENG: Ten trucks. They started at six thirty. || عشر عربيات. بدأوا ستة ونص.
+QS: Good. The consultant is coming at eleven to inspect the second layer in Zone C. || كويس. الاستشاري جاي الساعة حداشر يعاين الطبقة التانية في منطقة C.
+ENG: Did the density tests pass? || اختبارات الكثافة نجحت؟
+QS: Yes, all of them passed yesterday afternoon. || أيوه، كلها نجحت امبارح بعد الضهر.
+ENG: Great. And the water truck? || عظيم. وعربية المياه؟
+QS: It's late again. I'll call the supplier now. || متأخرة تاني. هكلّم المورد دلوقتي.
+ENG: Please also send the daily report before five. || وابعت التقرير اليومي قبل خمسة كمان لو سمحت.
+Q: How many excavators are working today? | One | Two | Three | Four | b
+Q: Why is the third excavator not working? | It has no driver | It has an engine problem | It has no fuel | It is in another zone | b
+Q: When will the excavator be ready? | Today | Tomorrow | Next week | After lunch | b
+Q: How many trucks are working? | Six | Eight | Ten | Twelve | c
+Q: What time did the trucks start? | Six o'clock | Six thirty | Seven o'clock | Seven thirty | b
+Q: What time is the consultant coming? | Nine | Ten | Eleven | One | c
+Q: What will the consultant inspect? | The first layer in Zone C | The second layer in Zone C | The cut in Zone E | The haul road | b
+Q: When did the density tests pass? | This morning | Yesterday morning | Yesterday afternoon | Last week | c
+Q: What is the problem with the water truck? | It is broken | It is late | It is too small | It has no driver | b
+Q: When must the daily report be sent? | Before three | Before four | Before five | Before six | c
+V: "We need a written instruction" means: | We need a phone call | We need it on paper or by email | We need a meeting | We need more trucks | b
+V: "within tolerance" means: | Too high | Inside the allowed limits | Not checked yet | Very low | b
+V: "Let me show you around" is used when you: | Say goodbye | Give a tour of the place | Ask for money | Report a problem | b
+V: "The trucks need space" means the trucks need: | More fuel | More room to move | New drivers | More tickets | b
+V: "I'll keep a record" means I will: | Forget it | Write it down to keep | Delete it | Sing it | b
+R: The consultant is coming at eleven to inspect the second layer.
+R: All the density tests passed yesterday afternoon.
+R: The water truck is late again, so I will call the supplier.
+R: Please send the daily report before five o'clock.
+R: We need a written instruction before we start the extra work.
+T: Give your manager a short report about today's work, problems and plan. | ادي مديرك تقرير قصير عن شغل النهاردة والمشاكل والخطة. | Today two excavators are working in Zone E, and the third one has an engine problem. We have ten trucks. The tests passed, and the consultant will inspect the layer at eleven. | excavators; trucks; inspect
+T: Call a supplier about a late delivery and ask when it will arrive. | كلّم مورد عن توريد متأخر واسأل هيوصل إمتى. | Hello, this is Hassan from the site. The water truck is late again. The soil is too dry, so we need it today. When will it arrive? | late; we need it today; when will it arrive
+
+## TEST B1 2 | Level B1 test — The joint measurement
+ENG Nadia, consultant's QS, bf_isabella
+QS: Hello Nadia, thank you for coming to the site. || أهلًا يا نادية، شكرًا إنك جيتي الموقع.
+ENG: No problem. Which area are we measuring today? || مفيش مشكلة. هنقيس أنهي منطقة النهاردة؟
+QS: The cut in Zone D. We finished it on Sunday. || القطع في منطقة D. خلّصناه يوم الأحد.
+ENG: Is the survey data ready? || بيانات الرفع جاهزة؟
+QS: Yes. Ali's team surveyed it on Monday morning. || أيوه. فريق علي رفعها يوم الاتنين الصبح.
+ENG: Do you have the original ground survey too? || معاك رفع الأرض الطبيعية كمان؟
+QS: Yes, it's signed by your surveyor. Here is the copy. || أيوه، موقّع من المساح بتاعكم. دي النسخة.
+ENG: Good. Did you remove any unsuitable material in this zone? || كويس. شلتوا أي مواد غير صالحة في المنطقة دي؟
+QS: Yes, a small area near the south gate. David approved it last week. || أيوه، منطقة صغيرة جنب البوابة الجنوبية. ديفيد وافق عليها الأسبوع اللي فات.
+ENG: Then we will measure it as a separate item. || يبقى هنقيسها كبند لوحده.
+QS: That's fine. When can you send me your numbers? || ماشي. تقدري تبعتيلي أرقامك إمتى؟
+ENG: By Thursday, before the payment application. || قبل الخميس، قبل المستخلص.
+Q: Where are they measuring today? | Zone B | Zone C | Zone D | Zone E | c
+Q: When was the cut finished? | Saturday | Sunday | Monday | Thursday | b
+Q: Who surveyed the area? | Nadia's team | Ali's team | David's team | Mark's team | b
+Q: When was the area surveyed? | Sunday morning | Monday morning | Monday evening | Tuesday morning | b
+Q: Who signed the original ground survey? | Hassan | The consultant's surveyor | The project manager | The foreman | b
+Q: Where was the unsuitable material? | Near the north gate | Near the south gate | Near the office | Near the road | b
+Q: Who approved the removal? | Nadia | Ali | David | Hassan | c
+Q: When was the removal approved? | Yesterday | This week | Last week | Last month | c
+Q: How will the unsuitable material be measured? | It will not be measured | As a separate item | Together with the fill | By the gate checker | b
+Q: When will Nadia send her numbers? | By Monday | By Wednesday | By Thursday | By Sunday | c
+V: "a joint measurement" is a measurement done: | By one person | By both parties together | At night | Without a survey | b
+V: "unsuitable material" is material that: | Cannot be used for the work | Is very good | Is free | Is new | a
+V: "Could you say that again more slowly?" is used to: | Say thank you | Ask someone to repeat | Say goodbye | Give an order | b
+V: "Not yet" means: | Never | Already finished | Still not done | Very fast | c
+V: "Meanwhile" means: | After that | At the same time | Before that | Never | b
+R: We finished the cut in Zone D on Sunday.
+R: The original ground survey is signed by your surveyor.
+R: David approved the removal last week.
+R: We will measure it as a separate item.
+R: Can you send me your numbers by Thursday?
+T: Explain to the consultant what evidence you have for the measurement. | اشرح للاستشاري عندك أدلة إيه للقياس. | We finished the cut in Zone D on Sunday. Ali's team surveyed it on Monday, and the original ground survey is signed by your surveyor. Here is the copy. | survey; signed; original ground
+T: Tell the consultant about extra work that was approved. | قول للاستشاري عن شغل إضافي اتوافق عليه. | We removed some unsuitable material in a small area near the south gate. David approved it last week, so please measure it as a separate item. | unsuitable material; approved; separate item
+
+## TEST B1+ 1 | Level B1+ test — A disagreement about delay
+ENG David, consultant engineer, bm_george
+ENG: Hassan, your monthly report says Zone F is delayed by ten days. Why so much? || حسن، تقريركم الشهري بيقول منطقة F متأخرة عشر أيام. ليه كده كتير؟
+QS: Mainly because of the revised levels. The new drawing came three weeks late. || أساسًا بسبب المناسيب المعدّلة. الرسمة الجديدة جت متأخرة تلات أسابيع.
+ENG: But you could work in other areas while you waited. || بس كان ممكن تشتغلوا في مناطق تانية وإنتو مستنيين.
+QS: We did. We moved two excavators to Zone G, but Zone F is on the critical path. || عملنا كده. نقلنا حفارين لمنطقة G، بس منطقة F على المسار الحرج.
+ENG: I see. Was there any delay from your side? || فاهم. فيه أي تأخير من ناحيتكم؟
+QS: Yes, about two days because of a broken roller. I showed it separately in the report. || أيوه، حوالي يومين بسبب هراس عطلان. وضّحته لوحده في التقرير.
+ENG: Thank you for being honest. Did you send a notice about the drawing? || شكرًا على صراحتك. بعتّوا إخطار بخصوص الرسمة؟
+QS: Yes, on the fifth, by letter and email. || أيوه، يوم خمسة، بجواب وإيميل.
+ENG: Then I'll review your claim when you submit it. || يبقى هراجع مطالبتكم لما تقدموها.
+QS: We'll submit it next week, with the programme and the daily reports. || هنقدمها الأسبوع الجاي، بالبرنامج والتقارير اليومية.
+ENG: Please make sure the dates match the drawing register. || اتأكد إن التواريخ مطابقة لسجل الرسومات لو سمحت.
+QS: Of course. I'll check every date before we send it. || طبعًا. هراجع كل تاريخ قبل ما نبعته.
+Q: How many days is Zone F delayed? | Two | Five | Ten | Twenty | c
+Q: What is the main cause of the delay? | Rain | The revised levels | A broken roller | Late trucks | b
+Q: How late did the new drawing come? | One week | Two weeks | Three weeks | Ten days | c
+Q: Where did they move two excavators? | Zone E | Zone F | Zone G | Zone H | c
+Q: Why couldn't the other areas solve the problem? | Zone F is on the critical path | There were no trucks | It was raining | The consultant said no | a
+Q: How long was the delay from the contractor's side? | About two days | About five days | About ten days | No delay | a
+Q: What caused the contractor's delay? | A broken excavator | A broken roller | No water | A sandstorm | b
+Q: When was the notice sent? | On the first | On the fifth | On the tenth | It was not sent | b
+Q: When will the claim be submitted? | Today | Tomorrow | Next week | Next month | c
+Q: What must match the drawing register? | The quantities | The dates | The rates | The names | b
+V: "on the critical path" means the activity: | Is not important | Directly affects the completion date | Is finished | Is very cheap | b
+V: "I showed it separately" means I: | Hid it | Presented it on its own | Forgot it | Deleted it | b
+V: "contemporary records" are records made: | Years later | At the time of the event | By the client only | Without dates | b
+V: "That's a fair point" means: | I disagree completely | You have a reasonable argument | That is too expensive | I don't understand | b
+V: "I can't promise anything" means: | I guarantee it | I cannot be sure it will happen | I refuse to talk | It is already done | b
+R: The new drawing came three weeks late.
+R: We moved two excavators, but Zone F is on the critical path.
+R: I showed our own delay separately in the report.
+R: We sent the notice on the fifth, by letter and email.
+R: I will check every date before we send it.
+T: Explain the cause of a delay and what you did about it. | اشرح سبب تأخير وعملت إيه بخصوصه. | Zone F is delayed mainly because the revised drawing came three weeks late. We moved two excavators to other areas, but Zone F is on the critical path, so the delay remains. | revised drawing; critical path; delay
+T: Be honest about your own delay and explain your records. | كن صريح عن تأخيركم واشرح سجلاتكم. | There was also about two days of delay from our side, because of a broken roller. I showed it separately in the report, and we have daily reports and a notice sent on time. | from our side; separately; notice
+
+## TEST B1+ 2 | Level B1+ test — Negotiating with a supplier
+ENG Hamid, equipment rental manager, am_adam
+ENG: Hassan, I've got your request for two more rollers. || حسن، وصلني طلبك لهراسين زيادة.
+QS: Yes, for six weeks, starting next Sunday. Can you do it? || أيوه، لمدة ست أسابيع، من الأحد الجاي. تقدر؟
+ENG: I can, but the rate is higher this month because demand is high. || أقدر، بس السعر أعلى الشهر ده عشان الطلب عالي.
+QS: How much higher? || أعلى بقد إيه؟
+ENG: About fifteen percent more than your current rollers. || حوالي خمستاشر في المية أكتر من الهراسات الحالية.
+QS: That's too much. We've been a good customer for two years. || ده كتير. إحنا عميل كويس بقالنا سنتين.
+ENG: I know, and I value that. What do you suggest? || عارف، وأنا مقدّر ده. تقترح إيه؟
+QS: The same rate as our current rollers, and we extend the contract by one more month. || نفس سعر الهراسات الحالية، ونمدد العقد شهر كمان.
+ENG: Same rate is difficult. I can do five percent more. || نفس السعر صعب. أقدر أعمل خمسة في المية زيادة.
+QS: Five percent with the operators included, and we have a deal. || خمسة في المية والسواقين معاها، ويبقى اتفقنا.
+ENG: Fine. I'll send the revised quotation this afternoon. || ماشي. هبعت عرض السعر المعدّل بعد الضهر.
+QS: Thank you. Please include the delivery date. || شكرًا. حط تاريخ التوريد لو سمحت.
+Q: How many extra rollers does Hassan need? | One | Two | Three | Four | b
+Q: For how long does he need them? | Two weeks | Four weeks | Six weeks | Two months | c
+Q: When should the hire start? | Today | Next Sunday | Next month | Next Thursday | b
+Q: Why is the rate higher this month? | Fuel is expensive | Demand is high | The rollers are new | The drivers are expensive | b
+Q: How much higher is the first price? | Five percent | Ten percent | Fifteen percent | Twenty percent | c
+Q: How long have they been a customer? | One year | Two years | Three years | Six months | b
+Q: What does Hassan offer in return for the same rate? | Faster payment | Extending the contract by one month | More trucks | A bigger deposit | b
+Q: What increase does Hamid finally offer? | Zero | Five percent | Ten percent | Fifteen percent | b
+Q: What extra condition does Hassan ask for? | Free fuel | Operators included | Free delivery | A discount next year | b
+Q: What must the quotation include? | The delivery date | The roller colour | The driver names | The payment history | a
+V: "we have a deal" means: | We disagree | We have agreed | We need to wait | We will cancel | b
+V: "What did you have in mind?" means: | What is your idea or offer? | Are you tired? | Did you forget? | Where are you? | a
+V: "meet me halfway" means: | Visit me | Accept a compromise | Pay everything | Stop talking | b
+V: "I value that" means: | I sell it | I appreciate it | I don't need it | I measured it | b
+V: "a revised quotation" is: | A new corrected price offer | A complaint | An invoice | A drawing | a
+R: We need two more rollers for six weeks.
+R: That is too much, we have been a good customer for two years.
+R: What do you suggest to solve this?
+R: Five percent with the operators included, and we have a deal.
+R: Please include the delivery date in the quotation.
+T: Respond to a supplier who wants a higher price. | رد على مورد عايز سعر أعلى. | Fifteen percent is too much. We've been a good customer for two years. What if we keep the same rate and extend the contract by one more month? | too much; good customer; what if
+T: Close a deal with a clear condition. | اقفل اتفاق بشرط واضح. | Five percent more, with the operators included, and we have a deal. Please send the revised quotation this afternoon with the delivery date. | we have a deal; operators included; quotation
+
+## TEST B2 1 | Level B2 test — The rock claim meeting
+ENG David, consultant engineer, bm_george
+ENG: Hassan, I've read your notice about the rock in Zone H. Let's talk about the next steps. || حسن، قريت إخطاركم عن الصخر في منطقة H. خلينا نتكلم عن الخطوات الجاية.
+QS: Thank you. We'd like to agree the extent of the rock first, before we discuss time and cost. || شكرًا. حابين نتفق على امتداد الصخر الأول، قبل ما نتكلم عن الوقت والتكلفة.
+ENG: Agreed. My surveyor recorded it with yours last Tuesday. It covers roughly two-thirds of the zone. || متفقين. المساح بتاعي سجّله مع بتاعكم التلات اللي فات. بيغطي حوالي تلتين المنطقة.
+QS: That matches our records. The question now is whether it was foreseeable. || ده مطابق لسجلاتنا. السؤال دلوقتي هل كان ممكن توقعه.
+ENG: The employer's view is that a careful contractor would have investigated further during the tender. || رأي المالك إن مقاول حريص كان هيفحص أكتر في مدة المناقصة.
+QS: I understand that view, but the tender period was four weeks, and the nearest borehole showed only sand. || فاهم الرأي ده، بس مدة المناقصة كانت أربع أسابيع، وأقرب جسة كانت رمل بس.
+ENG: That's a reasonable point. What about mitigation? || دي نقطة معقولة. وتخفيف الأثر؟
+QS: We moved the excavators to Zone G within a day and brought in a hydraulic breaker within a week. || نقلنا الحفارات لمنطقة G خلال يوم وجبنا كسارة هيدروليك خلال أسبوع.
+ENG: Good. I'll need your daily production records to assess the cost. || كويس. هحتاج سجلات الإنتاج اليومية بتاعتكم عشان أقيّم التكلفة.
+QS: You'll have them on Sunday, together with the breaker hire invoices. || هتوصلك يوم الأحد، مع فواتير إيجار الكسارة.
+ENG: And the time? || والوقت؟
+QS: Our programme analysis shows the rock has delayed completion. We'll submit it with the detailed claim. || تحليل البرنامج بتاعنا بيوضح إن الصخر أخّر الإنجاز. هنقدمه مع المطالبة التفصيلية.
+Q: What does Hassan want to agree first? | The cost | The extent of the rock | The new programme | The rate | b
+Q: When was the rock recorded jointly? | Last Monday | Last Tuesday | Last Thursday | Yesterday | b
+Q: How much of the zone does the rock cover? | About a third | About half | About two-thirds | All of it | c
+Q: What is the employer's view? | The rock was the employer's risk | A careful contractor would have investigated more | The rock does not exist | The claim is accepted | b
+Q: How long was the tender period? | Two weeks | Three weeks | Four weeks | Six weeks | c
+Q: What did the nearest borehole show? | Rock | Clay | Only sand | Water | c
+Q: How quickly were the excavators moved? | Within a day | Within a week | Within a month | They were not moved | a
+Q: What did they bring in within a week? | More trucks | A hydraulic breaker | A new surveyor | A second roller | b
+Q: When will the production records be sent? | Today | Thursday | Sunday | Next month | c
+Q: What will be submitted with the detailed claim? | The programme analysis | The safety plan | The drawings | The quotation | a
+V: "mitigation" means: | Making the effect smaller | Making the problem bigger | Ignoring the problem | Paying the claim | a
+V: "foreseeable" means: | Could have been expected | Impossible to see | Very expensive | Already paid | a
+V: "entitlement" in a claim means: | The right to receive time or money | The total cost | The final date | The contract title | a
+V: "Let's not beat around the bush" means: | Let's talk directly | Let's go outside | Let's wait | Let's cut the trees | a
+V: "an interim rate, subject to review" is: | A temporary rate that may change later | A final rate | A rejected rate | A secret rate | a
+R: We would like to agree the extent of the rock first.
+R: That matches our records exactly.
+R: The tender period was four weeks, and the borehole showed only sand.
+R: We brought in a hydraulic breaker within a week.
+R: Our programme analysis shows the rock has delayed completion.
+T: Explain why the rock was unforeseeable. | اشرح ليه الصخر ماكانش ممكن توقعه. | The tender period was only four weeks, and the nearest borehole showed only sand. Nothing in the tender documents suggested rock, so an experienced contractor could not have expected it. | tender period; borehole; expected
+T: Explain how you reduced the impact and what evidence you will provide. | اشرح خففتوا الأثر إزاي وهتقدموا أدلة إيه. | We moved the excavators to Zone G within a day and brought in a hydraulic breaker within a week. We'll send our daily production records and the breaker invoices on Sunday. | moved; breaker; records
+
+## TEST B2 2 | Level B2 test — A difficult subcontractor
+ENG Faisal, subcontractor manager, am_liam
+ENG: Hassan, I'll be direct. If our payment isn't released this week, I'll have to pull my trucks off site. || حسن، هكون مباشر. لو دفعتنا ماتفكتش الأسبوع ده، هضطر أسحب عربياتي من الموقع.
+QS: I hear you, Faisal, and I don't want that to happen. Let's look at why it's held. || سامعك يا فيصل، ومش عايز ده يحصل. خلينا نشوف ليه متوقفة.
+ENG: Your finance team says there's a problem with our invoice. || فريق المالية عندكم بيقول فيه مشكلة في فاتورتنا.
+QS: Yes, the quantities don't match our gate records for the second week of the month. || أيوه، الكميات مش مطابقة لسجلات البوابة عندنا للأسبوع التاني من الشهر.
+ENG: Our drivers recorded every trip. || السواقين بتوعنا سجلوا كل نقلة.
+QS: I don't doubt that. But the difference is about one hundred trips, so we need to find out why. || أنا مش بشكك في ده. بس الفرق حوالي مية نقلة، فلازم نعرف ليه.
+ENG: What do you suggest? || تقترح إيه؟
+QS: Let's pay the agreed part now, and check the disputed hundred trips with your GPS data. || خلينا ندفع الجزء المتفق عليه دلوقتي، ونراجع المية نقلة المختلف عليها ببيانات الجي بي إس بتاعتكم.
+ENG: How much is the agreed part? || الجزء المتفق عليه قد إيه؟
+QS: About ninety percent of the invoice. I can ask finance to release it by Thursday. || حوالي تسعين في المية من الفاتورة. أقدر أطلب من المالية تفكه قبل الخميس.
+ENG: All right. That solves my cash problem. I'll send the GPS data tomorrow. || تمام. ده بيحل مشكلة الفلوس عندي. هبعت بيانات الجي بي إس بكرة.
+QS: Good. And please talk to me first next time, before any threat to leave the site. || كويس. واتكلم معايا الأول المرة الجاية، قبل أي تهديد بترك الموقع.
+Q: What will Faisal do if he is not paid this week? | Reduce his rates | Pull his trucks off site | Call a lawyer | Work at night | b
+Q: Why is the payment held? | The invoice was late | The quantities don't match the gate records | The trucks were damaged | The rates are wrong | b
+Q: Which period has the problem? | The first week | The second week | The third week | The whole month | b
+Q: How many trips are disputed? | About ten | About fifty | About one hundred | About five hundred | c
+Q: What does Hassan suggest paying now? | Nothing | The agreed part | The full invoice | Half of the invoice | b
+Q: How will the disputed trips be checked? | With photos | With GPS data | With the drivers' memory | With the consultant | b
+Q: What percentage is the agreed part? | About fifty percent | About seventy percent | About ninety percent | One hundred percent | c
+Q: By when can finance release the payment? | Today | Tuesday | Thursday | Next week | c
+Q: When will Faisal send the GPS data? | Today | Tomorrow | Next week | After payment | b
+Q: What does Hassan ask Faisal to do next time? | Send invoices earlier | Talk to him first before threatening | Use more trucks | Work longer hours | b
+V: "I'll be direct" means: | I will speak openly and clearly | I will drive straight | I will be late | I will write a letter | a
+V: "I don't doubt that" means: | I believe it is possible | I think you are lying | I need proof first | I forgot | a
+V: "pull the trucks off site" means: | Remove them from the site | Repair them | Paint them | Load them | a
+V: "release the payment" means: | Stop the payment | Make the payment available | Reduce the payment | Calculate the payment | b
+V: "split the difference" means: | Each side accepts half of the gap | Cancel the agreement | Pay double | Ask a lawyer | a
+R: I hear you, and I do not want that to happen.
+R: The quantities do not match our gate records.
+R: Let's pay the agreed part now and check the disputed trips.
+R: I can ask finance to release it by Thursday.
+R: Please talk to me first next time.
+T: Calm down a subcontractor who threatens to leave. | هدّي مقاول باطن بيهدد إنه يمشي. | I hear you, and I don't want that to happen. Let's look at why the payment is held. The quantities for the second week don't match our gate records, so we need to find out why. | I hear you; held; gate records
+T: Propose a fair solution to a payment dispute. | اقترح حل عادل لخلاف على دفعة. | Let's pay the agreed part now, about ninety percent, and check the disputed trips with your GPS data. That solves your cash problem and keeps the check fair. | agreed part; GPS data; fair
+
+## TEST B2+ 1 | Level B2+ test — The board presentation
+ENG Mr. Grant, employer's representative, bm_daniel
+ENG: Hassan, the board wants a straight answer. Will Phase Two finish on time? || حسن، المجلس عايز إجابة مباشرة. المرحلة التانية هتخلص في ميعادها؟
+QS: The honest answer is: yes, if two decisions are made this month. Otherwise we're looking at a six-week slip. || الإجابة الصريحة: أيوه، لو قرارين اتاخدوا الشهر ده. غير كده بنتكلم عن تأخير ست أسابيع.
+ENG: Which decisions? || أنهي قرارات؟
+QS: First, the design freeze for the road levels. Every revision so far has cost us around a week. || الأول، تجميد تصميم مناسيب الطرق. كل تعديل لحد دلوقتي كلّفنا حوالي أسبوع.
+ENG: And the second? || والتاني؟
+QS: Approval of the treated material for the northern zones. Without it, we depend on a single borrow pit forty kilometres away. || اعتماد المادة المعالجة للمناطق الشمالية. من غيرها، بنعتمد على محجر واحد على بعد أربعين كيلو.
+ENG: The board is nervous about the treated material. || المجلس قلقان من المادة المعالجة.
+QS: Understandably. That's why we've offered twelve months of settlement monitoring at our own cost. || مفهوم. وعشان كده عرضنا اتناشر شهر مراقبة هبوط على حسابنا.
+ENG: And if they say no anyway? || ولو قالوا لأ برضه؟
+QS: Then we'd need to double the haulage fleet, which adds cost and puts more trucks on public roads. || ساعتها هنحتاج نضاعف أسطول النقل، وده بيزوّد التكلفة ويحط عربيات أكتر على الطرق العامة.
+ENG: So the real choice is between a small technical risk and a certain delay. || يعني الاختيار الحقيقي بين مخاطرة فنية صغيرة وتأخير أكيد.
+QS: Exactly. And the monitoring turns that small risk into a managed one. || بالظبط. والمراقبة بتحوّل المخاطرة الصغيرة دي لمخاطرة متحكم فيها.
+Q: What does the board want? | A new contractor | A straight answer about finishing on time | A lower price | More reports | b
+Q: What happens if the decisions are not made? | Nothing changes | A six-week slip | A two-week slip | The project is cancelled | b
+Q: What is the first decision? | Approving the treated material | The design freeze for road levels | Hiring more staff | Buying more trucks | b
+Q: How much has each revision cost? | About a day | About a week | About a month | Nothing | b
+Q: Which zones need the treated material? | The southern zones | The eastern zones | The northern zones | All zones | c
+Q: How far is the single borrow pit? | Ten kilometres | Twenty kilometres | Forty kilometres | Sixty kilometres | c
+Q: What has the contractor offered at its own cost? | Extra trucks | Twelve months of settlement monitoring | A discount | A longer defects period | b
+Q: What happens if the board still says no? | The project stops | The haulage fleet must double | The design changes | Nothing | b
+Q: What is the real choice, according to Mr. Grant? | Cost or quality | A small technical risk or a certain delay | One contractor or two | Day or night shifts | b
+Q: What does the monitoring do? | Removes all risk | Turns the risk into a managed one | Increases the delay | Replaces the design | b
+V: "a six-week slip" means: | A six-week delay | A six-week holiday | A six-week payment | A six-week test | a
+V: "a design freeze" means: | No more design changes after a date | A very cold design | A new design | A cancelled design | a
+V: "Understandably" means: | That is a reasonable reaction | That is wrong | I don't know | That is funny | a
+V: "a managed risk" is a risk that: | Is controlled and monitored | Has already happened | Nobody knows about | Cannot be measured | a
+V: "think on my feet" means: | Respond quickly without preparation | Walk while thinking | Stand in meetings | Write slowly | a
+R: The honest answer is yes, if two decisions are made this month.
+R: Every revision so far has cost us around a week.
+R: Without it, we depend on a single borrow pit.
+R: We have offered twelve months of settlement monitoring at our own cost.
+R: The monitoring turns that small risk into a managed one.
+T: Give a board a straight, honest answer about the schedule. | ادي المجلس إجابة مباشرة وصريحة عن الجدول الزمني. | The honest answer is yes, if two decisions are made this month: a design freeze for the road levels and approval of the treated material. Otherwise we're looking at a six-week slip. | honest answer; two decisions; slip
+T: Present the choice in a way that helps them decide. | اعرض الاختيار بطريقة تساعدهم ياخدوا القرار. | The real choice is between a small technical risk and a certain delay. We've offered twelve months of settlement monitoring at our own cost, which turns the small risk into a managed one. | real choice; monitoring; managed
+
+## TEST B2+ 2 | Level B2+ test — A fast phone call
+ENG Brian, design consultant, am_eric
+ENG: Hey Hassan, got a sec? Quick heads-up: we're tweaking the drainage in Zone K again. || أهلًا حسن، معاك ثانية؟ تنبيه سريع: هنعدّل التصريف في منطقة K تاني.
+QS: Again? Brian, we're already halfway through the final layer there. || تاني؟ يا برايان، إحنا خلاص في نص الطبقة الأخيرة هناك.
+ENG: Yeah, I know, sorry. The utilities team found a clash with their main line. || أيوه عارف، آسف. فريق المرافق لقى تعارض مع خطهم الرئيسي.
+QS: OK. How big a change are we talking about? || تمام. التغيير ده قد إيه؟
+ENG: The outlet moves about thirty metres east, and the falls change on two sections. || المخرج هيتنقل حوالي تلاتين متر شرق، والميول هتتغير في قطاعين.
+QS: Then we need to stop the final layer on those two sections today, before we waste any more work. || يبقى لازم نوقف الطبقة الأخيرة في القطاعين دول النهاردة، قبل ما نضيّع شغل أكتر.
+ENG: Makes sense. Can you keep going elsewhere? || منطقي. تقدروا تكملوا في حتة تانية؟
+QS: Yes, we'll move the crew to the western sections. But I'll need the revision formally, through the engineer. || أيوه، هننقل الفريق للقطاعات الغربية. بس هحتاج التعديل رسمي، عن طريق المهندس.
+ENG: Sure thing. I'll get it out by Wednesday. || أكيد. هطلّعه قبل الأربع.
+QS: And please note on the drawing which work is affected. We'll need it for the variation. || ولو سمحت وضّح على الرسمة أنهي شغل متأثر. هنحتاجه لأمر التغيير.
+ENG: Will do. Sorry again for the hassle. || حاضر. آسف تاني على الإزعاج.
+QS: No worries. Better now than after we finish. || ولا يهمك. أحسن دلوقتي من بعد ما نخلّص.
+Q: What is changing in Zone K? | The road levels | The drainage | The fill material | The access road | b
+Q: How far along is the final layer? | Not started | About halfway | Finished | Almost finished | b
+Q: Why is the design changing? | A clash with the utilities main line | Heavy rain | A budget cut | A survey error | a
+Q: Where does the outlet move? | Thirty metres east | Thirty metres west | Ten metres north | It does not move | a
+Q: On how many sections do the falls change? | One | Two | Three | All of them | b
+Q: What will Hassan stop today? | All work in Zone K | The final layer on those two sections | The utilities work | The haulage | b
+Q: Where will the crew move? | To the eastern sections | To the western sections | To Zone J | Off site | b
+Q: How does Hassan want the revision? | By phone | Formally through the engineer | By text message | Verbally | b
+Q: By when will Brian issue it? | Today | Tuesday | Wednesday | Next week | c
+Q: Why does Hassan want the affected work noted on the drawing? | For the variation | For the safety plan | For the client meeting | For training | a
+V: "Got a sec?" means: | Do you have a moment? | Did you get the second payment? | Are you safe? | Did you sign? | a
+V: "a heads-up" is: | An early warning | A helmet | A complaint | A promotion | a
+V: "tweaking" means: | Making small changes | Destroying | Approving | Measuring | a
+V: "Sorry for the hassle" means: | Sorry for the trouble | Sorry for the delay in payment | Sorry I am late | Sorry for the noise | a
+V: "Better now than after we finish" means: | It's better to know early | We should finish first | We are already finished | It's too late | a
+R: We are already halfway through the final layer there.
+R: How big a change are we talking about?
+R: We need to stop those two sections today, before we waste more work.
+R: I will need the revision formally, through the engineer.
+R: Better now than after we finish.
+T: React quickly to a late design change on the phone. | اتصرف بسرعة مع تغيير تصميم متأخر في التليفون. | We're already halfway through the final layer. How big a change are we talking about? If the falls change on two sections, we need to stop those sections today, before we waste more work. | halfway; how big a change; stop
+T: Protect your position for a variation. | احمي موقفكم لأمر التغيير. | We'll move the crew to the western sections, but I need the revision formally, through the engineer, and please note on the drawing which work is affected, because we'll need it for the variation. | formally; affected; variation
