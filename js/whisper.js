@@ -65,23 +65,26 @@ export class Whisper {
     return new TextDecoder().decode(new Uint8Array(parts)).trim();
   }
 
-  // x: Float32Array mono 16 kHz, up to 30 s
-  async transcribeChunk(x) {
+  async _encode(x) {
     const ort = this.ort;
     const mel = new ort.Tensor('float32', this.logMel(x), [1, 80, 3000]);
     const e = await this.enc.run({ mel });
-    const ck = e.n_layer_cross_k, cv = e.n_layer_cross_v;
-    const L = ck.dims[0], S = ck.dims[3];
-    let sk = new ort.Tensor('float32', new Float32Array(L * 448 * S), [L, 1, 448, S]);
-    let sv = new ort.Tensor('float32', new Float32Array(L * 448 * S), [L, 1, 448, S]);
+    return { ck: e.n_layer_cross_k, cv: e.n_layer_cross_v };
+  }
+  _cache(ck) { const L = ck.dims[0], S = ck.dims[3], ort = this.ort; return [0, 1].map(() => new ort.Tensor('float32', new Float32Array(L * 448 * S), [L, 1, 448, S])); }
+  _run(cur, off, sk, sv, ck, cv) {
+    const ort = this.ort;
+    return this.dec.run({
+      tokens: new ort.Tensor('int64', BigInt64Array.from(cur.map(BigInt)), [1, cur.length]),
+      in_n_layer_self_k_cache: sk, in_n_layer_self_v_cache: sv, n_layer_cross_k: ck, n_layer_cross_v: cv,
+      offset: new ort.Tensor('int64', BigInt64Array.from([BigInt(off)]), [1]),
+    });
+  }
+  async _greedy({ ck, cv }) {
+    let [sk, sv] = this._cache(ck);
     let cur = [this.SOT, this.NO_TS], off = 0; const out = [];
     for (let step = 0; step < 220; step++) {
-      const r = await this.dec.run({
-        tokens: new ort.Tensor('int64', BigInt64Array.from(cur.map(BigInt)), [1, cur.length]),
-        in_n_layer_self_k_cache: sk, in_n_layer_self_v_cache: sv,
-        n_layer_cross_k: ck, n_layer_cross_v: cv,
-        offset: new ort.Tensor('int64', BigInt64Array.from([BigInt(off)]), [1]),
-      });
+      const r = await this._run(cur, off, sk, sv, ck, cv);
       off += cur.length; sk = r.out_n_layer_self_k_cache; sv = r.out_n_layer_self_v_cache;
       const lg = r.logits.data, V = r.logits.dims[2], base = (r.logits.dims[1] - 1) * V;
       let best = 0, bv = -Infinity;
@@ -91,6 +94,56 @@ export class Whisper {
       if (out.length > 8 && out.slice(-8).every(t => t === best)) break; // repetition guard
     }
     return this.decodeTokens(out);
+  }
+  // x: Float32Array mono 16 kHz, up to 30 s
+  async transcribeChunk(x) { return this._greedy(await this._encode(x)); }
+
+  // Byte-level tokenizer (greedy longest match over the model vocabulary).
+  encode(text) {
+    if (!this.rev) {
+      this.rev = new Map(); this.maxLen = 1;
+      for (const [id, b64] of this.tok) { if (id >= this.EOT) continue; const s = String.fromCharCode(...atobBytes(b64)); this.rev.set(s, id); if (s.length > this.maxLen) this.maxLen = s.length; }
+    }
+    const bytes = new TextEncoder().encode(' ' + String(text).trim().replace(/\s+/g, ' '));
+    const s = String.fromCharCode(...bytes); const ids = [], pieces = [];
+    for (let i = 0; i < s.length;) {
+      let n = Math.min(this.maxLen, s.length - i);
+      for (; n > 0; n--) { const sub = s.slice(i, i + n); if (this.rev.has(sub)) { ids.push(this.rev.get(sub)); pieces.push(sub); break; } }
+      if (!n) { i++; continue; } i += n;
+    }
+    return { ids, pieces };
+  }
+
+  // Pronunciation analysis: transcript + how strongly the audio supports each word of the reference
+  // (teacher-forced probability of the reference tokens; a "goodness of pronunciation" score).
+  async analyze(x, refText) {
+    const enc = await this._encode(x);
+    const text = await this._greedy(enc);
+    const { ids, pieces } = this.encode(refText);
+    if (!ids.length) return { text, words: [] };
+    const [sk, sv] = this._cache(enc.ck);
+    const cur = [this.SOT, this.NO_TS, ...ids];
+    const r = await this._run(cur, 0, sk, sv, enc.ck, enc.cv);
+    const lg = r.logits.data, V = r.logits.dims[2];
+    const probs = ids.map((id, j) => {
+      const base = (j + 1) * V; let mx = -Infinity;
+      for (let i = 0; i < V; i++) if (lg[base + i] > mx) mx = lg[base + i];
+      let z = 0; for (let i = 0; i < V; i++) z += Math.exp(lg[base + i] - mx);
+      return Math.exp(lg[base + id] - mx) / z;
+    });
+    // group tokens into words (a new word starts with a space)
+    const words = [];
+    pieces.forEach((pc, j) => {
+      const isNew = pc.startsWith(' ') || !words.length;
+      if (isNew) words.push({ word: '', lp: 0, n: 0, min: 1 });
+      const w = words[words.length - 1];
+      w.word += pc; w.lp += Math.log(Math.max(probs[j], 1e-9)); w.n++; w.min = Math.min(w.min, probs[j]);
+    });
+    return { text, words: words.map(w => {
+      const raw = new TextDecoder().decode(Uint8Array.from([...w.word].map(c => c.charCodeAt(0)))).trim();
+      const first = Math.exp(w.lp / w.n);
+      return { word: raw, p: +first.toFixed(3), min: +w.min.toFixed(3) };
+    }).filter(w => /[a-z0-9]/i.test(w.word)) };
   }
 
   // Split long audio at quiet points (<=25 s chunks) and transcribe all.

@@ -72,3 +72,31 @@ td, th { padding: 6px; border-bottom: 1px solid var(--line); text-align: start; 
 select, input[type=file] { font-family: inherit; font-size: 15px; padding: 8px; border-radius: 10px; border: 1px solid var(--line); background: var(--card); color: var(--ink); }
 .mcq label { display: block; padding: 10px; border: 1px solid var(--line); border-radius: 10px; margin: 6px 0; }
 .mcq input { margin-inline-end: 8px; }
+
+/* v2 */
+.nav { position: fixed; bottom: 0; left: 0; right: 0; z-index: 6; display: flex; background: var(--card); border-top: 1px solid var(--line); padding-bottom: env(safe-area-inset-bottom); }
+.nav button { flex: 1; background: none; border: 0; color: var(--muted); font-family: inherit; font-size: 12px; padding: 8px 0 10px; display: flex; flex-direction: column; align-items: center; gap: 2px; }
+.nav button span { font-size: 20px; }
+.nav button.on { color: var(--accent); font-weight: 700; }
+.toast { bottom: 80px; }
+.banner { display: flex; flex-direction: column; gap: 4px; border-inline-start: 4px solid var(--accent); }
+.way { display: flex; flex-direction: column; padding: 10px 12px; border-radius: 12px; border: 1px solid var(--line); margin: 6px 0; background: var(--soft); }
+.way.done { border-color: var(--ok); }
+.way.open { border-color: var(--accent); }
+.way.locked { opacity: .6; }
+.w-mid { color: var(--accent); font-weight: 700; text-decoration: underline dotted; }
+.pw span { cursor: pointer; margin: 0 2px; }
+.pw sub { font-size: 10px; opacity: .75; margin-inline-start: 1px; }
+.fix { background: var(--soft); border: 1px solid var(--line); border-radius: 12px; padding: 10px 12px; margin: 10px 0; }
+.fix p { margin: 6px 0; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { display: inline-flex; align-items: center; gap: 4px; padding: 6px 10px; border-radius: 999px; border: 1px solid var(--line); background: var(--soft); color: var(--ink); font-family: inherit; font-size: 14px; }
+.chip.bad { border-color: var(--bad); color: var(--bad); }
+.overlay { position: fixed; inset: 0; background: rgba(0,0,0,.45); z-index: 30; display: flex; align-items: flex-end; justify-content: center; }
+.sheet { width: 100%; max-width: 720px; max-height: 90vh; overflow: auto; border-radius: 18px 18px 0 0; margin: 0; padding-bottom: 30px; }
+.unit { padding: 8px 10px; border-radius: 10px; margin: 4px 0; border: 1px solid var(--line); }
+.unit.cur { border-color: var(--accent); background: var(--hl); }
+.unit.done { opacity: .7; }
+.unit.test { border-style: dashed; }
+.car .big { font-size: 64px; }
+input[type=time] { font-family: inherit; font-size: 15px; padding: 8px; border-radius: 10px; border: 1px solid var(--line); background: var(--card); color: var(--ink); }

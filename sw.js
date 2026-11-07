@@ -1,6 +1,6 @@
 // Offline-first: serve from cache, fall back to network and keep a copy.
 const CACHE = 'sitetalk-v1';
-const SHELL = ['./', 'index.html', 'css/app.css', 'js/app.js', 'js/scoring.js', 'js/whisper.js', 'js/melfb.json', 'manifest.json',
+const SHELL = ['./', 'index.html', 'css/app.css', 'js/app.js', 'js/scoring.js', 'js/coach.js', 'js/whisper.js', 'js/melfb.json', 'manifest.json',
   'data/lessons.json', 'data/audio_index.json', 'data/sounds.json', 'icons/icon-192.png', 'icons/icon-512.png'];
 self.addEventListener('install', e => { e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL)).then(() => self.skipWaiting())); });
 self.addEventListener('activate', e => { e.waitUntil(self.clients.claim()); });
