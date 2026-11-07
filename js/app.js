@@ -50,6 +50,13 @@ async function loadData() {
 const lesson = (id = lessonId()) => DATA.lessons.find(l => l.id === id);
 const levelTest = (lv, ver) => DATA.tests.find(t => t.level === lv && t.version === ver);
 
+// ---------- speech speed (rises inside each level and from level to level, same as the recordings) ----------
+const SPEED_RANGE = [[0.82, 0.88], [0.88, 0.94], [0.94, 1.00], [1.00, 1.06]];
+function speedOf(id) { const m = String(id).match(/^(B1\+?|B2\+?)-(\d+)$/); if (!m) return null; const lv = LEVEL_NAMES.indexOf(m[1]), [lo, hi] = SPEED_RANGE[lv]; return lo + (hi - lo) * (+m[2] - 1) / 35; }
+const RATE_OPTS = [[0.8, '🐢 أبطأ'], [0.9, 'أبطأ شوية'], [1, 'سرعة الدرس']];
+function rateBar() { return `<div class="toggle">${RATE_OPTS.map(([r, l]) => `<button class="btn ${(S.rate || 1) === r ? 'primary' : ''}" data-rate="${r}">${l}</button>`).join('')}</div>`; }
+function bindRate() { view.querySelectorAll('[data-rate]').forEach(b => b.onclick = () => { S.rate = +b.dataset.rate; save(); view.querySelectorAll('[data-rate]').forEach(x => x.classList.toggle('primary', x === b)); }); }
+
 // ---------- audio playback ----------
 let actx; const buffers = new Map(); let curSrc = null;
 function ctx() { if (!actx) actx = new (window.AudioContext || window.webkitAudioContext)(); if (actx.state === 'suspended') actx.resume(); return actx; }
@@ -70,6 +77,7 @@ async function play(name, key) {
   const b = await pack(name);
   return new Promise(res => {
     const src = ctx().createBufferSource(); src.buffer = b; src.connect(ctx().destination);
+    const rt = name === 'SOUNDS' ? 1 : (S.rate || 1); src.playbackRate.value = rt;
     src.onended = () => { if (curSrc === src) curSrc = null; res(); };
     curSrc = src; src.start(0, seg[0], seg[1] - seg[0]);
   });
@@ -179,6 +187,8 @@ function h(html) { view.innerHTML = html; window.scrollTo(0, 0); }
 const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 const ORD = { 1: 'first', 2: 'second', 3: 'third', 4: 'fourth', 5: 'fifth', 6: 'sixth' };
 const pretty = w => String(w).replace(/\b(\d)th\b/g, (m, d) => ORD[d] || m).replace(/\boclock\b/g, "o'clock");
+// Arabic meaning of a sentence if it matches a dialogue line.
+function arOf(L, en) { const n = normWords(en).join(' '); const d = L.dialogue.find(x => { const m = normWords(x[1]).join(' '); return m.includes(n) || n.includes(m); }); return d && d[2] ? `<p class="muted">${esc(d[2])}</p>` : ''; }
 function speakerName(L, who) { return who === 'QS' ? 'Hassan (QS)' : `${L.eng.name} (${L.eng.role})`; }
 function answerSecs() { return Math.min(90, Math.max(20, minutes() * 8)); }
 function readCount() { const m = minutes(); return m < 5 ? 3 : m < 10 ? 4 : 5; }
@@ -217,6 +227,7 @@ async function home() {
       <h1 class="en" style="margin-top:8px">${esc(L.title)}</h1>
       <p>${esc(L.title_ar)}</p>
       <p class="muted">🎯 هدف الدرس: هتقدر <span>${esc(L.tasks[0].q_ar)}</span></p>
+      <p class="muted">🔊 سرعة الكلام في الدرس ده: <b>${Math.round(speedOf(L.id) * 100)}%</b> من سرعة الكلام الطبيعي — بتزيد شوية مع كل درس ومع كل مستوى لحد 106% في B2+.</p>
       ${wayRow('A', A, 'الطريقة 1: افهم وقلّد', 'حوار بالنص والترجمة، عبارات، تقليد، نطق، لعب أدوار', true)}
       ${wayRow('B', B, 'الطريقة 2: من غير نص', A && !way2Open() && !B ? 'بتتفتح بكره بعد نوم ليلة — النوم بيثبّت اللي اتعلمته' : 'استماع من غير نص، استرجاع من العربي، دور الطرف التاني، كلام حر 4/3/2', way2Open())}
       ${wayRow('T', false, 'اختبار الدرس', 'بيتفتح بعد الطريقتين', testOpen())}
@@ -377,8 +388,8 @@ const STEPS = {
   async listen(L, header, next) {
     currentLessonId = L.id;
     h(`<div class="card">${header}<p class="muted">${esc(L.scene)}</p>
-      <button class="btn dark block" id="pl">▶ شغّل الحوار</button><div style="height:10px"></div>${linesHTML(L)}${nextBtn()}</div>`);
-    bindAr(); mustListen(next);
+      <button class="btn dark block" id="pl">▶ شغّل الحوار</button>${rateBar()}${linesHTML(L)}${nextBtn()}</div>`);
+    bindAr(); bindRate(); mustListen(next);
     $('#pl').onclick = async () => { for (let i = 0; i < L.dialogue.length; i++) { if (!$('#lines')) return; mark(i); await play(L.id, 'd' + i); await wait(350); } mark(-1); listened(); };
   },
   async listen2(L, header, next) {
@@ -487,7 +498,7 @@ async function roleplay(L, header, next, me) {
       await play(L.id, 'd' + i);
       if (!mine(d)) { i++; await wait(300); return step(); }
     }
-    $('#panel').innerHTML = `<p class="center">🎙️ دورك: قول الجملة</p><p class="en center">${esc(d[1])}</p>${recBlock(true)}<div id="res"></div>
+    $('#panel').innerHTML = `<p class="center">🎙️ دورك: قول الجملة</p><p class="en center" style="font-size:18px">${esc(d[1])}</p><p class="center muted">${esc(d[2] || '')}</p>${recBlock(true)}<div id="res"></div>
       <div class="row" style="justify-content:center"><button class="btn small" id="hear">▶ اسمعها</button><button class="btn small" id="skip">تخطّي ←</button></div>`;
     $('#hear').onclick = () => play(L.id, 'd' + i);
     $('#skip').onclick = () => { i++; step(); };
@@ -597,7 +608,7 @@ async function lessonTest() {
     if (k >= pick.length) { k = 0; return taskStep(); }
     const ri = pick[k];
     h(`<div class="card"><span class="pill">اختبار الدرس · الجزء 1: القراية</span><h2 style="margin-top:8px">الجملة ${k + 1} من ${pick.length}</h2>
-      <p class="en" style="font-size:20px;line-height:1.6">${esc(L.read[ri])}</p>
+      <p class="en" style="font-size:20px;line-height:1.6">${esc(L.read[ri])}</p>${arOf(L, L.read[ri])}
       <div class="row"><button class="btn small" id="h1">▶ اسمعها</button><button class="btn small" id="h2">▶ ببطء</button></div>
       ${recBlock()}<div id="res"></div></div>`);
     $('#h1').onclick = () => play(L.id, 'r' + ri); $('#h2').onclick = () => play(L.id, 'rs' + ri);
@@ -978,19 +989,28 @@ async function carMode() {
   let stop = false, wl = null;
   h(`<div class="card center car"><h2>🚗 استماع الطريق</h2><p class="en">${esc(L.title)}</p>
     <p class="muted">من غير ما تبص على الشاشة: اسمع، وفي السكتة كرر بصوت عالي. سيب الموبايل على الحامل.</p>
-    <p class="big" id="cue">▶</p><p id="what" class="muted"></p>
+    <p class="big" id="cue">▶</p><p id="what" class="en" style="font-size:20px;font-weight:600"></p><p id="whatAr" style="font-size:18px"></p>
+    <label class="chip" style="margin:8px auto"><input type="checkbox" id="carAr" ${S.carAr !== false ? 'checked' : ''}> 🔊 قول الترجمة العربي بعد كل جملة</label>
+    ${rateBar()}
     <button class="btn primary block" id="go">ابدأ</button><div style="height:10px"></div><button class="btn block" id="st">إيقاف</button></div>`);
-  $('#st').onclick = () => { stop = true; stopAudio(); try { wl?.release(); } catch {} home(); };
+  bindRate();
+  $('#st').onclick = () => { stop = true; stopAudio(); try { speechSynthesis.cancel(); } catch {} try { wl?.release(); } catch {} home(); };
   $('#go').onclick = async () => {
     $('#go').disabled = true; try { wl = await navigator.wakeLock?.request('screen'); } catch {}
     if ('mediaSession' in navigator) navigator.mediaSession.metadata = new MediaMetadata({ title: L.title, artist: 'Site Talk English' });
-    const cue = (c, w) => { if ($('#cue')) { $('#cue').textContent = c; $('#what').textContent = w; } };
+    S.carAr = $('#carAr').checked; save();
+    const cue = (c, en, ar = '') => { if ($('#cue')) { $('#cue').textContent = c; $('#what').textContent = en; $('#whatAr').textContent = ar; } };
+    const sayAr = t => S.carAr && t && 'speechSynthesis' in window ? new Promise(r => { const u = new SpeechSynthesisUtterance(t); u.lang = 'ar-EG'; u.rate = 1; const v = speechSynthesis.getVoices().find(v => /^ar/i.test(v.lang)); if (v) u.voice = v; u.onend = r; u.onerror = r; speechSynthesis.speak(u); }) : Promise.resolve();
     // 1) the dialogue twice  2) each line with a repeat gap  3) key phrases x2  4) due review phrases
-    for (let r = 0; r < 2 && !stop; r++) for (let i = 0; i < L.dialogue.length && !stop; i++) { cue('👂', `الحوار — المرة ${r + 1}`); await play(L.id, 'd' + i); await wait(400); }
-    for (let i = 0; i < L.dialogue.length && !stop; i++) { cue('👂', 'اسمع الجملة'); await play(L.id, 'd' + i); cue('🗣️', 'كرر'); await wait(segDur(L.id, 'd' + i) * 1400 + 900); }
-    for (let i = 0; i < L.phrases.length && !stop; i++) for (let k = 0; k < 2; k++) { cue('👂', L.phrases[i][1]); await play(L.id, 'p' + i); cue('🗣️', 'كرر'); await wait(segDur(L.id, 'p' + i) * 1500 + 1000); }
-    for (const it of C.srsDue(S, 6).map(srsItem).filter(Boolean)) { if (stop) break; cue('🔁', it.ar); await wait(3500); await play(it.id, it.k); cue('🗣️', 'كرر'); await wait(segDur(it.id, it.k) * 1500 + 1000); }
-    if (!stop) { cue('✅', 'خلصت. كمّل بالليل في الحصة.'); award(10); log('car', { label: 'استماع الطريق' }); }
+    const gap = (id, k, f) => wait(segDur(id, k) * 1000 * f / (S.rate || 1) + 900);
+    // round 1: each line in English, then its Arabic meaning; round 2: English only (no translation)
+    for (let i = 0; i < L.dialogue.length && !stop; i++) { const d = L.dialogue[i]; cue('👂', d[1], d[2]); await play(L.id, 'd' + i); await wait(300); await sayAr(d[2]); await wait(300); }
+    for (let i = 0; i < L.dialogue.length && !stop; i++) { const d = L.dialogue[i]; cue('👂', d[1], d[2]); await play(L.id, 'd' + i); await wait(400); }
+    for (let i = 0; i < L.dialogue.length && !stop; i++) { const d = L.dialogue[i]; cue('👂', d[1], d[2]); await play(L.id, 'd' + i); cue('🗣️ كرر', d[1], d[2]); await gap(L.id, 'd' + i, 1.4); }
+    for (let i = 0; i < L.phrases.length && !stop; i++) for (let k = 0; k < 2; k++) { const p = L.phrases[i]; cue('👂', p[0], p[1]); await play(L.id, 'p' + i); cue('🗣️ كرر', p[0], p[1]); await gap(L.id, 'p' + i, 1.5); }
+    // review: Arabic first, try to say it, then hear the English
+    for (const it of C.srsDue(S, 6).map(srsItem).filter(Boolean)) { if (stop) break; cue('🔁 قولها بالإنجليزي', '', it.ar); await sayAr(it.ar); await wait(3500); cue('👂', it.en, it.ar); await play(it.id, it.k); cue('🗣️ كرر', it.en, it.ar); await gap(it.id, it.k, 1.5); }
+    if (!stop) { cue('✅', '', 'خلصت. كمّل بالليل في الحصة.'); award(10); log('car', { label: 'استماع الطريق' }); }
     try { wl?.release(); } catch {}
   };
 }
