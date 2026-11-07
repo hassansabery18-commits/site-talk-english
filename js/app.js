@@ -170,7 +170,7 @@ async function analyzeSpeech(x, ref, status) {
   // People's and place names are spelled many ways: don't count them against pronunciation.
   if (!NAMESET) NAMESET = new Set(['hassan', 'riyadh', 'murabba', ...DATA.lessons.map(l => l.eng?.name?.toLowerCase()).filter(Boolean)]);
   const heardW = new Set(normWords(r.text));
-  for (const z of r.words) { const c = z.word.toLowerCase().replace(/[^a-z]/g, ''); if (NAMESET.has(c) || (/^[A-Z]/.test(z.word.trim()) && heardW.has(c) && z !== r.words[0])) z.p = Math.max(z.p, 0.9); }
+  for (const z of r.words) { const c = z.word.toLowerCase().replace(/[^a-z]/g, ''); if ((NAMESET.has(c) && z.p >= 0.05) || (/^[A-Z]/.test(z.word.trim()) && heardW.has(c) && z !== r.words[0])) z.p = Math.max(z.p, 0.9); }
   return r;
 }
 let NAMESET = null;
@@ -246,7 +246,9 @@ async function home() {
     <button class="btn" id="goRev">🔁 مراجعة اليوم (${C.srsStats(S).due})</button>
     <button class="btn" id="goMis">📒 أخطائي (${Object.values(S.mistakes.words).filter(w => !w.fixed).length + Object.keys(S.mistakes.grammar).length})</button>
     <button class="btn" id="goCar">🚗 استماع الطريق</button>
-    <button class="btn" id="goBook">🦺 عبارات الموقع</button></div>
+    <button class="btn" id="goBook">🦺 عبارات الموقع</button>
+    <button class="btn" id="goChat">💬 محادثة تفاعلية</button>
+    <button class="btn" id="goAI">🤖 محادثة حرة (AI)</button></div>
     ${S.mission ? `<p class="muted" style="margin-top:10px">🏗️ مهمة الموقع: ${esc(S.mission.text)} — <span class="en">${esc(S.mission.phrases.join(' · '))}</span></p>` : ''}</div>
   <div class="card"><h2>تقدمك</h2>
     <div class="grid2">
@@ -266,6 +268,8 @@ async function home() {
   $('#goB')?.addEventListener('click', () => session('B'));
   $('#goUnit')?.addEventListener('click', () => unitCheck());
   $('#goRev').onclick = () => reviewNow(); $('#goMis').onclick = () => mistakesView(); $('#goCar').onclick = () => carMode(); $('#goBook').onclick = () => phrasebook();
+  $('#goChat').onclick = () => { const L0 = lesson(); if (!L0) return; convoRun(L0, '', home); };
+  $('#goAI').onclick = () => aiConvo();
   $('#bnPlan')?.addEventListener('click', () => planView());
   $('#goTest')?.addEventListener('click', () => lessonTest());
   $('#goLT')?.addEventListener('click', () => levelTestRun());
@@ -328,12 +332,12 @@ function estimate(step, L) {
     shadowCheck: L.dialogue.reduce((s, _, i) => s + segDur(id, 'd' + i) * 2.2 + 9, 0),
     tasks: L.tasks.reduce((s, _, i) => s + segDur(id, 'm' + i) + answerSecs() + 15, 0),
     warmup: 40 + Math.min(5, C.srsDue(S, 5).length) * 15, retrieve: L.phrases.length * 15,
-    fluency432: answerSecs() * 2.25 + 45, mission: 25,
+    fluency432: answerSecs() * 2.25 + 45, mission: 25, convo: dsum * 1.6 + qsum * 2 + L.tasks.length * (answerSecs() + 20),
   }[step];
 }
 const WAYS = {
   A: { first: ['warmup', 'listen', 'phrases', 'shadow', 'sound', 'hard', 'roleQS'], must: ['warmup', 'listen'], cycle: ['shadowCheck', 'roleQS', 'phrases'] },
-  B: { first: ['listen2', 'retrieve', 'roleENG', 'tasks', 'fluency432', 'mission'], must: ['listen2', 'retrieve', 'mission'], cycle: ['shadowCheck', 'retrieve', 'roleENG', 'tasks'] },
+  B: { first: ['listen2', 'convo', 'retrieve', 'roleENG', 'tasks', 'fluency432', 'mission'], must: ['listen2', 'convo', 'mission'], cycle: ['shadowCheck', 'retrieve', 'roleENG', 'tasks'] },
 };
 function planSession(L, way = 'A') {
   const target = minutes() * 60, W = WAYS[way];
@@ -351,7 +355,7 @@ function planSession(L, way = 'A') {
   return { plan, est: Math.round(t / 60 * 10) / 10 };
 }
 const STEP_AR = { listen: 'اسمع الحوار بالنص والترجمة', listen2: 'اسمع من غير ما تبص على النص', phrases: 'العبارات المهمة', shadow: 'كرر ورا كل جملة (shadowing)', sound: 'صوت الدرس', hard: 'كلمات صعبة النطق', roleQS: 'لعب أدوار: إنت حسن', roleENG: 'لعب أدوار: إنت الطرف التاني', shadowCheck: 'كرر وسجّل كل جملة', tasks: 'تدريب الموقفين',
-  warmup: 'تسخين: مراجعة من الذاكرة', retrieve: 'استرجاع: قولها بالإنجليزي من العربي', fluency432: 'طلاقة 4/3/2: نفس الكلام في وقت أقل', mission: 'مهمة الموقع' };
+  warmup: 'تسخين: مراجعة من الذاكرة', retrieve: 'استرجاع: قولها بالإنجليزي من العربي', fluency432: 'طلاقة 4/3/2: نفس الكلام في وقت أقل', mission: 'مهمة الموقع', convo: 'محادثة تفاعلية مع الشخصية' };
 
 // ---------- session ----------
 let sessionAbort = false, curWay = 'A';
@@ -447,6 +451,7 @@ const STEPS = {
     return recallRun(L.phrases.map((p, i) => ({ en: p[0], ar: p[1], id: L.id, k: 'p' + i })), header, next, false);
   },
   async fluency432(L, header, next) { return fluencyRun(L.tasks[0], header, next); },
+  async convo(L, header, next) { return convoRun(L, header, next); },
   async mission(L, header, next) {
     const ph = L.phrases.slice(0, 2).map(p => p[0]);
     h(`<div class="card">${header}<p>🏗️ قبل الحصة الجاية، استخدم الكلام ده <b>مع شخص حقيقي في الموقع</b> (فورمان، مساح، استشاري، سواق):</p>
@@ -1125,6 +1130,210 @@ function unitCheck() {
 }
 function setNav(k) { document.querySelectorAll('.nav button').forEach(b => b.classList.toggle('on', b.dataset.go === k)); }
 
+// ---------- interactive conversation coach (offline) ----------
+// The lesson's character talks with you. Turn-taking is automatic (voice activity detection),
+// each answer is scored word by word and the coach reacts like a teacher: praise, recast,
+// single-word drill, or a backward build-up of a hard sentence.
+const COACH_TEXT = {
+  g0: 'Great!', g1: 'Well done.', g2: 'Perfect, that was very clear.', g3: 'Nice, that sounded natural.', g4: 'Excellent.',
+  a0: 'Almost. Listen and try again.', a1: "Let's try that once more.",
+  w0: "Let's practise this word.", w1: 'Say it after me.',
+  m0: 'You mean:', m1: 'A better way to say it is:',
+  n0: "Sorry, I didn't catch that.", n1: 'Can you say that again, please?',
+  b0: "Let's build it up, piece by piece.", y0: 'Your turn.', q0: 'Now answer my question.',
+  e0: 'Great conversation. See you in the next class.', h0: 'Here is a model answer.',
+};
+const STOP = new Set('a an the to of and or in on at for is are am was were be been i you we he she it they this that these those my your our his her its their me us him them do does did have has had will would can could should shall may might must please just so very ok okay yes no not'.split(' '));
+const stem = w => w.replace(/(ing|ed|es|s)$/, '');
+function overlap(expected, heard) {
+  const E = normWords(expected).filter(w => !STOP.has(w)).map(stem), H = new Set(normWords(heard).map(stem));
+  if (!E.length) return normWords(heard).length ? 1 : 0;
+  return E.filter(w => H.has(w)).length / E.length;
+}
+let NOISE = 0.01;
+function coachSay(key) { return hasAudio('COACH') && AIDX.COACH.seg[key] ? play('COACH', key) : sayTTS(COACH_TEXT[key], 0.95); }
+const pickKey = p => { const ks = Object.keys(COACH_TEXT).filter(k => k[0] === p); return ks[Math.floor(Math.random() * ks.length)]; };
+
+// Record until the speaker stops talking (or max seconds). onLevel gets 0..1 for the meter.
+async function listenAuto({ maxSec = 20, silence = 1.3, wait0 = 8, onLevel } = {}) {
+  await startRec(); const t0 = Date.now(); let spoke = false, quiet = 0, seen = 0, floor = [];
+  return new Promise(res => {
+    const iv = setInterval(async () => {
+      if (!rec) { clearInterval(iv); return; }
+      const ch = rec.chunks; if (ch.length === seen) return; const last = ch[ch.length - 1]; seen = ch.length;
+      let e = 0; for (let i = 0; i < last.length; i++) e += last[i] * last[i]; const rms = Math.sqrt(e / last.length);
+      const now = Date.now();
+      if (now - t0 < 350) { floor.push(rms); return; }
+      if (floor.length) { NOISE = Math.max(0.004, floor.reduce((a, b) => a + b, 0) / floor.length); floor = []; }
+      const thr = Math.max(0.012, NOISE * 3);
+      onLevel && onLevel(Math.min(1, rms / (thr * 4)));
+      if (rms > thr) { spoke = true; quiet = 0; } else if (spoke && !quiet) quiet = now;
+      const done = (spoke && quiet && now - quiet > silence * 1000) || now - t0 > maxSec * 1000 || (!spoke && now - t0 > wait0 * 1000);
+      if (done || listenAuto.force) { listenAuto.force = false; clearInterval(iv); res(await stopRec()); }
+    }, 90);
+  });
+}
+
+function chatUI(title, sub) {
+  h(`<div class="card chatcard"><div class="row" style="justify-content:space-between"><b>${esc(title)}</b><span class="muted">${esc(sub || '')}</span></div>
+    <div id="chat" class="chat"></div>
+    <div class="micbar"><div class="meter"><i id="lvl"></i></div><span id="mst" class="muted">…</span>
+      <div class="row" style="justify-content:center"><button class="btn small" id="cStop">■ خلّصت كلامي</button><button class="btn small" id="cHint">💡 تلميح</button><button class="btn small" id="cRep">🔁 كرر</button><button class="btn small" id="cSkip">⏭ تخطّي</button></div></div></div>`);
+  $('#cStop').onclick = () => { listenAuto.force = true; };
+}
+function bubble(who, en, ar, extra = '') {
+  const c = $('#chat'); if (!c) return null;
+  const d = document.createElement('div'); d.className = `bub ${who}`;
+  d.innerHTML = `${en ? `<div class="en">${en}</div>` : ''}${ar ? `<div class="ar">${esc(ar)}</div>` : ''}${extra}`;
+  c.appendChild(d); d.scrollIntoView({ block: 'end', behavior: 'smooth' }); return d;
+}
+const mst = t => { const e = $('#mst'); if (e) e.textContent = t; };
+const lvl = v => { const e = $('#lvl'); if (e) e.style.width = `${Math.round(v * 100)}%`; };
+function pwHTML(pw, heard) {
+  if (!pw || !pw.length) return esc(heard || '…');
+  return pw.map(w => { const sc = Math.round(w.p * 100), cls = sc >= GOOD ? 'w-ok' : sc >= 40 ? 'w-mid' : 'w-bad';
+    return `<span class="${cls}" ${sc < GOOD ? `data-w="${esc(w.word.replace(/[^A-Za-z']/g, ''))}"` : ''}>${esc(w.word)}<sub>${sc}</sub></span>`; }).join(' ');
+}
+// one listening turn, returns {x, heard, pw}
+async function turn(ref, opts = {}) {
+  mst('🎙️ بسمعك… اتكلم'); lvl(0);
+  const x = await listenAuto({ ...opts, onLevel: lvl }); lvl(0);
+  if (!$('#chat')) return null;
+  if (x.length < 16000 * 0.4) return { x, heard: '', pw: [] };
+  mst('⏳ بيحلل…');
+  if (ref) { const r = await analyzeSpeech(x, ref); return { x, heard: r.text, pw: r.words }; }
+  return { x, heard: await transcribe(x), pw: null };
+}
+let cSkip = false, cRep = null, cHint = null;
+function bindChatBtns() {
+  $('#cSkip').onclick = () => { cSkip = true; listenAuto.force = true; };
+  $('#cRep').onclick = () => cRep && cRep();
+  $('#cHint').onclick = () => cHint && cHint();
+}
+
+// Drill one word: model it slowly twice, then the learner says it in a short frame.
+async function drillWord(word) {
+  await coachSay(pickKey('w')); bubble('bot', `<b>${esc(word)}</b>`, C.pronTips(word)[0] || '');
+  for (let t = 0; t < 2; t++) {
+    await sayTTS(word, 0.55); await wait(200); await sayTTS(word, 0.85);
+    const frame = `Say ${word} again.`; bubble('hint', esc(frame), 'قول الجملة دي');
+    const r = await turn(frame, { maxSec: 6, wait0: 6 }); if (!r || cSkip) return;
+    const sc = r.pw?.find(z => z.word.toLowerCase().replace(/[^a-z']/g, '') === word.toLowerCase()); const s100 = sc ? Math.round(sc.p * 100) : 0;
+    bubble('me', pwHTML(r.pw, r.heard));
+    if (s100 >= 75) { const m = S.mistakes.words[word.toLowerCase()]; if (m) m.fixed = true; award(5); await coachSay(pickKey('g')); return; }
+    await coachSay('a0');
+  }
+}
+// Backward build-up: "...applications" → "payment applications" → … → the whole sentence.
+async function buildUp(sentence, id, key) {
+  const words = sentence.replace(/[.,!?]/g, '').split(/\s+/); await coachSay('b0');
+  for (let n = Math.min(3, words.length); ; n = Math.min(words.length, n + 3)) {
+    const part = words.slice(words.length - n).join(' ');
+    bubble('bot', esc(part), ''); n === words.length && id ? await play(id, key) : await sayTTS(part, 0.8);
+    const r = await turn(part, { maxSec: 12 }); if (!r || cSkip) return false;
+    bubble('me', pwHTML(r.pw, r.heard));
+    if (n === words.length) return align(part, r.heard).accuracy >= 80;
+  }
+}
+
+async function convoRun(L, header, next) {
+  cSkip = false; currentLessonId = L.id;
+  chatUI(`💬 محادثة مع ${L.eng.name}`, 'التطبيق بيسمعك لوحده — اتكلم لما يقولك "دورك"'); bindChatBtns();
+  if ($('#chat')) $('#chat').insertAdjacentHTML('beforebegin', header);
+  const score = { lines: 0, good: 0, pron: [], fixes: 0 };
+  try { await ctx().resume(); } catch {}
+  for (let i = 0; i < L.dialogue.length; i++) {
+    if (!$('#chat')) return;
+    const d = L.dialogue[i];
+    if (d[0] !== 'QS') { bubble('bot', esc(d[1]), d[2]); cRep = () => play(L.id, 'd' + i); await play(L.id, 'd' + i); await wait(250); continue; }
+    // learner's line: show the Arabic meaning, he says it in English from memory
+    cSkip = false; score.lines++;
+    const hintB = bubble('hint', '', `دورك: قول بالإنجليزي — ${d[2]}`);
+    cHint = () => { hintB.insertAdjacentHTML('afterbegin', `<div class="en">${esc(d[1])}</div>`); cHint = null; };
+    cRep = () => play(L.id, 'd' + i);
+    await coachSay('y0');
+    let done = false;
+    for (let att = 0; att < 3 && !done && !cSkip; att++) {
+      const r = await turn(d[1]); if (!r) return; if (cSkip) break;
+      if (!r.heard) { await coachSay(pickKey('n')); continue; }
+      const ov = overlap(d[1], r.heard), pr = pronOf(r.pw) ?? 0, fx = C.recast(r.heard).fixes;
+      bubble('me', pwHTML(r.pw, r.heard), '', `<div class="muted" style="font-size:12px">النطق ${pr}/100 · المعنى ${Math.round(ov * 100)}%</div>`);
+      notePron(r.pw || []); noteGrammar(fx);
+      if (ov >= 0.75 && pr >= GOOD && !fx.length) { score.good++; score.pron.push(pr); award(4); await coachSay(pickKey('g')); done = true; break; }
+      if (ov >= 0.5) {
+        score.pron.push(pr);
+        if (fx.length) { score.fixes++; bubble('fix', fx.map(f => `❌ ${esc(f.wrong)} → ✅ <b>${esc(f.right)}</b>`).join('<br>'), fx[0].ar); }
+        if (fx.length || ov < 0.75) { await coachSay(pickKey('m')); bubble('bot', esc(d[1]), d[2]); await play(L.id, 'd' + i); await coachSay('y0'); continue; }
+        const worst = (r.pw || []).filter(w => w.p * 100 < GOOD).sort((a, b) => a.p - b.p)[0];
+        if (worst) await drillWord(worst.word.replace(/[^A-Za-z']/g, ''));
+        done = true; break;
+      }
+      // not understood
+      if (att === 0) { await coachSay('a0'); cHint && cHint(); await play(L.id, 'd' + i); }
+      else { done = await buildUp(d[1], L.id, 'd' + i); }
+    }
+    cHint = null; await wait(200);
+  }
+  // free questions about the situation
+  for (let k = 0; k < L.tasks.length && $('#chat'); k++) {
+    cSkip = false; const t = L.tasks[k];
+    await coachSay('q0'); bubble('bot', esc(t.q), t.q_ar); cRep = () => sayTTS(t.q, 0.9); await sayTTS(t.q, 0.9);
+    cHint = () => { bubble('hint', esc(t.keys.join(' · ')), 'استخدم العبارات دي'); cHint = null; };
+    const r = await turn(null, { maxSec: answerSecs(), silence: 2.2, wait0: 10 }); if (!r) return; if (cSkip || !r.heard) continue;
+    const f = fluency(r.x, 16000, normWords(r.heard).length), g = gradeTask(t, r.heard, f, answerSecs()), rc = C.recast(r.heard);
+    bubble('me', esc(r.heard), '', `<div class="muted" style="font-size:12px">${g.words} كلمة · ${f.wpm} كلمة/دقيقة · عبارات الدرس: ${g.keys.length}</div>`);
+    noteGrammar(rc.fixes);
+    if (rc.fixes.length) { score.fixes++; bubble('fix', rc.fixes.map(z => `❌ ${esc(z.wrong)} → ✅ <b>${esc(z.right)}</b>`).join('<br>'), rc.fixes[0].ar); await coachSay('m0'); await sayTTS(rc.text, 0.9); }
+    else if (g.ok) { await coachSay(pickKey('g')); award(8); }
+    if (!g.ok || g.keys.length < 2) { await coachSay('h0'); bubble('bot', esc(t.model), ''); await play(L.id, 'm' + k); }
+  }
+  if (!$('#chat')) return;
+  const avg = score.pron.length ? Math.round(score.pron.reduce((a, b) => a + b, 0) / score.pron.length) : 0;
+  await coachSay('e0');
+  bubble('sum', `<b>${score.good}/${score.lines}</b> جمل ممتازة من أول مرة · النطق ${avg}/100 · تصحيحات ${score.fixes}`, 'الكلمات الملوّنة اتضافت لدفتر أخطائك.');
+  log('convo', { label: 'محادثة تفاعلية', score: `${avg}` });
+  mst('✅ خلصت المحادثة'); const b = document.createElement('button'); b.className = 'btn primary block'; b.textContent = 'التالي ←'; b.onclick = next; $('.micbar').appendChild(b);
+}
+
+// ---------- free AI conversation (online, optional: uses your own Anthropic API key) ----------
+const AI_MODEL = 'claude-haiku-5-5';
+async function aiReply(L, history) {
+  const sys = `You are ${L.eng.name}, a ${L.eng.role} on a bulk earthworks site in Riyadh (New Murabba-type project). You are talking with Hassan, the site quantity surveyor, who is practising spoken English at CEFR level ${LEVEL_NAMES[S.level]}. Today's situation: ${L.title} — ${L.scene}
+Rules: stay in role and keep the conversation going naturally about site work; reply in 1–2 short spoken sentences using vocabulary of level ${LEVEL_NAMES[S.level]}; end with a question most of the time. If Hassan's last message has a grammar or word-choice mistake, give ONE gentle correction. His text comes from speech recognition, so ignore punctuation and small spelling noise.
+Return ONLY JSON: {"reply": "...", "reply_ar": "Egyptian Arabic translation of reply", "correction": null or {"wrong": "...", "right": "...", "why_ar": "short Egyptian Arabic explanation"}, "better": null or "a more natural way to say Hassan's whole last sentence"}`;
+  const r = await fetch('https://api.anthropic.com/v1/messages', {
+    method: 'POST',
+    headers: { 'content-type': 'application/json', 'x-api-key': S.aiKey, 'anthropic-version': '2023-06-01', 'anthropic-dangerous-direct-browser-access': 'true' },
+    body: JSON.stringify({ model: AI_MODEL, max_tokens: 400, system: sys, messages: history }),
+  });
+  if (!r.ok) throw new Error(`AI ${r.status}: ${(await r.text()).slice(0, 160)}`);
+  const j = await r.json(); const txt = j.content?.map(c => c.text || '').join('') || '';
+  const m = txt.match(/\{[\s\S]*\}/); return m ? JSON.parse(m[0]) : { reply: txt, reply_ar: '' };
+}
+async function aiConvo() {
+  setNav(''); const L = lesson() || DATA.lessons[0];
+  if (!S.aiKey) { return h(`<div class="card"><h2>🤖 محادثة حرة مع الذكاء الاصطناعي</h2><p>المحادثة الحرة (زي ChatGPT) محتاجة نت ومفتاح API خاص بيك من Anthropic. حطه من ⚙️ الإعدادات ← "الذكاء الاصطناعي".</p><p class="muted">من غير مفتاح، استخدم "💬 محادثة تفاعلية" — شغالة من غير نت.</p><button class="btn primary block" id="b">الإعدادات</button></div>`), $('#b').onclick = settings; }
+  if (!navigator.onLine) return toast('المحادثة الحرة محتاجة نت');
+  chatUI(`🤖 محادثة حرة مع ${L.eng.name}`, `موقف: ${L.title_ar}`); bindChatBtns(); $('#cHint').hidden = true;
+  const hist = []; let stop = false; cSkip = false;
+  const endB = document.createElement('button'); endB.className = 'btn block'; endB.textContent = 'إنهاء المحادثة'; endB.onclick = () => { stop = true; listenAuto.force = true; home(); }; $('.micbar').appendChild(endB);
+  try {
+    hist.push({ role: 'user', content: '(Start the conversation: greet Hassan and open today\'s situation with a question.)' });
+    for (let k = 0; k < 30 && !stop && $('#chat'); k++) {
+      mst('🤖 بيفكر…');
+      const a = await aiReply(L, hist); hist.push({ role: 'assistant', content: JSON.stringify(a) });
+      if (k > 0 && a.correction) { bubble('fix', `❌ ${esc(a.correction.wrong)} → ✅ <b>${esc(a.correction.right)}</b>`, a.correction.why_ar || ''); noteGrammar([{ wrong: a.correction.wrong, right: a.correction.right, ar: a.correction.why_ar || '' }]); }
+      if (k > 0 && a.better) bubble('hint', `✨ ${esc(a.better)}`, 'طريقة أطبع تقولها بيها');
+      bubble('bot', esc(a.reply), a.reply_ar); cRep = () => sayTTS(a.reply, 0.95); await sayTTS(a.reply, 0.95);
+      if (stop) break; cSkip = false;
+      const r = await turn(null, { maxSec: 40, silence: 1.8, wait0: 12 }); if (!r || stop) break;
+      if (!r.heard) { bubble('hint', '', 'ماسمعتش حاجة — اتكلم تاني'); k--; hist.pop(); hist.pop(); hist.push({ role: 'user', content: '(no answer)' }); continue; }
+      bubble('me', esc(r.heard)); award(3);
+      hist.push({ role: 'user', content: r.heard });
+    }
+  } catch (e) { bubble('fix', esc(String(e.message || e)), 'اتأكد من النت ومن مفتاح الـ API في الإعدادات'); }
+}
+
 // ---------- settings ----------
 function settings() {
   stopAudio(); setNav('');
@@ -1140,6 +1349,10 @@ function settings() {
     <div style="height:8px"></div>
     <button class="btn block" id="ntf">🔔 فعّل تنبيهات التطبيق</button>
     <p class="muted">أضمن طريقة للتنبيه: ملف التقويم (افتحه وأضفه لتقويم الموبايل). تنبيهات التطبيق بتظهر لما يكون التطبيق مفتوح أو متفتح من قريب.</p>
+    <h3>🤖 الذكاء الاصطناعي (اختياري)</h3>
+    <p class="muted">للمحادثة الحرة زي ChatGPT: محتاج نت ومفتاح API خاص بيك من console.anthropic.com (بيتحسب بالاستخدام، تكلفة صغيرة). المفتاح بيتحفظ على الموبايل ده بس.</p>
+    <input id="aik" type="password" placeholder="sk-ant-…" value="${esc(S.aiKey || '')}" style="width:100%;padding:12px;border-radius:10px;border:1px solid var(--line);font-family:inherit">
+    <div class="row" style="margin-top:8px"><button class="btn small" id="aiS">حفظ</button><button class="btn small" id="aiD">مسح</button></div>
     <h3>نسخة احتياطية من تقدمك</h3>
     <div class="row"><button class="btn" id="exp">⬇ حفظ ملف التقدم</button><label class="btn">⬆ استرجاع<input type="file" id="imp" accept="application/json" hidden></label></div>
     <p class="muted">التقدم محفوظ على الموبايل ده بس. احفظ نسخة كل فترة.</p>
@@ -1147,8 +1360,10 @@ function settings() {
   $('#svS').onclick = () => { const d = [...view.querySelectorAll('.dd:checked')].map(x => +x.value); if (!d.length) return toast('اختار يوم واحد على الأقل'); S.sched.days = d; S.sched.time = $('#tm').value || '21:00'; save(); toast('اتحفظ ✅ نزّل ملف التقويم تاني'); };
   $('#ics').onclick = () => { const a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([C.icsFile(S.sched, S.courseStart)], { type: 'text/calendar' })); a.download = 'site-talk-classes.ics'; a.click(); };
   $('#ntf').onclick = async () => { if (!('Notification' in window)) return toast('المتصفح ده مايدعمش التنبيهات'); const p = await Notification.requestPermission(); toast(p === 'granted' ? 'التنبيهات اتفعلت ✅' : 'التنبيهات مش مفعلة'); if (p === 'granted') remind(true); };
+  $('#aiS').onclick = () => { S.aiKey = $('#aik').value.trim(); save(); toast(S.aiKey ? 'اتحفظ ✅' : 'اتمسح'); };
+  $('#aiD').onclick = () => { S.aiKey = ''; $('#aik').value = ''; save(); toast('اتمسح'); };
   $('#model').onchange = e => { S.model = e.target.value; asr = null; asrLoading = null; save(); toast('اتغير. نزّل الملفات تاني من الرئيسية.'); };
-  $('#exp').onclick = () => { const a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([JSON.stringify(S)], { type: 'application/json' })); a.download = `sitetalk-progress-${new Date().toISOString().slice(0, 10)}.json`; a.click(); };
+  $('#exp').onclick = () => { const a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([JSON.stringify({ ...S, aiKey: undefined })], { type: 'application/json' })); a.download = `sitetalk-progress-${new Date().toISOString().slice(0, 10)}.json`; a.click(); };
   $('#imp').onchange = async e => { try { const o = JSON.parse(await e.target.files[0].text()); if (typeof o.level !== 'number') throw 0; S = Object.assign(structuredClone(DEFAULT), o); save(); toast('اتسترجع التقدم ✅'); home(); } catch { toast('الملف مش صالح'); } };
 }
 

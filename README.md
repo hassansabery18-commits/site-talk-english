@@ -16,3 +16,5 @@ The app is the static site in this folder (GitHub Pages). `src/` holds the lesso
 - Per-word pronunciation score (0–100) from the offline Whisper model (teacher-forced probability of each reference word), tap any weak word for a slow model, tips for Arabic speakers and a single-word retry.
 - Rule-based correction of common grammar errors in free speaking, with the corrected sentence ("recast").
 - Spaced repetition (1/2/4/7/14/30/60 days) of every mastered phrase, mistakes notebook, site missions, commute (hands-free) mode, site phrasebook, class reminders (.ics calendar export + in-app notifications).
+- Interactive conversation coach (offline): the lesson character talks with you, automatic turn-taking (voice activity detection), per-word scoring, spoken teacher reactions (natural pre-recorded coach voice), recasts, single-word drills and backward build-up of hard sentences, then free questions with grammar correction and a model answer.
+- Optional free conversation with AI (online, your own Anthropic API key stored only on the phone).
