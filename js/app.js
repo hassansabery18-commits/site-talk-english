@@ -1340,6 +1340,9 @@ function settings() {
   h(`<div class="card"><h2>الإعدادات</h2>
     <h3>محلل الصوت</h3><select id="model">${Object.entries(MODELS).map(([k, m]) => `<option value="${k}" ${S.model === k ? 'selected' : ''}>${m.label}</option>`).join('')}</select>
     <p class="muted">لو الموبايل بطيء أو التطبيق بيقفل وقت التحليل، جرّب "خفيف". بعد التغيير اضغط "نزّل كل حاجة" تاني.</p>
+    <h3>📶 التنزيل للاستخدام من غير نت</h3>
+    <p id="offStat" class="muted">بيحسب…</p><div class="bar"><i id="offBar"></i></div><div style="height:8px"></div>
+    <button class="btn block primary" id="dl">⬇️ نزّل كل حاجة (مرة واحدة على الواي فاي)</button>
     <h3>⏰ مواعيد الحصص والتنبيهات</h3>
     <p class="muted">أيام الدرس الجديد (الطريقة 2 بتبقى تاني يوم في نفس المعاد):</p>
     <div class="row">${[6, 0, 1, 2, 3, 4, 5].map(d => `<label class="chip"><input type="checkbox" class="dd" value="${d}" ${S.sched.days.includes(d) ? 'checked' : ''}>${C.DAY_AR[d]}</label>`).join('')}</div>
@@ -1360,6 +1363,7 @@ function settings() {
   $('#svS').onclick = () => { const d = [...view.querySelectorAll('.dd:checked')].map(x => +x.value); if (!d.length) return toast('اختار يوم واحد على الأقل'); S.sched.days = d; S.sched.time = $('#tm').value || '21:00'; save(); toast('اتحفظ ✅ نزّل ملف التقويم تاني'); };
   $('#ics').onclick = () => { const a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([C.icsFile(S.sched, S.courseStart)], { type: 'text/calendar' })); a.download = 'site-talk-classes.ics'; a.click(); };
   $('#ntf').onclick = async () => { if (!('Notification' in window)) return toast('المتصفح ده مايدعمش التنبيهات'); const p = await Notification.requestPermission(); toast(p === 'granted' ? 'التنبيهات اتفعلت ✅' : 'التنبيهات مش مفعلة'); if (p === 'granted') remind(true); };
+  $('#dl').onclick = () => downloadAll(); refreshOfflineStatus();
   $('#aiS').onclick = () => { S.aiKey = $('#aik').value.trim(); save(); toast(S.aiKey ? 'اتحفظ ✅' : 'اتمسح'); };
   $('#aiD').onclick = () => { S.aiKey = ''; $('#aik').value = ''; save(); toast('اتمسح'); };
   $('#model').onchange = e => { S.model = e.target.value; asr = null; asrLoading = null; save(); toast('اتغير. نزّل الملفات تاني من الرئيسية.'); };
