@@ -241,7 +241,7 @@ async function home() {
       <p class="muted center">🔒 الدرس اللي بعده مقفول لحد ما تسمع وتعيد الدرس ده بالطريقتين وتنجح في اختباره.</p>
     </div>`;
   }
-  h(`${banner()}${main}
+  h(`${offlineCard()}${banner()}${main}
   <div class="card"><h2>⚡ تدريب سريع</h2><div class="grid2">
     <button class="btn" id="goRev">🔁 مراجعة اليوم (${C.srsStats(S).due})</button>
     <button class="btn" id="goMis">📒 أخطائي (${Object.values(S.mistakes.words).filter(w => !w.fixed).length + Object.keys(S.mistakes.grammar).length})</button>
@@ -262,7 +262,6 @@ async function home() {
     <div style="margin-top:12px" class="bar"><i style="width:${pct}%"></i></div>
     <p class="muted">المدة بتبدأ دقيقتين وبتزيد لحد 30 دقيقة، بعد ${UP_AFTER} دروس ورا بعض تتقنهم بـ 90% أو أكتر من أول أو تاني محاولة. سرعة الكلام بتزيد تدريجيًا مع الدروس والمستويات.</p>
   </div>
-  ${offlineCard()}
   ${historyCard()}`);
   $('#goA')?.addEventListener('click', () => session('A'));
   $('#goB')?.addEventListener('click', () => session('B'));
@@ -291,7 +290,7 @@ function offlineUrls() {
   return { shell, audio, model: [...m.enc, ...m.dec, m.tok] };
 }
 function offlineCard() {
-  return `<div class="card"><h2>📶 الاستخدام من غير نت</h2><p id="offStat" class="muted">بيحسب…</p>
+  return `<div class="card offcard" style="border:2px solid var(--accent)"><h2>📶 الاستخدام من غير نت</h2><p id="offStat" class="muted">بيحسب…</p>
     <div class="bar"><i id="offBar"></i></div><div style="height:10px"></div>
     <button class="btn block" id="dl">نزّل كل حاجة على الموبايل (مرة واحدة على الواي فاي)</button></div>`;
 }
@@ -300,6 +299,7 @@ async function refreshOfflineStatus() {
   const c = await caches.open(CACHE); const u = offlineUrls(); const all = [...u.shell, ...u.audio, ...u.model];
   let have = 0; for (const x of all) if (await c.match(x)) have++;
   el.textContent = have === all.length ? '✅ كل حاجة متنزلة. التطبيق يشتغل من غير نت.' : `متنزل ${have} من ${all.length} ملف.`;
+  const card = el.closest('.offcard'); if (card && have === all.length) card.hidden = true;
   const b = $('#offBar'); if (b) b.style.width = `${Math.round(100 * have / all.length)}%`;
 }
 async function downloadAll() {
